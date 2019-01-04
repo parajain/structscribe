@@ -1,0 +1,7 @@
+PREFIX dbp: <http://dbpedia.org/ontology/>
+
+SELECT ?subclass {
+  ?subclass rdfs:subClassOf* dbp:Agent .
+}
+
+http://wafi.iit.cnr.it/lod/sparql/

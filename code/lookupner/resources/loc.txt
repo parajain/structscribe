@@ -1,0 +1,5 @@
+http://dbpedia.org/ontology/Area
+http://dbpedia.org/ontology/GeneLocation
+http://dbpedia.org/ontology/MouseGeneLocation
+http://dbpedia.org/ontology/HumanGeneLocation
+http://dbpedia.org/ontology/Identifier

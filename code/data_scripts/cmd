@@ -1,0 +1,9 @@
+python extract_three_column_data.py /data1/data1/Abhijit/Graph2Text/yago/Facts_tagged
+
+
+python method2_classifier_seq2seq_generator.py /data1/data1/Abhijit/Graph2Text/massive_classifier_method1/version2/Facts_Tax_OpenIE_verbnet_data_filtered_rellen_relfreq_validner.tsv
+
+
+The first script dumps Facts_tagged_classifier_data.tsv in /data1/data1/Abhijit/Graph2Text/yago/
+
+The second script dumps in the directory of the method2_classifier_seq2seq_generator.py program. Generates three files (1) small_classifier.tsv (2) seq2seq.src and (3) seq2seq.tgt

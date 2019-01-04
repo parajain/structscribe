@@ -1,0 +1,18 @@
+PERSON:: FictionalCharacter, Person, EthnicGroup, Species
+NORP::
+FACILITY:: Place
+ORG:: Organisation, Employer, Family
+GPE::
+LOC:: Area, GeneLocation, Identifier, Place2
+PRODUCT:: AnatomicalStructure, Award, Biomolecule, Blazon, ChemicalSubstance, Color, Device, Disease, Flag, Food, MeanOfTransportation, Media
+EVENT:: Activity, Diploma, Event, Holiday 
+WORK_OF_ART:: ElectionDiagram, Work 
+LAW::
+LANGUAGE:: Language, 
+DATE:: SportsSeason, TimePeriod 
+TIME::
+PERCENT::
+MONEY:: Currency, MedicalSpecialty, 
+QUANTITY:: Demographics, HumanDevelopmentIndex, Population 
+ORDINAL::
+CARDINAL::

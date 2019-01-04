@@ -1,0 +1,8 @@
+{
+    "withoutClassifierS2SModel":"/data1/struct2text/s2s_one_models/model_softmax_1_acc_96.73_ppl_1.67_e5.pt",
+    "withoutClassifierMultiWordS2SModel":"/data1/struct2text/s2s_multi_models/model_softmax_2_acc_99.90_ppl_1.01_e7.pt",
+    "withoutClassifierSingleWordS2SModel":"/data1/struct2text/s2s_single_models/model_softmax_acc_97.92_ppl_1.28_e21.pt",
+    "multiWordSimpleS2SModel":"/data1/models/simple/model_softmax_acc_90.54_ppl_1.42_e12.pt",
+    "multiWordMergeS2SModel":"/data1/models/merge/model_softmax_acc_88.99_ppl_1.50_e13.pt",
+    "s2s_port":9911
+}

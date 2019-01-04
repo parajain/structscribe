@@ -1,0 +1,1121 @@
+Party##active voters####Republican##13,916||Party##inactive voters####Republican##5,342||Party##total voters####Republican##19,258||Party##percentage####Republican##25.61%
+Party##active voters####Democratic##21,493||Party##inactive voters####Democratic##7,115||Party##total voters####Democratic##28,608||Party##percentage####Democratic##38.05%
+Party##active voters####Unaffiliated##20,118||Party##inactive voters####Unaffiliated##7,062||Party##total voters####Unaffiliated##27,180||Party##percentage####Unaffiliated##36.15%
+Party##active voters####Minor parties##100||Party##inactive voters####Minor parties##40||Party##total voters####Minor parties##140||Party##percentage####Minor parties##0.19%
+District##area size (km)####Yamato flat inland plain##837.27||District##population####Yamato flat inland plain##1,282||District##density per km####Yamato flat inland plain##1,531
+District##area size (km)####Yamato highland##506.89||District##population####Yamato highland##56||District##density per km####Yamato highland##110
+District##area size (km)####Goj, Yoshino##2,346.84||District##population####Goj, Yoshino##92||District##density per km####Goj, Yoshino##39
+Party##active voters####Democratic##3,683||Party##inactive voters####Democratic##251||Party##total voters####Democratic##3,934||Party##percentage####Democratic##36.93%
+Party##active voters####Republican##1,322||Party##inactive voters####Republican##78||Party##total voters####Republican##1,400||Party##percentage####Republican##13.14%
+Party##active voters####Unaffiliated##4,709||Party##inactive voters####Unaffiliated##606||Party##total voters####Unaffiliated##5,315||Party##percentage####Unaffiliated##49.90%
+Party##active voters####Minor Parties##3||Party##inactive voters####Minor Parties##0||Party##total voters####Minor Parties##3||Party##percentage####Minor Parties##0.03%
+Event##date####1st drop fell##Dec-38||Event##duration (months)####1st drop fell##96107||Event##duration (years)####1st drop fell##8.08.9
+Event##date####2nd drop fell##Feb-47||Event##duration (months)####2nd drop fell##99||Event##duration (years)####2nd drop fell##8.2
+Event##date####3rd drop fell##Apr-54||Event##duration (months)####3rd drop fell##86||Event##duration (years)####3rd drop fell##7.2
+Event##date####4th drop fell##May-62||Event##duration (months)####4th drop fell##97||Event##duration (years)####4th drop fell##8.1
+Event##date####5th drop fell##Aug-70||Event##duration (months)####5th drop fell##99||Event##duration (years)####5th drop fell##8.3
+Event##date####6th drop fell##Apr-79||Event##duration (months)####6th drop fell##104||Event##duration (years)####6th drop fell##8.7
+Event##date####7th drop fell##Jul-88||Event##duration (months)####7th drop fell##111||Event##duration (years)####7th drop fell##9.2
+Event##date####8th drop fell##28-Nov-00||Event##duration (months)####8th drop fell##148||Event##duration (years)####8th drop fell##12.3
+Region##population####Danish Capital Region##1,823,109||Region##area####Danish Capital Region##2,864km||Region##density####Danish Capital Region##636.5/km
+Region##population####Remainder##608,036||Region##area####Remainder##6,970km||Region##density####Remainder##87.2/km
+Region##population####South Skne##683,886||Region##area####South Skne##2,680km||Region##density####South Skne##255.1/km
+Region##population####West Skne##305,982||Region##area####West Skne##2,730km||Region##density####West Skne##112.1/km
+Region##population####North-East Skne##162,829||Region##area####North-East Skne##3,705km||Region##density####North-East Skne##43.9/km
+Country##amphibians####Belize##46||Country##birds####Belize##544||Country##mammals####Belize##147||Country##reptile####Belize##140||Country##total terrestrial vertebrates####Belize##877||Country##vascular plants####Belize##2894||Country##biodiversity####Belize##3771
+Country##amphibians####Costa Rica##183||Country##birds####Costa Rica##838||Country##mammals####Costa Rica##232||Country##reptile####Costa Rica##258||Country##total terrestrial vertebrates####Costa Rica##1511||Country##vascular plants####Costa Rica##12119||Country##biodiversity####Costa Rica##13630
+Country##amphibians####El Salvador##30||Country##birds####El Salvador##434||Country##mammals####El Salvador##137||Country##reptile####El Salvador##106||Country##total terrestrial vertebrates####El Salvador##707||Country##vascular plants####El Salvador##2911||Country##biodiversity####El Salvador##3618
+Country##amphibians####Guatemala##133||Country##birds####Guatemala##684||Country##mammals####Guatemala##193||Country##reptile####Guatemala##236||Country##total terrestrial vertebrates####Guatemala##1246||Country##vascular plants####Guatemala##8681||Country##biodiversity####Guatemala##9927
+Country##amphibians####Honduras##101||Country##birds####Honduras##699||Country##mammals####Honduras##201||Country##reptile####Honduras##213||Country##total terrestrial vertebrates####Honduras##1214||Country##vascular plants####Honduras##5680||Country##biodiversity####Honduras##6894
+Country##amphibians####Nicaragua##61||Country##birds####Nicaragua##632||Country##mammals####Nicaragua##181||Country##reptile####Nicaragua##178||Country##total terrestrial vertebrates####Nicaragua##1052||Country##vascular plants####Nicaragua##7590||Country##biodiversity####Nicaragua##8642
+Country##amphibians####Panama##182||Country##birds####Panama##904||Country##mammals####Panama##241||Country##reptile####Panama##242||Country##total terrestrial vertebrates####Panama##1569||Country##vascular plants####Panama##9915||Country##biodiversity####Panama##11484
+Ship##nationality####SS Aguila##United Kingdom||Ship##tonnage####SS Aguila##3,255||Ship##fate####SS Aguila##Sunk||Ship##date####SS Aguila##19-Aug-41
+Ship##nationality####HMASParramatta##Royal Australian Navy||Ship##tonnage####HMASParramatta##1,060||Ship##fate####HMASParramatta##Sunk||Ship##date####HMASParramatta##27-Nov-41
+Ship##nationality####SSShuntien##United Kingdom||Ship##tonnage####SSShuntien##3,059||Ship##fate####SSShuntien##Sunk||Ship##date####SSShuntien##23-Dec-41
+Ship##nationality####SS Warszawa##Poland||Ship##tonnage####SS Warszawa##2,487||Ship##fate####SS Warszawa##Sunk||Ship##date####SS Warszawa##26-Dec-41
+Ship##nationality####MV Athene##Norway||Ship##tonnage####MV Athene##4,681||Ship##fate####MV Athene##Sunk||Ship##date####MV Athene##10-Jun-42
+Ship##nationality####SS Brambleleaf##United Kingdom||Ship##tonnage####SS Brambleleaf##5,917||Ship##fate####SS Brambleleaf##Damaged||Ship##date####SS Brambleleaf##10-Jun-42
+Parish##church name####Alstadhaug##Alstadhaug Church||Parish##location####Alstadhaug##Alstadhaug||Parish##year built####Alstadhaug##1180
+Parish##church name####Ekne##Ekne Church||Parish##location####Ekne##Ekne||Parish##year built####Ekne##1893
+Parish##church name####Levanger##Levanger Church||Parish##location####Levanger##Levanger||Parish##year built####Levanger##1902
+Parish##church name####Levanger##Bamberg Church||Parish##location####Levanger##Levanger||Parish##year built####Levanger##1998
+Parish##church name####Markabygd##Markabygda Church||Parish##location####Markabygd##Markabygd||Parish##year built####Markabygd##1887
+Parish##church name####Okkenhaug##Okkenhaug Chapel||Parish##location####Okkenhaug##Okkenhaug||Parish##year built####Okkenhaug##1893
+Parish##church name####Yttery##Yttery Church||Parish##location####Yttery##Ytterya||Parish##year built####Yttery##1890
+Parish##church name####sen##sen Church||Parish##location####sen##sen||Parish##year built####sen##1904
+Vessel##captor####Porpoise##Raritan||Vessel##date####Porpoise##23 January 1845||Vessel##location####Porpoise##Rio de Janeiro
+Vessel##captor####Albert##Bainbridge||Vessel##date####Albert##June 1845||Vessel##location####Albert##Bahia
+Vessel##captor####Laurens##Onkahye||Vessel##date####Laurens##23 January 1848||Vessel##location####Laurens##Rio de Janeiro
+Vessel##captor####A.D. Richardson##Perry||Vessel##date####A.D. Richardson##11 December 1848||Vessel##location####A.D. Richardson##Rio de Janeiro
+Vessel##captor####Independence##Perry||Vessel##date####Independence##13 December 1848||Vessel##location####Independence##Rio de Janeiro
+Vessel##captor####Susan##Perry||Vessel##date####Susan##6 February 1849||Vessel##location####Susan##Rio de Janeiro
+Label##format####Warner Music Group##CD, digital download||Label##region####Warner Music Group##Australia[citation needed]
+Label##format####Atlantic Records##CD, digital download||Label##region####Atlantic Records##United Kingdom
+Label##format####Atlantic Records##CD, digital download||Label##region####Atlantic Records##France
+Label##format####Atlantic Records##CD, digital download||Label##region####Atlantic Records##United States
+Label##format####Warner Music Group##CD, digital download||Label##region####Warner Music Group##Canada
+Label##format####Atlantic Records##CD, digital download||Label##region####Atlantic Records##Germany
+Label##format####Atlantic Records##CD, digital download||Label##region####Atlantic Records##Austria
+Label##format####Atlantic Records##CD, digital download||Label##region####Atlantic Records##Switzerland
+State##passed####Texas##February 1, 1861.[7]||State##referendum####Texas##February 23||State##vote####Texas##46,153-14,747
+State##passed####Virginia##April 17, 1861.[8]||State##referendum####Virginia##May 23||State##vote####Virginia##132,201-37,451
+State##passed####Tennessee##May 6, 1861.[10]||State##referendum####Tennessee##June 8||State##vote####Tennessee##104,471-47,183
+Title##role####Voyagers!##Phineas Bogg
+Title##role####Making of a Male Model##Tyler Burnett
+Title##role####Hotel##Prince Erik
+Title##role####Cover Up##Mac Harper
+Parish (Sokn)##church name####Gildeskl##Gildeskl Church||Parish (Sokn)##location of the church####Gildeskl##Inndyr||Parish (Sokn)##year built####Gildeskl##1881
+Parish (Sokn)##church name####Gildeskl##Old Gildeskl Church||Parish (Sokn)##location of the church####Gildeskl##Inndyr||Parish (Sokn)##year built####Gildeskl##1100s
+Parish (Sokn)##church name####Gildeskl##Saura Church||Parish (Sokn)##location of the church####Gildeskl##Saura||Parish (Sokn)##year built####Gildeskl##1884
+Parish (Sokn)##church name####Gildeskl##Mevik Chapel||Parish (Sokn)##location of the church####Gildeskl##Mevik||Parish (Sokn)##year built####Gildeskl##1910
+Parish (Sokn)##church name####Gildeskl##Nordstranda Chapel||Parish (Sokn)##location of the church####Gildeskl##Lekanger||Parish (Sokn)##year built####Gildeskl##1963
+Parish (Sokn)##church name####Gildeskl##Srfjorden Chapel||Parish (Sokn)##location of the church####Gildeskl##Srfinnset||Parish (Sokn)##year built####Gildeskl##1957
+Party##candidate####Labour##Martin O'Neill||Party##votes####Labour##16,004||Party##percentage####Labour##45.3
+Party##candidate####SNP##Keith Brown||Party##votes####SNP##10,655||Party##percentage####SNP##30.2
+Party##candidate####Conservative##Alasdair Campbell||Party##votes####Conservative##4,235||Party##percentage####Conservative##12
+Party##candidate####Liberal Democrat##Paul Edie||Party##votes####Liberal Democrat##3,253||Party##percentage####Liberal Democrat##9.2
+Party##candidate####Scottish Socialist##Pauline Thomson||Party##votes####Scottish Socialist##751||Party##percentage####Scottish Socialist##2.1
+Party##candidate####Monster Raving Loony##Flash Gordon Approaching||Party##votes####Monster Raving Loony##405||Party##percentage####Monster Raving Loony##1.1
+Party##candidate####Majority##Majority||Party##votes####Majority##5,349||Party##percentage####Majority##15.2
+Party##candidate####Turnout##Turnout||Party##votes####Turnout##35,303||Party##percentage####Turnout##61.3
+Party##candidate####Labour hold##Labour hold||Party##votes####Labour hold##Swing||Party##percentage####Labour hold##2.3
+Single##year####Heavy##1999||Single##chart####Heavy##Billboard Hot 100||Single##position####Heavy##73
+Single##year####Heavy##1999||Single##chart####Heavy##Mainstream Rock Tracks||Single##position####Heavy##1
+Single##year####Heavy##1999||Single##chart####Heavy##Modern Rock Tracks||Single##position####Heavy##5
+Single##year####Run##1999||Single##chart####Run##Billboard Hot 100||Single##position####Run##76
+Single##year####Run##1999||Single##chart####Run##Modern Rock Tracks||Single##position####Run##36
+Single##year####Run##1999||Single##chart####Run##Adult Top 40||Single##position####Run##12
+Single##year####No More, No Less##1999||Single##chart####No More, No Less##Mainstream Rock Tracks||Single##position####No More, No Less##10
+Single##year####No More, No Less##1999||Single##chart####No More, No Less##Modern Rock Tracks||Single##position####No More, No Less##32
+Single##year####Tremble for My Beloved##1999||Single##chart####Tremble for My Beloved##Mainstream Rock Tracks||Single##position####Tremble for My Beloved##35
+Single##year####Sun Goddess##1975||Single##chart####Sun Goddess##Black Singles||Single##position####Sun Goddess##20
+Single##year####Sun Goddess##1975||Single##chart####Sun Goddess##Disco Singles||Single##position####Sun Goddess##5
+Single##year####Sun Goddess##1975||Single##chart####Sun Goddess##Pop Singles||Single##position####Sun Goddess##44
+Single##year####Can't Hide Love##1976||Single##chart####Can't Hide Love##Black Singles||Single##position####Can't Hide Love##11
+Single##year####Can't Hide Love##1976||Single##chart####Can't Hide Love##Pop Singles||Single##position####Can't Hide Love##39
+Single##year####Sing a Song/Gratitude##1976||Single##chart####Sing a Song/Gratitude##Club Play Singles||Single##position####Sing a Song/Gratitude##1
+Single##year####Sing a Song##1976||Single##chart####Sing a Song##Black Singles||Single##position####Sing a Song##1
+Single##year####Sing a Song##1976||Single##chart####Sing a Song##Pop Singles||Single##position####Sing a Song##5
+Party##candidate####Labour##Frank Dobson||Party##votes####Labour##14,857||Party##percentage####Labour##43.2||Party##increment####Labour##-10.7
+Party##candidate####Liberal Democrat##Jill Fraser||Party##votes####Liberal Democrat##10,070||Party##percentage####Liberal Democrat##29.3||Party##increment####Liberal Democrat##11.3
+Party##candidate####Conservative##Margot James||Party##votes####Conservative##6,482||Party##percentage####Conservative##18.9||Party##increment####Conservative##2
+Party##candidate####Green##Adrian Oliver||Party##votes####Green##2,798||Party##percentage####Green##8.1||Party##increment####Green##2.1
+Party##candidate####Rainbow Dream Ticket##Rainbow George Weiss||Party##votes####Rainbow Dream Ticket##152||Party##percentage####Rainbow Dream Ticket##0.4||Party##increment####Rainbow Dream Ticket##0.4
+Party##candidate####Turnout##Turnout||Party##votes####Turnout##34,359||Party##percentage####Turnout##50.4||Party##increment####Turnout##0.8
+Race Name##age criteria####AJC Challenge Stakes##Open||Race Name##sex criteria####AJC Challenge Stakes##Open||Race Name##weight criteria####AJC Challenge Stakes##wfa||Race Name##distance covered####AJC Challenge Stakes##1000||Race Name##happening month####AJC Challenge Stakes##March
+Race Name##age criteria####Surround Stakes##3YO||Race Name##sex criteria####Surround Stakes##Fillies||Race Name##weight criteria####Surround Stakes##sw||Race Name##distance covered####Surround Stakes##1400||Race Name##happening month####Surround Stakes##March
+Race Name##age criteria####Warwick Stakes##Open||Race Name##sex criteria####Warwick Stakes##Open||Race Name##weight criteria####Warwick Stakes##wfa||Race Name##distance covered####Warwick Stakes##1400||Race Name##happening month####Warwick Stakes##August
+Race Name##age criteria####Liverpool City Cup##Open||Race Name##sex criteria####Liverpool City Cup##Open||Race Name##weight criteria####Liverpool City Cup##qlty||Race Name##distance covered####Liverpool City Cup##1300||Race Name##happening month####Liverpool City Cup##March
+Race Name##age criteria####Silver Shadow Stakes##3YO||Race Name##sex criteria####Silver Shadow Stakes##Fillies||Race Name##weight criteria####Silver Shadow Stakes##swp||Race Name##distance covered####Silver Shadow Stakes##1200||Race Name##happening month####Silver Shadow Stakes##August
+Race Name##age criteria####Up And Coming Stakes##3YO||Race Name##sex criteria####Up And Coming Stakes##C&G||Race Name##weight criteria####Up And Coming Stakes##swp||Race Name##distance covered####Up And Coming Stakes##1200||Race Name##happening month####Up And Coming Stakes##August
+Show##year####Saturday Night Live##2009||Show##role####Saturday Night Live##Host||Show##part####Saturday Night Live##Episode: Tracy Morgan/Kelly Clarkson
+Show##year####Saturday Night Live##2011||Show##role####Saturday Night Live##Various||Show##part####Saturday Night Live##Episode: Jimmy Fallon/Michael Bubl
+Value##diameter####1 cent##18mm||Value##composition####1 cent##Bronze||Value##19791989 obverse####1 cent##State arms||Value##19791989 reverse####1 cent##Frigate Birds
+Value##diameter####2 cents##21mm||Value##composition####2 cents##Bronze||Value##19791989 obverse####2 cents##State arms||Value##19791989 reverse####2 cents##B'abal plant
+Value##diameter####5 cents##19mm||Value##composition####5 cents##Cupronickel||Value##19791989 obverse####5 cents##State arms||Value##19791989 reverse####5 cents##Tokay gecko
+Value##diameter####10 cents##24mm||Value##composition####10 cents##Cupronickel||Value##19791989 obverse####10 cents##State arms||Value##19791989 reverse####10 cents##Breadfruit
+Value##diameter####20 cents##29mm||Value##composition####20 cents##Cupronickel||Value##19791989 obverse####20 cents##State arms||Value##19791989 reverse####20 cents##Dolphins
+Value##diameter####50 cents##32mm||Value##composition####50 cents##Cupronickel||Value##19791989 obverse####50 cents##State arms||Value##19791989 reverse####50 cents##Panda nut plant
+Value##diameter####1 dollar##30mm||Value##composition####1 dollar##Cupronickel||Value##19791989 obverse####1 dollar##State arms||Value##19791989 reverse####1 dollar##Outrigger canoe
+Value##diameter####2 dollars##29mm||Value##composition####2 dollars##Nickel-Brass||Value##19791989 obverse####2 dollars##State arms||Value##19791989 reverse####2 dollars##Meeting lodge/Tenth Anniversary of Independence
+Single##year####Best of Both Worlds##1986||Single##chart####Best of Both Worlds##Album Rock Tracks||Single##position####Best of Both Worlds##12
+Single##year####Dreams##1986||Single##chart####Dreams##Album Rock Tracks||Single##position####Dreams##6
+Single##year####Dreams##1986||Single##chart####Dreams##Billboard Hot 100||Single##position####Dreams##22
+Single##year####Love Walks In##1986||Single##chart####Love Walks In##Album Rock Tracks||Single##position####Love Walks In##4
+Single##year####Love Walks In##1986||Single##chart####Love Walks In##Billboard Hot 100||Single##position####Love Walks In##22
+Single##year####Summer Nights##1986||Single##chart####Summer Nights##Album Rock Tracks||Single##position####Summer Nights##33
+Single##year####Why Can't This Be Love##1986||Single##chart####Why Can't This Be Love##Album Rock Tracks||Single##position####Why Can't This Be Love##1
+Single##year####Why Can't This Be Love##1986||Single##chart####Why Can't This Be Love##Billboard Hot 100||Single##position####Why Can't This Be Love##3
+Al-Khwarizmi##latitude####B##9.0 N||Al-Khwarizmi##longitude####B##107.4 E||Al-Khwarizmi##diameter####B##62km
+Al-Khwarizmi##latitude####G##6.9 N||Al-Khwarizmi##longitude####G##107.1 E||Al-Khwarizmi##diameter####G##95km
+Al-Khwarizmi##latitude####H##6.0 N||Al-Khwarizmi##longitude####H##109.2 E||Al-Khwarizmi##diameter####H##50km
+Al-Khwarizmi##latitude####J##6.2 N||Al-Khwarizmi##longitude####J##107.6 E||Al-Khwarizmi##diameter####J##47km
+Al-Khwarizmi##latitude####K##4.6 N||Al-Khwarizmi##longitude####K##107.6 E||Al-Khwarizmi##diameter####K##26km
+Al-Khwarizmi##latitude####L##3.9 N||Al-Khwarizmi##longitude####L##107.4 E||Al-Khwarizmi##diameter####L##35km
+Al-Khwarizmi##latitude####M##3.1 N||Al-Khwarizmi##longitude####M##107.0 E||Al-Khwarizmi##diameter####M##18km
+Al-Khwarizmi##latitude####T##7.0 N||Al-Khwarizmi##longitude####T##104.5 E||Al-Khwarizmi##diameter####T##15km
+Weapon name##caliber (mm)####M-8##82mm||Weapon name##range (max)####M-8##5,900m (6,500yd)||Weapon name##warhead####M-8##0.64kg (1.4lb)
+Weapon name##caliber (mm)####M-13##132mm||Weapon name##range (max)####M-13##8,740m (9,560yd)||Weapon name##warhead####M-13##4.9kg (11lb)
+Weapon name##caliber (mm)####M-13DD##132mm||Weapon name##range (max)####M-13DD##11,800m (12,900yd)||Weapon name##warhead####M-13DD##4.9kg (11lb)
+Weapon name##caliber (mm)####M-13UK##132mm||Weapon name##range (max)####M-13UK##7,900m (8,600yd)||Weapon name##warhead####M-13UK##4.9kg (11lb)
+Weapon name##caliber (mm)####M-20##132mm||Weapon name##range (max)####M-20##5,050m (5,520yd)||Weapon name##warhead####M-20##18.4kg (41lb)
+Weapon name##caliber (mm)####M-30##300mm||Weapon name##range (max)####M-30##2,800m (3,100yd)||Weapon name##warhead####M-30##28.9kg (64lb)
+Weapon name##caliber (mm)####M-31##300mm||Weapon name##range (max)####M-31##4,325m (4,730yd)||Weapon name##warhead####M-31##28.9kg (64lb)
+Weapon name##caliber (mm)####M-31UK##300mm||Weapon name##range (max)####M-31UK##4,000m (4,400yd)||Weapon name##warhead####M-31UK##28.9kg (64lb)
+Date##level at trent bridge m####February 1795##24.55||Date##level at trent bridge ft####February 1795##80.5||Date##peak flow m3####February 1795##1,416||Date##peak flow cfs####February 1795##50,000
+Date##level at trent bridge m####October 1875##24.38||Date##level at trent bridge ft####October 1875##80||Date##peak flow m3####October 1875##1,274||Date##peak flow cfs####October 1875##45,000
+Date##level at trent bridge m####Mar-47##24.3||Date##level at trent bridge ft####Mar-47##79.7||Date##peak flow m3####Mar-47##1,107||Date##peak flow cfs####Mar-47##39,100
+Date##level at trent bridge m####November 1852##24.26||Date##level at trent bridge ft####November 1852##79.6||Date##peak flow m3####November 1852##1,082||Date##peak flow cfs####November 1852##38,200
+Date##level at trent bridge m####Nov-00##23.8||Date##level at trent bridge ft####Nov-00##78.1||Date##peak flow m3####Nov-00##1,019||Date##peak flow cfs####Nov-00##36,000
+Party##candidate####Conservative##Patrick McLoughlin||Party##votes####Conservative##24,280||Party##percentage####Conservative##48||Party##increment####Conservative##5.9
+Party##candidate####Labour##Stephen Clamp||Party##votes####Labour##16,910||Party##percentage####Labour##33.4||Party##increment####Labour##-0.1
+Party##candidate####Liberal Democrat##Jeremy Beckett||Party##votes####Liberal Democrat##7,922||Party##percentage####Liberal Democrat##15.7||Party##increment####Liberal Democrat##-1.8
+Party##candidate####UKIP##Stuart Bavester||Party##votes####UKIP##672||Party##percentage####UKIP##1.3||Party##increment####UKIP##0.5
+Party##candidate####Monster Raving Loony##The Flying Brick Delves||Party##votes####Monster Raving Loony##472||Party##percentage####Monster Raving Loony##0.9||Party##increment####Monster Raving Loony##0.4
+Party##candidate####Independent##Robert Goodall||Party##votes####Independent##333||Party##percentage####Independent##0.7||Party##increment####Independent##0.5
+Party##candidate####Turnout##Turnout||Party##votes####Turnout##50,589||Party##percentage####Turnout##67.8||Party##increment####Turnout##-10.5
+Party##candidate####Liberal##Adrian Pederick||Party##votes####Liberal##11,469||Party##percentage####Liberal##55.1||Party##increment####Liberal##6.7
+Party##candidate####Labor##Lou Bailey||Party##votes####Labor##5,314||Party##percentage####Labor##25.5||Party##increment####Labor##2.5
+Party##candidate####Family First##Daniel Gutteridge||Party##votes####Family First##1,654||Party##percentage####Family First##7.9||Party##increment####Family First##0.8
+Party##candidate####Greens##Damien Pyne||Party##votes####Greens##1,458||Party##percentage####Greens##7||Party##increment####Greens##1
+Party##candidate####Nationals SA##Rachel Titley||Party##votes####Nationals SA##912||Party##percentage####Nationals SA##4.4||Party##increment####Nationals SA##4.4
+Party##candidate####Informal votes##Informal votes||Party##votes####Informal votes##697||Party##percentage####Informal votes##3.2||Party##increment####Informal votes##0
+Party##candidate####Turnout##Turnout||Party##votes####Turnout##21,504||Party##percentage####Turnout##92.1||Party##increment####Turnout##0.7
+Party##candidate####Liberal##Adrian Pederick||Party##votes####Liberal##13,444||Party##percentage####Liberal##64.6||Party##increment####Liberal##3.1
+Party##candidate####Labor##Lou Bailey||Party##votes####Labor##7,363||Party##percentage####Labor##35.4||Party##increment####Labor##3.1
+City##no. of barangays####Naga City##27||City##area (hectares)####Naga City##8,448||City##population (2010)####Naga City##1,74,931||City##income class (2010)####Naga City##2nd class||City##mayor (2010-2013)####Naga City##John G. Bongat
+Name##nationality####Flandria##Sweden||Name##tonnage (grt)####Flandria##1,179||Name##fate####Flandria##Sunk||Name##date####Flandria##18-Jan-40
+Name##nationality####Patria##Sweden||Name##tonnage (grt)####Patria##1,188||Name##fate####Patria##Sunk||Name##date####Patria##19-Jan-40
+Name##nationality####Linda##Estonia||Name##tonnage (grt)####Linda##1,213||Name##fate####Linda##Sunk||Name##date####Linda##11-Feb-40
+Name##nationality####San Tiburcio##United Kingdom||Name##tonnage (grt)####San Tiburcio##5,995||Name##fate####San Tiburcio##Sunk (mine)||Name##date####San Tiburcio##04-May-40
+Name##nationality####Doris##French Navy||Name##tonnage (grt)####Doris##552||Name##fate####Doris##Sunk||Name##date####Doris##09-May-40
+Name##nationality####Tringa##United Kingdom||Name##tonnage (grt)####Tringa##1,930||Name##fate####Tringa##Sunk||Name##date####Tringa##11-May-40
+Name##nationality####Viiu##Estonia||Name##tonnage (grt)####Viiu##1,908||Name##fate####Viiu##Sunk||Name##date####Viiu##11-May-40
+Name##nationality####Sigurd Faulbaum##Belgium||Name##tonnage (grt)####Sigurd Faulbaum##3,256||Name##fate####Sigurd Faulbaum##Sunk||Name##date####Sigurd Faulbaum##23-May-40
+Name##nationality####Shtorm##Soviet Union||Name##tonnage (grt)####Shtorm##412||Name##fate####Shtorm##Damaged||Name##date####Shtorm##11-May-44
+Home team##score####Chesterfield##10||Home team##away team####Chesterfield##Nottingham Forest
+Home team##score####Leicester City##22||Home team##away team####Leicester City##Chelsea
+Home team##score####Chelsea##10||Home team##away team####Chelsea##Leicester City
+Home team##score####Derby County##32||Home team##away team####Derby County##Coventry City
+Home team##score####Manchester City##1||Home team##away team####Manchester City##Middlesbrough
+Home team##score####Bradford City##1||Home team##away team####Bradford City##Sheffield Wednesday
+Home team##score####Wimbledon##21||Home team##away team####Wimbledon##Queens Park Rangers
+Home team##score####Leeds United##23||Home team##away team####Leeds United##Portsmouth
+Home team##score####Birmingham City##13||Home team##away team####Birmingham City##Wrexham
+Competition##happening year####World Junior Championships##1994||Competition##venue####World Junior Championships##Lisbon, Portugal
+Competition##happening year####All-Africa Games##1995||Competition##venue####All-Africa Games##Harare, Zimbabwe
+Competition##happening year####All-Africa Games##1995||Competition##venue####All-Africa Games##Harare, Zimbabwe
+Competition##happening year####World Championships##1997||Competition##venue####World Championships##Athens, Greece
+Competition##happening year####All-Africa Games##1999||Competition##venue####All-Africa Games##Johannesburg, South Africa
+Competition##happening year####World Championships##2001||Competition##venue####World Championships##Edmonton, Canada
+Competition##happening year####IAAF World Athletics Final##2006||Competition##venue####IAAF World Athletics Final##Stuttgart, Germany
+Competition##happening year####World Championships##2007||Competition##venue####World Championships##Osaka, Japan
+Competition##happening year####World Indoor Championships##2008||Competition##venue####World Indoor Championships##Valencia, Spain
+Competition##happening year####Olympic Games##2008||Competition##venue####Olympic Games##Beijing, China
+Competition##happening year####IAAF World Athletics Final##2008||Competition##venue####IAAF World Athletics Final##Stuttgart, Germany
+Competition##happening year####World Indoor Championships##2010||Competition##venue####World Indoor Championships##Doha, Qatar
+Competition##happening year####2010 Diamond League##2010||Competition##venue####2010 Diamond League##Multiple Locations
+Competition##happening year####2013 Diamond League##2013||Competition##venue####2013 Diamond League##Multiple Locations
+Competition##happening year####World Championships##2013||Competition##venue####World Championships##Moscow, Russia
+Player##round####Raymond van Barneveld##Quarter-Final||Player##opponent####Raymond van Barneveld##Jelle Klaasen||Player##result####Raymond van Barneveld##Won||Player##year####Raymond van Barneveld##2009
+Player##round####Raymond van Barneveld##2nd Round||Player##opponent####Raymond van Barneveld##Brendan Dolan||Player##result####Raymond van Barneveld##Won||Player##year####Raymond van Barneveld##2010
+Player##round####Adrian Lewis##Final||Player##opponent####Adrian Lewis##Gary Anderson||Player##result####Adrian Lewis##Won||Player##year####Adrian Lewis##2011
+Player##round####Dean Winstanley##2nd Round||Player##opponent####Dean Winstanley##Vincent van der Voort||Player##result####Dean Winstanley##Lost||Player##year####Dean Winstanley##2013
+Player##round####Michael van Gerwen##Semi Final||Player##opponent####Michael van Gerwen##James Wade||Player##result####Michael van Gerwen##Won||Player##year####Michael van Gerwen##2013
+Player##round####Terry Jenkins##1st Round||Player##opponent####Terry Jenkins##Per Laursen||Player##result####Terry Jenkins##Lost||Player##year####Terry Jenkins##2014
+Player##round####Kyle Anderson##1st Round||Player##opponent####Kyle Anderson##Ian White||Player##result####Kyle Anderson##Lost||Player##year####Kyle Anderson##2014
+Nation##gold medals won####Great Britain(GBR)##6||Nation##silver medals won####Great Britain(GBR)##3||Nation##bronze medals won####Great Britain(GBR)##2
+Nation##gold medals won####South Africa(RSA)##1||Nation##silver medals won####South Africa(RSA)##2||Nation##bronze medals won####South Africa(RSA)##1
+Nation##gold medals won####Canada(CAN)##1||Nation##silver medals won####Canada(CAN)##1||Nation##bronze medals won####Canada(CAN)##0
+Nation##gold medals won####Australia(AUS)##0||Nation##silver medals won####Australia(AUS)##1||Nation##bronze medals won####Australia(AUS)##1
+Nation##gold medals won####Israel(ISR)##0||Nation##silver medals won####Israel(ISR)##0||Nation##bronze medals won####Israel(ISR)##2
+Nation##gold medals won####South Korea(KOR)##0||Nation##silver medals won####South Korea(KOR)##0||Nation##bronze medals won####South Korea(KOR)##1
+Competition##happening year####Asian Championships##1975||Competition##venue####Asian Championships##Seoul, South Korea
+Competition##happening year####Asian Championships##1979||Competition##venue####Asian Championships##Tokyo, Japan
+Competition##happening year####Asian Championships##1981||Competition##venue####Asian Championships##Tokyo, Japan
+Competition##happening year####Fukuoka Marathon##1981||Competition##venue####Fukuoka Marathon##Fukuoka, Japan
+Competition##happening year####Fukuoka Marathon##1982||Competition##venue####Fukuoka Marathon##Fukuoka, Japan
+Competition##happening year####World Championships##1983||Competition##venue####World Championships##Helsinki, Finland
+Artist##song####Gonzaga Coutinho##Tema para um homem s||Artist##points####Gonzaga Coutinho##102||Artist##place####Gonzaga Coutinho##5th
+Artist##song####Pedro Osrio S.A.R.L.##Uma cano comercial||Artist##points####Pedro Osrio S.A.R.L.##123||Artist##place####Pedro Osrio S.A.R.L.##3rd
+Artist##song####Concha##Qualquer dia, quem diria||Artist##points####Concha##78||Artist##place####Concha##6th
+Artist##song####Gabriela Schaaf##Eu s quero||Artist##points####Gabriela Schaaf##132||Artist##place####Gabriela Schaaf##2nd
+Artist##song####Tz Brito##Novo canto Portugus||Artist##points####Tz Brito##110||Artist##place####Tz Brito##4th
+Artist##song####Teresa Silva Carvalho##Cantemos at ser dia||Artist##points####Teresa Silva Carvalho##52||Artist##place####Teresa Silva Carvalho##9th
+Artist##song####Florncia##O combio do Tua||Artist##points####Florncia##63||Artist##place####Florncia##8th
+Artist##song####Manuel Jos Soares##Quando chego a casa||Artist##points####Manuel Jos Soares##76||Artist##place####Manuel Jos Soares##7th
+Artist##song####Manuela Bravo##Sobe, sobe, balo sobe||Artist##points####Manuela Bravo##149||Artist##place####Manuela Bravo##1st
+Competition##happening year####European U23 Championships##2005||Competition##venue####European U23 Championships##Erfurt, Germany
+Competition##happening year####Olympic Games##2008||Competition##venue####Olympic Games##Beijing, China
+Competition##happening year####Universiade##2009||Competition##venue####Universiade##Belgrade, Serbia
+Competition##happening year####European Championships##2010||Competition##venue####European Championships##Barcelona, Spain
+Competition##happening year####Olympic Games##2012||Competition##venue####Olympic Games##London, United Kingdom
+Competition##happening year####World Championships##2013||Competition##venue####World Championships##Moscow, Russia
+Competition##happening year####World Half Marathon Championships##1994||Competition##venue####World Half Marathon Championships##Oslo, Norway
+Group##members####Socialist Group##242||Group##caucusing####Socialist Group##8||Group##total####Socialist Group##250
+Group##members####RPR Group##136||Group##caucusing####RPR Group##6||Group##total####RPR Group##140
+Group##members####UDF Group##107||Group##caucusing####UDF Group##6||Group##total####UDF Group##113
+Group##members####Communist Group##34||Group##caucusing####Communist Group##2||Group##total####Communist Group##36
+Group##members####Radical, Citizen and Green##33||Group##caucusing####Radical, Citizen and Green##0||Group##total####Radical, Citizen and Green##33
+Group##members####Non-Inscrits##5||Group##caucusing####Non-Inscrits##0||Group##total####Non-Inscrits##5
+Song##singers####Kalluri Padam##Shankar Mahadevan||Song##length (m:ss)####Kalluri Padam##1:32
+Song##singers####Iru Kangal##Balram, Gopika Poornima||Song##length (m:ss)####Iru Kangal##4:49
+Song##singers####Sithanna Vasal##S. P. Balasubramaniam, Sujatha||Song##length (m:ss)####Sithanna Vasal##4:53
+Song##singers####Thozha Thozha##Karthik||Song##length (m:ss)####Thozha Thozha##3:57
+Song##singers####Vidinjakka Kannalam##Chitra Sivaraman||Song##length (m:ss)####Vidinjakka Kannalam##4:20
+Song##singers####Mullai Poo##SPB Charan, Venkat Prabhu, Yugendran||Song##length (m:ss)####Mullai Poo##4:33
+Song##singers####Yarum Ariya##Pavithra||Song##length (m:ss)####Yarum Ariya##5:16
+Song##singers####Salsa - Theme Music##Instrumental||Song##length (m:ss)####Salsa - Theme Music##1:33
+Club##competition####Kotayk Abovian##UEFA Cup Winners' Cup||Club##round####Kotayk Abovian##Qualifying round||Club##home win####Kotayk Abovian##50||Club##away win####Kotayk Abovian##1||Club##aggregate win####Kotayk Abovian##51
+Club##competition####Barcelona##UEFA Cup Winners' Cup||Club##round####Barcelona##First round||Club##home win####Barcelona##0||Club##away win####Barcelona##2||Club##aggregate win####Barcelona##2
+Club##competition####Maccabi Petah Tikva##UEFA Cup||Club##round####Maccabi Petah Tikva##Second qualifying round||Club##home win####Maccabi Petah Tikva##30||Club##away win####Maccabi Petah Tikva##4||Club##aggregate win####Maccabi Petah Tikva##34
+Club##competition####Floriana##UEFA Europa League||Club##round####Floriana##Second qualifying round||Club##home win####Floriana##10||Club##away win####Floriana##80||Club##aggregate win####Floriana##90
+Club##competition####Mlad Boleslav##UEFA Europa League||Club##round####Mlad Boleslav##Third qualifying round||Club##home win####Mlad Boleslav##30||Club##away win####Mlad Boleslav##22||Club##aggregate win####Mlad Boleslav##52
+Club##competition####Rosenborg##UEFA Europa League||Club##round####Rosenborg##Play-off round||Club##home win####Rosenborg##21||Club##away win####Rosenborg##0||Club##aggregate win####Rosenborg##21
+Club##competition####Maccabi Haifa##UEFA Europa League||Club##round####Maccabi Haifa##Group stage (J)||Club##home win####Maccabi Haifa##21||Club##away win####Maccabi Haifa##1||Club##aggregate win####Maccabi Haifa##22
+Club##competition####Steaua Bucureti##UEFA Europa League||Club##round####Steaua Bucureti##Group stage (J)||Club##home win####Steaua Bucureti##11||Club##away win####Steaua Bucureti##13||Club##aggregate win####Steaua Bucureti##24
+Club##competition####Schalke 04##UEFA Europa League||Club##round####Schalke 04##Group stage (J)||Club##home win####Schalke 04##5||Club##away win####Schalke 04##0||Club##aggregate win####Schalke 04##5
+Player##school played for####Eric Fraser##Central Michigan||Player##position####Eric Fraser##S||Player##pick####Eric Fraser##8
+Player##school played for####Tristan Black##Wayne State||Player##position####Tristan Black##LB||Player##pick####Tristan Black##16
+Player##school played for####John Hashem##Regina||Player##position####John Hashem##OT||Player##pick####John Hashem##24
+Player##school played for####Spencer Armstrong##Air Force||Player##position####Spencer Armstrong##WR||Player##pick####Spencer Armstrong##28
+Player##school played for####Steve Myddelton##St. Francis Xavier||Player##position####Steve Myddelton##DE||Player##pick####Steve Myddelton##30
+Player##school played for####Scott McHenry##Saskatchewan||Player##position####Scott McHenry##SB||Player##pick####Scott McHenry##32
+Player##school played for####Osie Ukwuoma##Queen's||Player##position####Osie Ukwuoma##DL||Player##pick####Osie Ukwuoma##40
+Player##school played for####John Kanaroski##Regina||Player##position####John Kanaroski##WR||Player##pick####John Kanaroski##48
+Competition##happening year####European U23 Championships##1997||Competition##venue####European U23 Championships##Turku, Finland
+Competition##happening year####World Championships##1997||Competition##venue####World Championships##Athens, Greece
+Competition##happening year####European Championships##1998||Competition##venue####European Championships##Budapest, Hungary
+Competition##happening year####European Indoor Championships##2000||Competition##venue####European Indoor Championships##Ghent, Belgium
+Province##capital####Almera##Almera||Province##population####Almera##702,819||Province##density####Almera##72.5/km2 (188/sqmi)||Province##municipalities####Almera##102 municipalities||Province##legal districts####Almera##8
+Province##capital####Cdiz##Cdiz||Province##population####Cdiz##1,243,519||Province##density####Cdiz##158.8/km2 (411/sqmi)||Province##municipalities####Cdiz##44 municipalities||Province##legal districts####Cdiz##14
+Province##capital####Crdoba##Crdoba||Province##population####Crdoba##805,857||Province##density####Crdoba##72.4/km2 (188/sqmi)||Province##municipalities####Crdoba##75 municipalities||Province##legal districts####Crdoba##12
+Province##capital####Granada##Granada||Province##population####Granada##924,550||Province##density####Granada##68.7/km2 (178/sqmi)||Province##municipalities####Granada##169 municipalities||Province##legal districts####Granada##9
+Province##capital####Huelva##Huelva||Province##population####Huelva##521,968||Province##density####Huelva##47.7/km2 (124/sqmi)||Province##municipalities####Huelva##79 municipalities||Province##legal districts####Huelva##6
+Province##capital####Jan##Jan||Province##population####Jan##670,600||Province##density####Jan##49.1/km2 (127/sqmi)||Province##municipalities####Jan##97 municipalities||Province##legal districts####Jan##10
+Province##capital####Mlaga##Mlaga||Province##population####Mlaga##1,625,827||Province##density####Mlaga##204.1/km2 (529/sqmi)||Province##municipalities####Mlaga##101 municipalities||Province##legal districts####Mlaga##11
+Province##capital####Seville##Seville||Province##population####Seville##1,928,962||Province##density####Seville##129.2/km2 (335/sqmi)||Province##municipalities####Seville##105 municipalities||Province##legal districts####Seville##15
+Tournament##happening year####World Indoor Championships##2004||Tournament##venue####World Indoor Championships##Budapest, Hungary
+Tournament##happening year####Summer Olympics##2004||Tournament##venue####Summer Olympics##Athens, Greece
+Tournament##happening year####World Indoor Championships##2006||Tournament##venue####World Indoor Championships##Moscow, Russia
+Tournament##happening year####European Championships##2006||Tournament##venue####European Championships##Gothenburg, Sweden
+Tournament##happening year####World Cup##2006||Tournament##venue####World Cup##Athens, Greece
+Tournament##happening year####Summer Olympics##2008||Tournament##venue####Summer Olympics##Beijing, China
+Tournament##happening year####World Championships##2011||Tournament##venue####World Championships##Daegu, Korea
+Player##nationality####Cory Schneider (G)##United States||Player##college####Cory Schneider (G)##Phillips Academy (US High School)
+Player##nationality####Alexander Edler (D)##Sweden||Player##college####Alexander Edler (D)##Jamtland (Sweden)
+Player##nationality####Andrew Sarauer (LW)##Canada||Player##college####Andrew Sarauer (LW)##Langley Hornets (BCHL)
+Player##nationality####Mike Brown (RW)##United States||Player##college####Mike Brown (RW)##University of Michigan (CCHA)
+Player##nationality####Julien Ellis (G)##Canada||Player##college####Julien Ellis (G)##Shawinigan Cataractes (QMJHL)
+Player##nationality####David Schulz (D)##Canada||Player##college####David Schulz (D)##Swift Current Broncos (WHL)
+Player##nationality####Jannik Hansen (RW)##Denmark||Player##college####Jannik Hansen (RW)##Malm Jr. (SJL)
+Athlete##nation####Philipp Schoch##Switzerland(SUI)||Athlete##gold medals won####Philipp Schoch##2||Athlete##silver medals won####Philipp Schoch##0||Athlete##bronze medals won####Philipp Schoch##0||Athlete##total medals won####Philipp Schoch##2
+Athlete##nation####Shaun White##United States(USA)||Athlete##gold medals won####Shaun White##2||Athlete##silver medals won####Shaun White##0||Athlete##bronze medals won####Shaun White##0||Athlete##total medals won####Shaun White##2
+Athlete##nation####Seth Wescott##United States(USA)||Athlete##gold medals won####Seth Wescott##2||Athlete##silver medals won####Seth Wescott##0||Athlete##bronze medals won####Seth Wescott##0||Athlete##total medals won####Seth Wescott##2
+Athlete##nation####Karine Ruby##France(FRA)||Athlete##gold medals won####Karine Ruby##1||Athlete##silver medals won####Karine Ruby##1||Athlete##bronze medals won####Karine Ruby##0||Athlete##total medals won####Karine Ruby##2
+Athlete##nation####Hannah Teter##United States(USA)||Athlete##gold medals won####Hannah Teter##1||Athlete##silver medals won####Hannah Teter##1||Athlete##bronze medals won####Hannah Teter##0||Athlete##total medals won####Hannah Teter##2
+Athlete##nation####Ross Powers##United States(USA)||Athlete##gold medals won####Ross Powers##1||Athlete##silver medals won####Ross Powers##0||Athlete##bronze medals won####Ross Powers##1||Athlete##total medals won####Ross Powers##2
+Athlete##nation####Kelly Clark##United States(USA)||Athlete##gold medals won####Kelly Clark##1||Athlete##silver medals won####Kelly Clark##0||Athlete##bronze medals won####Kelly Clark##2||Athlete##total medals won####Kelly Clark##3
+Athlete##nation####Danny Kass##United States(USA)||Athlete##gold medals won####Danny Kass##0||Athlete##silver medals won####Danny Kass##2||Athlete##bronze medals won####Danny Kass##0||Athlete##total medals won####Danny Kass##2
+Conference##date####Wikimania 2005##August 57||Conference##place####Wikimania 2005##Frankfurt, Germany||Conference##attendance####Wikimania 2005##380||Conference##archive of presentations####Wikimania 2005##slides, video
+Conference##date####Wikimania 2006##August 46||Conference##place####Wikimania 2006##Cambridge, United States||Conference##attendance####Wikimania 2006##400||Conference##archive of presentations####Wikimania 2006##slides and papers, video
+Conference##date####Wikimania 2007##August 35||Conference##place####Wikimania 2007##Taipei, ROC (Taiwan)||Conference##attendance####Wikimania 2007##440||Conference##archive of presentations####Wikimania 2007##Commons gallery
+Conference##date####Wikimania 2008##July 1719||Conference##place####Wikimania 2008##Alexandria, Egypt||Conference##attendance####Wikimania 2008##650||Conference##archive of presentations####Wikimania 2008##abstracts, slides,video
+Conference##date####Wikimania 2009##August 2628||Conference##place####Wikimania 2009##Buenos Aires, Argentina||Conference##attendance####Wikimania 2009##559||Conference##archive of presentations####Wikimania 2009##slides, video
+Conference##date####Wikimania 2010##July 911||Conference##place####Wikimania 2010##Gdask, Poland||Conference##attendance####Wikimania 2010##about 500||Conference##archive of presentations####Wikimania 2010##slides
+Conference##date####Wikimania 2011##August 47||Conference##place####Wikimania 2011##Haifa, Israel||Conference##attendance####Wikimania 2011##720||Conference##archive of presentations####Wikimania 2011##presentations, video
+Conference##date####Wikimania 2012##July 1215||Conference##place####Wikimania 2012##Washington, D.C., United States||Conference##attendance####Wikimania 2012##1,400||Conference##archive of presentations####Wikimania 2012##presentations, videos
+Conference##date####Wikimania 2013##August 711||Conference##place####Wikimania 2013##Hong Kong||Conference##attendance####Wikimania 2013##700||Conference##archive of presentations####Wikimania 2013##presentations, videos
+Name##party####Glenlyon Campbell##Conservative||Name##took office####Glenlyon Campbell##1903||Name##left office####Glenlyon Campbell##1908
+Name##party####Duncan Cameron##Conservative||Name##took office####Duncan Cameron##1908||Name##left office####Duncan Cameron##1910
+Name##party####Sam Hughes##Conservative||Name##took office####Sam Hughes##1910||Name##left office####Sam Hughes##1915
+Name##party####William Findlater##Liberal||Name##took office####William Findlater##1915||Name##left office####William Findlater##1922
+Name##party####Arthur Berry##Progressive||Name##took office####Arthur Berry##1922||Name##left office####Arthur Berry##1932
+Name##party####Stanley Fox##Social Credit||Name##took office####Stanley Fox##1936||Name##left office####Stanley Fox##1940
+Name##party####Ray Mitchell##Liberal-Progressive||Name##took office####Ray Mitchell##1949||Name##left office####Ray Mitchell##1958
+Nation##gold medals won####Australia(AUS)##2||Nation##silver medals won####Australia(AUS)##1||Nation##bronze medals won####Australia(AUS)##0||Nation##total medals won####Australia(AUS)##3
+Nation##gold medals won####Italy(ITA)##1||Nation##silver medals won####Italy(ITA)##1||Nation##bronze medals won####Italy(ITA)##1||Nation##total medals won####Italy(ITA)##3
+Nation##gold medals won####Germany(EUA)##1||Nation##silver medals won####Germany(EUA)##0||Nation##bronze medals won####Germany(EUA)##1||Nation##total medals won####Germany(EUA)##2
+Nation##gold medals won####Soviet Union(URS)##1||Nation##silver medals won####Soviet Union(URS)##0||Nation##bronze medals won####Soviet Union(URS)##0||Nation##total medals won####Soviet Union(URS)##1
+Nation##gold medals won####Switzerland(SUI)##0||Nation##silver medals won####Switzerland(SUI)##2||Nation##bronze medals won####Switzerland(SUI)##1||Nation##total medals won####Switzerland(SUI)##3
+Nation##gold medals won####United States(USA)##0||Nation##silver medals won####United States(USA)##1||Nation##bronze medals won####United States(USA)##0||Nation##total medals won####United States(USA)##1
+Nation##gold medals won####Great Britain(GBR)##0||Nation##silver medals won####Great Britain(GBR)##0||Nation##bronze medals won####Great Britain(GBR)##1||Nation##total medals won####Great Britain(GBR)##1
+Nation##gold medals won####France(FRA)##0||Nation##silver medals won####France(FRA)##0||Nation##bronze medals won####France(FRA)##1||Nation##total medals won####France(FRA)##1
+Diver##preliminary points####Li Yihua(CHN)##517.92||Diver##preliminary rank####Li Yihua(CHN)##1||Diver##final points####Li Yihua(CHN)##506.52||Diver##rank####Li Yihua(CHN)##4
+Diver##preliminary points####Li Qiaoxian(CHN)##466.83||Diver##preliminary rank####Li Qiaoxian(CHN)##6||Diver##final points####Li Qiaoxian(CHN)##487.68||Diver##rank####Li Qiaoxian(CHN)##5
+Diver##preliminary points####Elsa Tenorio(MEX)##460.56||Diver##preliminary rank####Elsa Tenorio(MEX)##8||Diver##final points####Elsa Tenorio(MEX)##463.56||Diver##rank####Elsa Tenorio(MEX)##6
+Diver##preliminary points####Lesley Smith(ZIM)##438.72||Diver##preliminary rank####Lesley Smith(ZIM)##10||Diver##final points####Lesley Smith(ZIM)##451.89||Diver##rank####Lesley Smith(ZIM)##7
+Diver##preliminary points####Debbie Fuller(CAN)##437.04||Diver##preliminary rank####Debbie Fuller(CAN)##11||Diver##final points####Debbie Fuller(CAN)##450.99||Diver##rank####Debbie Fuller(CAN)##8
+Diver##preliminary points####Jennifer Donnet(AUS)##432.78||Diver##preliminary rank####Jennifer Donnet(AUS)##12||Diver##final points####Jennifer Donnet(AUS)##443.13||Diver##rank####Jennifer Donnet(AUS)##9
+Diver##preliminary points####Daphne Jongejans(NED)##487.95||Diver##preliminary rank####Daphne Jongejans(NED)##4||Diver##final points####Daphne Jongejans(NED)##437.4||Diver##rank####Daphne Jongejans(NED)##10
+Diver##preliminary points####Anita Rossing(SWE)##464.58||Diver##preliminary rank####Anita Rossing(SWE)##7||Diver##final points####Anita Rossing(SWE)##424.98||Diver##rank####Anita Rossing(SWE)##11
+Diver##preliminary points####Vernica Ribot(ARG)##443.25||Diver##preliminary rank####Vernica Ribot(ARG)##9||Diver##final points####Vernica Ribot(ARG)##422.52||Diver##rank####Vernica Ribot(ARG)##12
+Number of Domestic passengers##number of international passengers####7,64,831##83,115||Number of Domestic passengers##change percentage####7,64,831##4.60%||Number of Domestic passengers##year####7,64,831##2006
+Number of Domestic passengers##number of international passengers####7,64,674##75,276||Number of Domestic passengers##change percentage####7,64,674##0.90%||Number of Domestic passengers##year####7,64,674##2007
+Number of Domestic passengers##number of international passengers####7,09,779##92,176||Number of Domestic passengers##change percentage####7,09,779##4.50%||Number of Domestic passengers##year####7,09,779##2008
+Number of Domestic passengers##number of international passengers####6,05,534##82,424||Number of Domestic passengers##change percentage####6,05,534##14.30%||Number of Domestic passengers##year####6,05,534##2009
+Number of Domestic passengers##number of international passengers####5,95,457##1,05,119||Number of Domestic passengers##change percentage####5,95,457##1.70%||Number of Domestic passengers##year####5,95,457##2010
+Number of Domestic passengers##number of international passengers####8,50,305##1,23,607||Number of Domestic passengers##change percentage####8,50,305##39.10%||Number of Domestic passengers##year####8,50,305##2011
+Number of Domestic passengers##number of international passengers####899 854##1,78,679||Number of Domestic passengers##change percentage####899 854##10.70%||Number of Domestic passengers##year####899 854##2012
+Number of Domestic passengers##number of international passengers####7,45,178##1,31,902||Number of Domestic passengers##change percentage####7,45,178##-18.70%||Number of Domestic passengers##year####7,45,178##2013
+Rider##victories####Carl Fogarty##11||Rider##bike####Carl Fogarty##Ducati 916||Rider##manufacturer's championship####Carl Fogarty##Ducati
+Rider##victories####Carl Fogarty##13||Rider##bike####Carl Fogarty##Ducati 916||Rider##manufacturer's championship####Carl Fogarty##Ducati
+Rider##victories####Troy Corser##7||Rider##bike####Troy Corser##Ducati 916||Rider##manufacturer's championship####Troy Corser##Ducati
+Rider##victories####Carl Fogarty##3||Rider##bike####Carl Fogarty##Ducati 916||Rider##manufacturer's championship####Carl Fogarty##Ducati
+Rider##victories####Carl Fogarty##11||Rider##bike####Carl Fogarty##Ducati 996||Rider##manufacturer's championship####Carl Fogarty##Ducati
+Rider##victories####(Colin Edwards)##-7||Rider##bike####(Colin Edwards)##(Honda RC51)||Rider##manufacturer's championship####(Colin Edwards)##Ducati
+Rider##victories####Troy Bayliss##6||Rider##bike####Troy Bayliss##Ducati 996||Rider##manufacturer's championship####Troy Bayliss##Ducati
+Model##class####Tour##Class A||Model##length####Tour##42'||Model##fuel type####Tour##Diesel||Model##starting price####Tour##$362,285
+Model##class####Journey##Class A||Model##length####Journey##35'-43'||Model##fuel type####Journey##Diesel||Model##starting price####Journey##$246,736
+Model##class####Adventurer##Class A||Model##length####Adventurer##32'-37'||Model##fuel type####Adventurer##Gas||Model##starting price####Adventurer##$150,711
+Model##class####Via##Class A||Model##length####Via##25'||Model##fuel type####Via##Diesel||Model##starting price####Via##$126,476
+Model##class####Sightseer##Class A||Model##length####Sightseer##31'-37'||Model##fuel type####Sightseer##Gas||Model##starting price####Sightseer##$126,162
+Model##class####Vista##Class A||Model##length####Vista##26'-35'||Model##fuel type####Vista##Gas||Model##starting price####Vista##$107,717
+Model##class####View##Class C||Model##length####View##24'-25'||Model##fuel type####View##Diesel||Model##starting price####View##$100,955
+Model##class####Aspect##Class C||Model##length####Aspect##29'-31'||Model##fuel type####Aspect##Gas||Model##starting price####Aspect##$95,948
+Model##class####Access##Class C||Model##length####Access##25'-31'||Model##fuel type####Access##Gas||Model##starting price####Access##$74,704
+Name of place##principal county####Scranton##Lackawanna County||Name of place##lower zip code####Scranton##18501||Name of place##upper zip code####Scranton##19
+Competition##happening year####World Junior Championships##1996||Competition##venue####World Junior Championships##Sydney, Australia
+Competition##happening year####World Cross Country Championships##1998||Competition##venue####World Cross Country Championships##Marrakech, Morocco
+Competition##happening year####All-Africa Games##1999||Competition##venue####All-Africa Games##Johannesburg, South Africa
+Competition##happening year####IAAF Grand Prix Final##2001||Competition##venue####IAAF Grand Prix Final##Melbourne, Australia
+Competition##happening year####World Athletics Final##2004||Competition##venue####World Athletics Final##Monte Carlo, Monaco
+Competition##happening year####World Athletics Final##2005||Competition##venue####World Athletics Final##Monte Carlo, Monaco
+Team##matches played####Canada##6||Team##matches won####Canada##6||Team##matches drawn####Canada##0||Team##matches lost####Canada##0||Team##total points####Canada##12||Team##place####Canada##1
+Team##matches played####Sweden##6||Team##matches won####Sweden##4||Team##matches drawn####Sweden##1||Team##matches lost####Sweden##1||Team##total points####Sweden##9||Team##place####Sweden##2
+Team##matches played####Switzerland##6||Team##matches won####Switzerland##4||Team##matches drawn####Switzerland##1||Team##matches lost####Switzerland##1||Team##total points####Switzerland##9||Team##place####Switzerland##3
+Team##matches played####Norway##6||Team##matches won####Norway##2||Team##matches drawn####Norway##0||Team##matches lost####Norway##4||Team##total points####Norway##4||Team##place####Norway##4
+Team##matches played####Great Britain##6||Team##matches won####Great Britain##1||Team##matches drawn####Great Britain##1||Team##matches lost####Great Britain##4||Team##total points####Great Britain##3||Team##place####Great Britain##5
+Team##matches played####United States##6||Team##matches won####United States##1||Team##matches drawn####United States##1||Team##matches lost####United States##4||Team##total points####United States##3||Team##place####United States##6
+Team##matches played####Finland##6||Team##matches won####Finland##1||Team##matches drawn####Finland##0||Team##matches lost####Finland##5||Team##total points####Finland##2||Team##place####Finland##7
+Nation##gold medals won####India##102||Nation##silver medals won####India##58||Nation##bronze medals won####India##37||Nation##total medals won####India##197||Nation##rank####India##1
+Nation##gold medals won####Nepal##32||Nation##silver medals won####Nepal##10||Nation##bronze medals won####Nepal##24||Nation##total medals won####Nepal##65||Nation##rank####Nepal##2
+Nation##gold medals won####Sri Lanka##16||Nation##silver medals won####Sri Lanka##42||Nation##bronze medals won####Sri Lanka##62||Nation##total medals won####Sri Lanka##120||Nation##rank####Sri Lanka##3
+Nation##gold medals won####Pakistan##10||Nation##silver medals won####Pakistan##36||Nation##bronze medals won####Pakistan##30||Nation##total medals won####Pakistan##76||Nation##rank####Pakistan##4
+Nation##gold medals won####Bangladesh##2||Nation##silver medals won####Bangladesh##10||Nation##bronze medals won####Bangladesh##35||Nation##total medals won####Bangladesh##47||Nation##rank####Bangladesh##5
+Nation##gold medals won####Bhutan##1||Nation##silver medals won####Bhutan##6||Nation##bronze medals won####Bhutan##7||Nation##total medals won####Bhutan##14||Nation##rank####Bhutan##6
+Nation##gold medals won####Maldives##0||Nation##silver medals won####Maldives##0||Nation##bronze medals won####Maldives##4||Nation##total medals won####Maldives##4||Nation##rank####Maldives##7
+Name##nationality####Matti Hautamki##FIN||Name##first try####Matti Hautamki##132||Name##second try####Matti Hautamki##131.5||Name##points####Matti Hautamki##274.3||Name##rank####Matti Hautamki##1
+Name##nationality####Tami Kiuru##FIN||Name##first try####Tami Kiuru##128.5||Name##second try####Tami Kiuru##130.5||Name##points####Tami Kiuru##264.7||Name##rank####Tami Kiuru##2
+Name##nationality####Janne Ahonen##FIN||Name##first try####Janne Ahonen##127||Name##second try####Janne Ahonen##130.5||Name##points####Janne Ahonen##264||Name##rank####Janne Ahonen##3
+Name##nationality####Adam Maysz##POL||Name##first try####Adam Maysz##127||Name##second try####Adam Maysz##130.5||Name##points####Adam Maysz##261.5||Name##rank####Adam Maysz##4
+Name##nationality####Andreas Kofler##AUT||Name##first try####Andreas Kofler##126.5||Name##second try####Andreas Kofler##132||Name##points####Andreas Kofler##261.3||Name##rank####Andreas Kofler##5
+Name##nationality####Jakub Janda##CZE||Name##first try####Jakub Janda##123.5||Name##second try####Jakub Janda##128.5||Name##points####Jakub Janda##252.6||Name##rank####Jakub Janda##11
+Institution##location####Delaware Valley College##Doylestown, Pennsylvania||Institution##nickname####Delaware Valley College##Aggies||Institution##founded####Delaware Valley College##1917||Institution##type####Delaware Valley College##Private/Non-sectarian||Institution##enrollment####Delaware Valley College##2,241||Institution##joined mac in year####Delaware Valley College##1965
+Institution##location####DeSales University##Center Valley, Pennsylvania||Institution##nickname####DeSales University##Bulldogs||Institution##founded####DeSales University##1965||Institution##type####DeSales University##Private/Catholic||Institution##enrollment####DeSales University##3,199||Institution##joined mac in year####DeSales University##1997
+Institution##location####Eastern University##St. Davids, Pennsylvania||Institution##nickname####Eastern University##Eagles||Institution##founded####Eastern University##1952||Institution##type####Eastern University##Private/Baptist||Institution##enrollment####Eastern University##4,235||Institution##joined mac in year####Eastern University##2008
+Institution##location####Fairleigh Dickinson University-Florham##Madison, New Jersey||Institution##nickname####Fairleigh Dickinson University-Florham##Devils||Institution##founded####Fairleigh Dickinson University-Florham##1942||Institution##type####Fairleigh Dickinson University-Florham##Private/Non-sectarian||Institution##enrollment####Fairleigh Dickinson University-Florham##3,288||Institution##joined mac in year####Fairleigh Dickinson University-Florham##1977
+Institution##location####King's College##Wilkes-Barre, Pennsylvania||Institution##nickname####King's College##Monarchs||Institution##founded####King's College##1946||Institution##type####King's College##Private/Catholic||Institution##enrollment####King's College##2,725||Institution##joined mac in year####King's College##1977
+Institution##location####Manhattanville College##Purchase, New York||Institution##nickname####Manhattanville College##Valiants||Institution##founded####Manhattanville College##1841||Institution##type####Manhattanville College##Private/Non-sectarian||Institution##enrollment####Manhattanville College##2,695||Institution##joined mac in year####Manhattanville College##2007
+Institution##location####Misericordia University##Dallas, Pennsylvania||Institution##nickname####Misericordia University##Cougars||Institution##founded####Misericordia University##1924||Institution##type####Misericordia University##Private/Catholic||Institution##enrollment####Misericordia University##2,830||Institution##joined mac in year####Misericordia University##2008
+Institution##location####Wilkes University##Wilkes-Barre, Pennsylvania||Institution##nickname####Wilkes University##Colonels||Institution##founded####Wilkes University##1933||Institution##type####Wilkes University##Private/Non-sectarian||Institution##enrollment####Wilkes University##5,136||Institution##joined mac in year####Wilkes University##1946*
+Tournament##games played####2003 EuroBasket##6||Tournament##points per game####2003 EuroBasket##6.8||Tournament##rebounds per game####2003 EuroBasket##5.3||Tournament##assists per game####2003 EuroBasket##0.7
+Tournament##games played####2005 EuroBasket##7||Tournament##points per game####2005 EuroBasket##7.6||Tournament##rebounds per game####2005 EuroBasket##7.1||Tournament##assists per game####2005 EuroBasket##0.6
+Tournament##games played####2006 FIBA World Championship##9||Tournament##points per game####2006 FIBA World Championship##9.7||Tournament##rebounds per game####2006 FIBA World Championship##6.7||Tournament##assists per game####2006 FIBA World Championship##0.6
+Tournament##games played####2007 EuroBasket##7||Tournament##points per game####2007 EuroBasket##8.9||Tournament##rebounds per game####2007 EuroBasket##3.7||Tournament##assists per game####2007 EuroBasket##0.6
+Tournament##games played####2009 EuroBasket##8||Tournament##points per game####2009 EuroBasket##6.5||Tournament##rebounds per game####2009 EuroBasket##2.9||Tournament##assists per game####2009 EuroBasket##1.1
+Tournament##games played####2010 FIBA World Championship##4||Tournament##points per game####2010 FIBA World Championship##4.5||Tournament##rebounds per game####2010 FIBA World Championship##4.8||Tournament##assists per game####2010 FIBA World Championship##1.5
+Tournament##games played####2011 EuroBasket##11||Tournament##points per game####2011 EuroBasket##2.6||Tournament##rebounds per game####2011 EuroBasket##3.4||Tournament##assists per game####2011 EuroBasket##0.8
+Tournament##games played####2012 Olympics##6||Tournament##points per game####2012 Olympics##4.5||Tournament##rebounds per game####2012 Olympics##2.8||Tournament##assists per game####2012 Olympics##0.5
+Tournament##games played####2013 EuroBasket##11||Tournament##points per game####2013 EuroBasket##1.9||Tournament##rebounds per game####2013 EuroBasket##3.5||Tournament##assists per game####2013 EuroBasket##0.2
+Team##matches played####KR##18||Team##matches won####KR##11||Team##matches drawn####KR##4||Team##matches lost####KR##3||Team##goals for####KR##27||Team##goals against####KR##14||Team##points####KR##37||Team##position####KR##1
+Team##matches played####Fylkir##18||Team##matches won####Fylkir##10||Team##matches drawn####Fylkir##5||Team##matches lost####Fylkir##3||Team##goals for####Fylkir##39||Team##goals against####Fylkir##16||Team##points####Fylkir##35||Team##position####Fylkir##2
+Team##matches played####Grindavk##18||Team##matches won####Grindavk##8||Team##matches drawn####Grindavk##6||Team##matches lost####Grindavk##4||Team##goals for####Grindavk##25||Team##goals against####Grindavk##18||Team##points####Grindavk##30||Team##position####Grindavk##3
+Team##matches played####BV##18||Team##matches won####BV##8||Team##matches drawn####BV##5||Team##matches lost####BV##5||Team##goals for####BV##29||Team##goals against####BV##17||Team##points####BV##29||Team##position####BV##4
+Team##matches played####Stjarnan##18||Team##matches won####Stjarnan##4||Team##matches drawn####Stjarnan##5||Team##matches lost####Stjarnan##9||Team##goals for####Stjarnan##18||Team##goals against####Stjarnan##31||Team##points####Stjarnan##17||Team##position####Stjarnan##9
+Team##matches played####Leiftur##18||Team##matches won####Leiftur##3||Team##matches drawn####Leiftur##7||Team##matches lost####Leiftur##8||Team##goals for####Leiftur##24||Team##goals against####Leiftur##39||Team##points####Leiftur##16||Team##position####Leiftur##10
+Show##happening year####Boogie Woogie-Chalo America##2004||Show##tv channel####Boogie Woogie-Chalo America##SET (Sony Entertainment Television)
+Show##happening year####Saregamapa Challenge##2007 (MayOctober)||Show##tv channel####Saregamapa Challenge##Zee Network
+Show##happening year####Khatron Ke Khiladi season 4##2011 (JuneJuly)||Show##tv channel####Khatron Ke Khiladi season 4##Colors
+Name##college####Brian Urlacher##New Mexico||Name##position####Brian Urlacher##S||Name##pick####Brian Urlacher##9
+Name##college####Mike Brown##Nebraska||Name##position####Mike Brown##S||Name##pick####Mike Brown##39
+Name##college####Dez White##Georgia Tech||Name##position####Dez White##WR||Name##pick####Dez White##69
+Name##college####Dustin Lyman##Wake Forest||Name##position####Dustin Lyman##TE||Name##pick####Dustin Lyman##87
+Name##college####Reggie Austin##Wake Forest||Name##position####Reggie Austin##DB||Name##pick####Reggie Austin##125
+Name##college####Frank Murphy##Kansas State||Name##position####Frank Murphy##WR||Name##pick####Frank Murphy##170
+Name##college####Paul Edinger##Michigan State||Name##position####Paul Edinger##K||Name##pick####Paul Edinger##174
+Name##college####James Cotton##Ohio State||Name##position####James Cotton##DE||Name##pick####James Cotton##223
+Name##college####Michael Green##Northwestern State||Name##position####Michael Green##S||Name##pick####Michael Green##254
+Nation##gold medals won####Japan##5||Nation##silver medals won####Japan##2||Nation##bronze medals won####Japan##0||Nation##total medals won####Japan##7||Nation##rank####Japan##1
+Nation##gold medals won####China##4||Nation##silver medals won####China##3||Nation##bronze medals won####China##2||Nation##total medals won####China##9||Nation##rank####China##2
+Nation##gold medals won####South Korea##0||Nation##silver medals won####South Korea##3||Nation##bronze medals won####South Korea##1||Nation##total medals won####South Korea##4||Nation##rank####South Korea##3
+Nation##gold medals won####North Korea##0||Nation##silver medals won####North Korea##1||Nation##bronze medals won####North Korea##0||Nation##total medals won####North Korea##1||Nation##rank####North Korea##4
+Nation##gold medals won####Chinese Taipei##0||Nation##silver medals won####Chinese Taipei##0||Nation##bronze medals won####Chinese Taipei##3||Nation##total medals won####Chinese Taipei##3||Nation##rank####Chinese Taipei##5
+Nation##gold medals won####Thailand##0||Nation##silver medals won####Thailand##0||Nation##bronze medals won####Thailand##3||Nation##total medals won####Thailand##3||Nation##rank####Thailand##5
+Game Title##release year####SWAT 3: Close Quarters Battle##1999||Game Title##platform####SWAT 3: Close Quarters Battle##Microsoft Windows||Game Title##developer####SWAT 3: Close Quarters Battle##Sierra Northwest||Game Title##publisher####SWAT 3: Close Quarters Battle##Sierra Entertainment
+Game Title##release year####SWAT: Global Strike Team##2003||Game Title##platform####SWAT: Global Strike Team##PlayStation 2, Xbox||Game Title##developer####SWAT: Global Strike Team##Argonaut Games||Game Title##publisher####SWAT: Global Strike Team##Argonaut Games Sierra Entertainment
+Game Title##release year####SWAT 4##2005||Game Title##platform####SWAT 4##Microsoft Windows||Game Title##developer####SWAT 4##Irrational Games||Game Title##publisher####SWAT 4##Vivendi Universal Games Sierra Entertainment
+Game Title##release year####SWAT 4: The Stetchkov Syndicate##2006||Game Title##platform####SWAT 4: The Stetchkov Syndicate##Microsoft Windows||Game Title##developer####SWAT 4: The Stetchkov Syndicate##Irrational Games||Game Title##publisher####SWAT 4: The Stetchkov Syndicate##Vivendi Universal Games Sierra Entertainment
+Game Title##release year####SWAT Force##2006||Game Title##platform####SWAT Force##Mobile phones||Game Title##developer####SWAT Force##Kaolink||Game Title##publisher####SWAT Force##Vivendi Games Mobile
+Game Title##release year####SWAT: Target Liberty##2007||Game Title##platform####SWAT: Target Liberty##PlayStation Portable||Game Title##developer####SWAT: Target Liberty##3G Studios||Game Title##publisher####SWAT: Target Liberty##Sierra Entertainment
+Game Title##release year####SWAT Elite Troops##2008||Game Title##platform####SWAT Elite Troops##Mobile phones||Game Title##developer####SWAT Elite Troops##Rovio Mobile||Game Title##publisher####SWAT Elite Troops##Vivendi Games Mobile
+Driver##position####Raffaele Pinto##1||Driver##co-driver####Raffaele Pinto##Arnaldo Bernacchini||Driver##car####Raffaele Pinto##Fiat Abarth 124 Rallye||Driver##points####Raffaele Pinto##20
+Driver##position####Ove Andersson##4||Driver##co-driver####Ove Andersson##Arne Hertz||Driver##car####Ove Andersson##Toyota Corolla||Driver##points####Ove Andersson##10
+Driver##position####Harry Kllstrm##5||Driver##co-driver####Harry Kllstrm##Claes Billstam||Driver##car####Harry Kllstrm##Datsun 260Z||Driver##points####Harry Kllstrm##8
+Driver##position####Bob Neyret##6||Driver##co-driver####Bob Neyret##Yveline Vanoni||Driver##car####Bob Neyret##Alpine-Renault A110 1800||Driver##points####Bob Neyret##6
+Driver##position####Georg Fischer##7||Driver##co-driver####Georg Fischer##Harald Gottlieb||Driver##car####Georg Fischer##BMW 2002||Driver##points####Georg Fischer##4
+Driver##position####Francisco Romozinho##8||Driver##co-driver####Francisco Romozinho##Jos Bernardo||Driver##car####Francisco Romozinho##Citron GS||Driver##points####Francisco Romozinho##3
+Driver##position####Chris Sclater##9||Driver##co-driver####Chris Sclater##Neil Wilson||Driver##car####Chris Sclater##Ford Escort RS1600||Driver##points####Chris Sclater##2
+Competition##happening year####European Indoor Championships##1985||Competition##venue####European Indoor Championships##Athens, Greece
+Competition##happening year####European Championships##1986||Competition##venue####European Championships##Stuttgart, West Germany
+Competition##happening year####European Indoor Championships##1987||Competition##venue####European Indoor Championships##Livin, France
+Competition##happening year####European Indoor Championships##1988||Competition##venue####European Indoor Championships##Budapest, Hungary
+Competition##happening year####Summer Olympics##1988||Competition##venue####Summer Olympics##Seoul, South Korea
+Competition##happening year####European Indoor Championships##1989||Competition##venue####European Indoor Championships##The Hague, Netherlands
+Competition##happening year####World Indoor Championships##1989||Competition##venue####World Indoor Championships##Budapest, Hungary
+Competition##happening year####European Indoor Championships##1990||Competition##venue####European Indoor Championships##Glasgow, Scotland
+Competition##happening year####European Indoor Championships##1990||Competition##venue####European Indoor Championships##Glasgow, Scotland
+Name##rank####Anabelle Rodrguez##Associate Justice||Name##age####Anabelle Rodrguez##64||Name##years until mandatory retirement####Anabelle Rodrguez##6 years||Name##appointed by####Anabelle Rodrguez##Sila Mara Caldern||Name##year appointed####Anabelle Rodrguez##2004
+Name##rank####Edgardo Rivera Garcia##Associate Justice||Name##age####Edgardo Rivera Garcia##59||Name##years until mandatory retirement####Edgardo Rivera Garcia##11 years||Name##appointed by####Edgardo Rivera Garcia##Luis Fortuo||Name##year appointed####Edgardo Rivera Garcia##2010
+Name##rank####Erick Kolthoff Caraballo##Associate Justice||Name##age####Erick Kolthoff Caraballo##53||Name##years until mandatory retirement####Erick Kolthoff Caraballo##17 years||Name##appointed by####Erick Kolthoff Caraballo##Luis Fortuo||Name##year appointed####Erick Kolthoff Caraballo##2009
+Name##rank####Federico Hernndez Denton##Chief Justice||Name##age####Federico Hernndez Denton##70||Name##years until mandatory retirement####Federico Hernndez Denton##0 year||Name##appointed by####Federico Hernndez Denton##Sila Mara Caldern||Name##year appointed####Federico Hernndez Denton##2004
+Name##rank####Liana Fiol Matta##Associate Justice||Name##age####Liana Fiol Matta##68||Name##years until mandatory retirement####Liana Fiol Matta##2 years||Name##appointed by####Liana Fiol Matta##Sila Mara Caldern||Name##year appointed####Liana Fiol Matta##2004
+Name##rank####Luis Estrella Martnez##Associate Justice||Name##age####Luis Estrella Martnez##43||Name##years until mandatory retirement####Luis Estrella Martnez##27 years||Name##appointed by####Luis Estrella Martnez##Luis Fortuo||Name##year appointed####Luis Estrella Martnez##2011
+Name##rank####Mildred Pabn Charneco##Associate Justice||Name##age####Mildred Pabn Charneco##57||Name##years until mandatory retirement####Mildred Pabn Charneco##13 years||Name##appointed by####Mildred Pabn Charneco##Luis Fortuo||Name##year appointed####Mildred Pabn Charneco##2009
+Name##rank####Rafael Martnez Torres##Associate Justice||Name##age####Rafael Martnez Torres##55||Name##years until mandatory retirement####Rafael Martnez Torres##15 years||Name##appointed by####Rafael Martnez Torres##Luis Fortuo||Name##year appointed####Rafael Martnez Torres##2009
+Name##rank####Roberto Feliberti Cintrn##Associate Justice||Name##age####Roberto Feliberti Cintrn##51||Name##years until mandatory retirement####Roberto Feliberti Cintrn##19 years||Name##appointed by####Roberto Feliberti Cintrn##Luis Fortuo||Name##year appointed####Roberto Feliberti Cintrn##2011
+Player##team played for####Shawn Gifford##Montreal Alouettes||Player##position####Shawn Gifford##OT||Player##college####Shawn Gifford##Charleston Southern||Player##pick count####Shawn Gifford##25
+Player##team played for####Kevin Eiben##Toronto Argonauts||Player##position####Kevin Eiben##S||Player##college####Kevin Eiben##Bucknell||Player##pick count####Kevin Eiben##26
+Player##team played for####Nick Tsatsaronis##Winnipeg Blue Bombers||Player##position####Nick Tsatsaronis##RB||Player##college####Nick Tsatsaronis##Memphis||Player##pick count####Nick Tsatsaronis##27
+Player##team played for####Ryan Donnelly##Hamilton Tiger-Cats||Player##position####Ryan Donnelly##OL||Player##college####Ryan Donnelly##McMaster||Player##pick count####Ryan Donnelly##28
+Player##team played for####Peter Moore##Montreal Alouettes||Player##position####Peter Moore##DL||Player##college####Peter Moore##Syracuse||Player##pick count####Peter Moore##29
+Player##team played for####Andrew Carter##Calgary Stampeders||Player##position####Andrew Carter##OL||Player##college####Andrew Carter##Bishop's||Player##pick count####Andrew Carter##30
+Player##team played for####Steven Maheu##Montreal Alouettes||Player##position####Steven Maheu##WR/QB||Player##college####Steven Maheu##Simon Fraser||Player##pick count####Steven Maheu##31
+Player##team played for####Kelly Bates##BC Lions||Player##position####Kelly Bates##OL||Player##college####Kelly Bates##Saskatchewan||Player##pick count####Kelly Bates##32
+Season##number of episodes####Season 1##20||Season##season premiere date####Season 1##March 4, 2006||Season##season finale date####Season 1##May 13, 2006
+Season##number of episodes####Season 2##52||Season##season premiere date####Season 2##October 7, 2006||Season##season finale date####Season 2##July 16, 2007
+Season##number of episodes####Season 3##44||Season##season premiere date####Season 3##October 15, 2007||Season##season finale date####Season 3##June 2, 2008
+Season##number of episodes####Season 4##48||Season##season premiere date####Season 4##October 13, 2008||Season##season finale date####Season 4##May 11, 2009
+Season##number of episodes####Season 5##40||Season##season premiere date####Season 5##October 12, 2009||Season##season finale date####Season 5##June 14, 2010
+Season##number of episodes####Season 6##20||Season##season premiere date####Season 6##September 6, 2010||Season##season finale date####Season 6##December 6, 2010
+Season##number of episodes####Season 7##8||Season##season premiere date####Season 7##October 29, 2013||Season##season finale date####Season 7##December 17, 2013
+Competition##happening year####Universiade##1999||Competition##venue####Universiade##Palma de Mallorca, Spain
+Competition##happening year####European Race Walking Cup##2001||Competition##venue####European Race Walking Cup##Dudince, Slovakia
+Competition##happening year####World Championships##2001||Competition##venue####World Championships##Edmonton, Canada
+Competition##happening year####Universiade##2001||Competition##venue####Universiade##Beijing, China
+Competition##happening year####European Championships##2002||Competition##venue####European Championships##Munich, Germany
+Competition##happening year####World Championships##2003||Competition##venue####World Championships##Paris, France
+Player##transfer from football club####Neymar##Santos FC||Player##transfer fee ( millions)####Neymar##86||Player##transfer year####Neymar##2013
+Player##transfer from football club####Cesc Fbregas##Arsenal||Player##transfer fee ( millions)####Cesc Fbregas##29+5(variables)||Player##transfer year####Cesc Fbregas##2011
+Player##transfer from football club####Alexis Snchez##Udinese||Player##transfer fee ( millions)####Alexis Snchez##26+11(add ons)||Player##transfer year####Alexis Snchez##2011
+Player##transfer from football club####Javier Mascherano##Liverpool||Player##transfer fee ( millions)####Javier Mascherano##26.8||Player##transfer year####Javier Mascherano##2010
+Player##transfer from football club####Alex Song##Arsenal||Player##transfer fee ( millions)####Alex Song##19||Player##transfer year####Alex Song##2012
+Player##transfer from football club####Jordi Alba##Valencia||Player##transfer fee ( millions)####Jordi Alba##14||Player##transfer year####Jordi Alba##2012
+Player##transfer from football club####Adriano##Sevilla||Player##transfer fee ( millions)####Adriano##13.5||Player##transfer year####Adriano##2010
+Name##caps####Bedford Jezzard##3||Name##goals####Bedford Jezzard##6
+Name##caps####Tommy Taylor##2||Name##goals####Tommy Taylor##4
+Name##caps####Gordon Hill##6||Name##goals####Gordon Hill##4
+Name##caps####Alan Smith##4||Name##goals####Alan Smith##4
+Name##caps####Jack Rowley##1||Name##goals####Jack Rowley##3
+Name##caps####Brian Talbot##6||Name##goals####Brian Talbot##3
+Name##caps####Paul Merson##4||Name##goals####Paul Merson##3
+Name##caps####Matthew le Tissier##6||Name##goals####Matthew le Tissier##3
+Player##position####Eddie Giacomin##G||Player##retirement date####Eddie Giacomin##March 15, 1989
+Player##position####Brian Leetch##D||Player##retirement date####Brian Leetch##January 24, 2008
+Player##position####Harry Howell##D||Player##retirement date####Harry Howell##February 22, 2009
+Player##position####Rod Gilbert##RW||Player##retirement date####Rod Gilbert##October 14, 1979
+Player##position####Andy Bathgate##C||Player##retirement date####Andy Bathgate##February 22, 2009
+Player##position####Adam Graves##LW||Player##retirement date####Adam Graves##February 3, 2009
+Player##position####Mark Messier##C||Player##retirement date####Mark Messier##January 12, 2006
+Player##position####Mike Richter##G||Player##retirement date####Mike Richter##February 4, 2004
+Player##position####Wayne Gretzky##C||Player##retirement date####Wayne Gretzky##February 6, 2000
+Competition##happening year####Pan American Games##1983||Competition##venue####Pan American Games##Caracas, Venezuela
+Competition##happening year####Central American and Caribbean Championships##1985||Competition##venue####Central American and Caribbean Championships##Nassau, Bahamas
+Competition##happening year####Central American and Caribbean Games##1986||Competition##venue####Central American and Caribbean Games##Santiago de los Caballeros, DR
+Competition##happening year####Pan American Games##1987||Competition##venue####Pan American Games##Indianapolis, United States
+Competition##happening year####Central American and Caribbean Games##1990||Competition##venue####Central American and Caribbean Games##Mexico City, Mexico
+Competition##happening year####Goodwill Games##1990||Competition##venue####Goodwill Games##Seattle, United States
+Competition##happening year####Pan American Games##1991||Competition##venue####Pan American Games##Havana, Cuba
+Competition##happening year####World Championships##1991||Competition##venue####World Championships##Tokyo, Japan
+Building##location city####First Canadian Place##Toronto||Building##height (ctbuh)####First Canadian Place##298.1m (978ft) (355m (1,165ft) tip)||Building##number of floors####First Canadian Place##72
+Building##location city####Commerce Court West##Toronto||Building##height (ctbuh)####Commerce Court West##239.0m (784ft) (287.0m (942ft) tip)||Building##number of floors####Commerce Court West##57
+Building##location city####Toronto-Dominion Centre##Toronto||Building##height (ctbuh)####Toronto-Dominion Centre##222.8m (731ft)||Building##number of floors####Toronto-Dominion Centre##56
+Building##location city####Tour de la Bourse##Montreal||Building##height (ctbuh)####Tour de la Bourse##190.0m (623ft)||Building##number of floors####Tour de la Bourse##47
+Building##location city####Place Ville-Marie##Montreal||Building##height (ctbuh)####Place Ville-Marie##188.0m (617ft)||Building##number of floors####Place Ville-Marie##44
+Building##location city####Tour CIBC##Montreal||Building##height (ctbuh)####Tour CIBC##184.0m (604ft) (225.6m (740ft) tip)||Building##number of floors####Tour CIBC##45
+Building##location city####Commerce Court North##Toronto||Building##height (ctbuh)####Commerce Court North##145.0m (476ft)||Building##number of floors####Commerce Court North##34
+Diver##preliminary points####Juno Stover-Irwin(USA)##51.9||Diver##preliminary rank####Juno Stover-Irwin(USA)##6||Diver##final points####Juno Stover-Irwin(USA)##31.69||Diver##rank####Juno Stover-Irwin(USA)##4
+Diver##preliminary points####Raisa Gorokhovskaya(URS)##51.53||Diver##preliminary rank####Raisa Gorokhovskaya(URS)##8||Diver##final points####Raisa Gorokhovskaya(URS)##31.5||Diver##rank####Raisa Gorokhovskaya(URS)##5
+Diver##preliminary points####Norma Thomas(GBR)##51.77||Diver##preliminary rank####Norma Thomas(GBR)##7||Diver##final points####Norma Thomas(GBR)##30.44||Diver##rank####Norma Thomas(GBR)##7
+Diver##preliminary points####Nicolle Darrigrand-Pellissard(FRA)##49.68||Diver##preliminary rank####Nicolle Darrigrand-Pellissard(FRA)##12||Diver##final points####Nicolle Darrigrand-Pellissard(FRA)##31.5||Diver##rank####Nicolle Darrigrand-Pellissard(FRA)##5
+Diver##preliminary points####Phyllis Long(GBR)##52.12||Diver##preliminary rank####Phyllis Long(GBR)##5||Diver##final points####Phyllis Long(GBR)##28.86||Diver##rank####Phyllis Long(GBR)##9
+Diver##preliminary points####Irene MacDonald(CAN)##51.31||Diver##preliminary rank####Irene MacDonald(CAN)##9||Diver##final points####Irene MacDonald(CAN)##29.18||Diver##rank####Irene MacDonald(CAN)##8
+Diver##preliminary points####Kumiko Watanabe(JPN)##51.04||Diver##preliminary rank####Kumiko Watanabe(JPN)##10||Diver##final points####Kumiko Watanabe(JPN)##28.56||Diver##rank####Kumiko Watanabe(JPN)##10
+Diver##preliminary points####Kanoko Tsutani-Mabuchi(JPN)##49.76||Diver##preliminary rank####Kanoko Tsutani-Mabuchi(JPN)##11||Diver##final points####Kanoko Tsutani-Mabuchi(JPN)##28.14||Diver##rank####Kanoko Tsutani-Mabuchi(JPN)##11
+Diver##preliminary points####Birte Christoffersen-Hanson(SWE)##53.03||Diver##preliminary rank####Birte Christoffersen-Hanson(SWE)##4||Diver##final points####Birte Christoffersen-Hanson(SWE)##24.4||Diver##rank####Birte Christoffersen-Hanson(SWE)##12
+Nation##gold####China(CHN)##127||Nation##silver####China(CHN)##63||Nation##bronze####China(CHN)##33||Nation##total####China(CHN)##223||Nation##rank####China(CHN)##1
+Nation##gold####Japan(JPN)##46||Nation##silver####Japan(JPN)##56||Nation##bronze####Japan(JPN)##77||Nation##total####Japan(JPN)##179||Nation##rank####Japan(JPN)##2
+Nation##gold####South Korea(KOR)##32||Nation##silver####South Korea(KOR)##48||Nation##bronze####South Korea(KOR)##65||Nation##total####South Korea(KOR)##145||Nation##rank####South Korea(KOR)##3
+Nation##gold####Chinese Taipei(TPE)##12||Nation##silver####Chinese Taipei(TPE)##34||Nation##bronze####Chinese Taipei(TPE)##26||Nation##total####Chinese Taipei(TPE)##72||Nation##rank####Chinese Taipei(TPE)##4
+Nation##gold####Macau(MAC)##11||Nation##silver####Macau(MAC)##16||Nation##bronze####Macau(MAC)##17||Nation##total####Macau(MAC)##44||Nation##rank####Macau(MAC)##5
+Nation##gold####North Korea(PRK)##6||Nation##silver####North Korea(PRK)##10||Nation##bronze####North Korea(PRK)##20||Nation##total####North Korea(PRK)##36||Nation##rank####North Korea(PRK)##6
+Nation##gold####Hong Kong(HKG)##2||Nation##silver####Hong Kong(HKG)##2||Nation##bronze####Hong Kong(HKG)##9||Nation##total####Hong Kong(HKG)##13||Nation##rank####Hong Kong(HKG)##7
+Nation##gold####Mongolia(MGL)##1||Nation##silver####Mongolia(MGL)##1||Nation##bronze####Mongolia(MGL)##6||Nation##total####Mongolia(MGL)##8||Nation##rank####Mongolia(MGL)##8
+Nation##gold####Guam(GUM)##0||Nation##silver####Guam(GUM)##0||Nation##bronze####Guam(GUM)##1||Nation##total####Guam(GUM)##1||Nation##rank####Guam(GUM)##9
+Title##sung by####Dil Ka Haal Sune Dilwaala##Manna Dey||Title##written by####Dil Ka Haal Sune Dilwaala##Shailendra||Title##length####Dil Ka Haal Sune Dilwaala##5:36
+Title##sung by####Ichak Dana Beechak Dana##Mukesh, Lata Mangeshkar||Title##written by####Ichak Dana Beechak Dana##Hasrat Jaipuri||Title##length####Ichak Dana Beechak Dana##5:08
+Title##sung by####Mera Juta Hai Japani##Mukesh||Title##written by####Mera Juta Hai Japani##Shailendra||Title##length####Mera Juta Hai Japani##4:33
+Title##sung by####Mudh Mudh Ke Na Dekh##Lata Mangeshkar, Manna Dey||Title##written by####Mudh Mudh Ke Na Dekh##Shailendra||Title##length####Mudh Mudh Ke Na Dekh##6:34
+Title##sung by####O Janewale##Lata Mangeshkar||Title##written by####O Janewale##Hasrat Jaipuri||Title##length####O Janewale##2:20
+Title##sung by####Pyar Hua Iqrar Hua##Lata Mangeshkar, Manna Dey||Title##written by####Pyar Hua Iqrar Hua##Shailendra||Title##length####Pyar Hua Iqrar Hua##4:22
+Title##sung by####Ramaiya Vastavaiya##Mohammed Rafi, Lata Mangeshkar, Mukesh||Title##written by####Ramaiya Vastavaiya##Shailendra||Title##length####Ramaiya Vastavaiya##6:10
+Title##sung by####Sham Gayi Raat Aayi##Lata Mangeshkar||Title##written by####Sham Gayi Raat Aayi##Hasrat Jaipuri||Title##length####Sham Gayi Raat Aayi##4:00
+Player##nationality####Jim Farmer##United States||Player##position of play####Jim Farmer##Guard||Player##school####Jim Farmer##Alabama||Player##jersey no.####Jim Farmer##30
+Player##nationality####Derrick Favors##United States||Player##position of play####Derrick Favors##Forward||Player##school####Derrick Favors##Georgia Tech||Player##jersey no.####Derrick Favors##15
+Player##nationality####Kyrylo Fesenko##Ukraine||Player##position of play####Kyrylo Fesenko##Center||Player##school####Kyrylo Fesenko##Cherkasy Monkeys (Ukraine)||Player##jersey no.####Kyrylo Fesenko##44
+Player##nationality####Derek Fisher##United States||Player##position of play####Derek Fisher##Guard||Player##school####Derek Fisher##Arkansas-Little Rock||Player##jersey no.####Derek Fisher##2
+Player##nationality####Greg Foster##United States||Player##position of play####Greg Foster##Center/Forward||Player##school####Greg Foster##UTEP||Player##jersey no.####Greg Foster##44
+Player##nationality####Bernie Fryer##United States||Player##position of play####Bernie Fryer##Guard||Player##school####Bernie Fryer##BYU||Player##jersey no.####Bernie Fryer##25
+Player##nationality####Todd Fuller##United States||Player##position of play####Todd Fuller##Center||Player##school####Todd Fuller##North Carolina State||Player##jersey no.####Todd Fuller##52
+Player##nationality####Terry Furlow##United States||Player##position of play####Terry Furlow##Guard/Forward||Player##school####Terry Furlow##Michigan State||Player##jersey no.####Terry Furlow##25
+Political lieutenant##appointment district (area)####Georges-Henri Hon##Argenteuil (Laurentides)||Political lieutenant##took office####Georges-Henri Hon##1949||Political lieutenant##left office####Georges-Henri Hon##1949
+Political lieutenant##appointment district (area)####Lon Balcer##Trois-Rivires (Mauricie)||Political lieutenant##took office####Lon Balcer##1957||Political lieutenant##left office####Lon Balcer##1965
+Political lieutenant##appointment district (area)####Marcel Faribault##none||Political lieutenant##took office####Marcel Faribault##1967||Political lieutenant##left office####Marcel Faribault##1968
+Political lieutenant##appointment district (area)####Claude Wagner##Saint-Hyacinthe (Montrgie)||Political lieutenant##took office####Claude Wagner##1972||Political lieutenant##left office####Claude Wagner##1978
+Political lieutenant##appointment district (area)####Lucien Bouchard##Lac-Saint-Jean (Saguenay-Lac-Saint-Jean)||Political lieutenant##took office####Lucien Bouchard##1988||Political lieutenant##left office####Lucien Bouchard##1990
+Political lieutenant##appointment district (area)####Benot Bouchard##Roberval (Saguenay-Lac-Saint-Jean)||Political lieutenant##took office####Benot Bouchard##1990||Political lieutenant##left office####Benot Bouchard##1993
+Political lieutenant##appointment district (area)####Monique Landry##BlainvilleDeux-Montagnes (Laurentides)||Political lieutenant##took office####Monique Landry##1993||Political lieutenant##left office####Monique Landry##1993
+Political lieutenant##appointment district (area)####Andr Bachand##RichmondArthabaska (Centre-du-Qubec & Eastern Townships)||Political lieutenant##took office####Andr Bachand##1998||Political lieutenant##left office####Andr Bachand##2004
+Athlete##nationality####Tamara Press##Soviet Union||Athlete##best mark####Tamara Press##18.14 metres||Athlete##place####Tamara Press##1
+Athlete##nationality####Renate Culmberger##Germany||Athlete##best mark####Renate Culmberger##17.61 metres||Athlete##place####Renate Culmberger##2
+Athlete##nationality####Galina Zybina##Soviet Union||Athlete##best mark####Galina Zybina##17.45 metres||Athlete##place####Galina Zybina##3
+Athlete##nationality####Valerie Young##New Zealand||Athlete##best mark####Valerie Young##17.26 metres||Athlete##place####Valerie Young##4
+Athlete##nationality####Margitta Helmbold##Germany||Athlete##best mark####Margitta Helmbold##16.91 metres||Athlete##place####Margitta Helmbold##5
+Athlete##nationality####Irina Press##Soviet Union||Athlete##best mark####Irina Press##16.71 metres||Athlete##place####Irina Press##6
+Religious group##population %####Hindu##80.46%||Religious group##growth (19912001)####Hindu##20.30%||Religious group##sex ratio (total)####Hindu##931||Religious group##literacy (%)####Hindu##65.10%||Religious group##work participation (%)####Hindu##40.40%
+Religious group##population %####Muslim##13.43%||Religious group##growth (19912001)####Muslim##29.30%||Religious group##sex ratio (total)####Muslim##936||Religious group##literacy (%)####Muslim##59.10%||Religious group##work participation (%)####Muslim##31.30%
+Religious group##population %####Christian##2.34%||Religious group##growth (19912001)####Christian##22.60%||Religious group##sex ratio (total)####Christian##1009||Religious group##literacy (%)####Christian##80.30%||Religious group##work participation (%)####Christian##39.70%
+Religious group##population %####Sikh##1.87%||Religious group##growth (19912001)####Sikh##18.20%||Religious group##sex ratio (total)####Sikh##893||Religious group##literacy (%)####Sikh##69.40%||Religious group##work participation (%)####Sikh##37.70%
+Religious group##population %####Buddhist##0.77%||Religious group##growth (19912001)####Buddhist##18.20%||Religious group##sex ratio (total)####Buddhist##953||Religious group##literacy (%)####Buddhist##72.70%||Religious group##work participation (%)####Buddhist##40.60%
+Religious group##population %####Animist, others##0.72%||Religious group##growth (19912001)####Animist, others##103.10%||Religious group##sex ratio (total)####Animist, others##992||Religious group##literacy (%)####Animist, others##47.00%||Religious group##work participation (%)####Animist, others##48.40%
+Religious group##population %####Jain##0.41%||Religious group##growth (19912001)####Jain##26.00%||Religious group##sex ratio (total)####Jain##940||Religious group##literacy (%)####Jain##94.10%||Religious group##work participation (%)####Jain##32.90%
+Team##driver####Newman/Haas Racing##Sbastien Bourdais||Team##engine####Newman/Haas Racing##Ford-Cosworth||Team##chassis####Newman/Haas Racing##Lola||Team##race distance laps####Newman/Haas Racing##88||Team##race time####Newman/Haas Racing##1:38:55||Team##average speed (mph)####Newman/Haas Racing##105.302
+Team##driver####RuSPORT##Justin Wilson||Team##engine####RuSPORT##Ford-Cosworth||Team##chassis####RuSPORT##Lola||Team##race distance laps####RuSPORT##85||Team##race time####RuSPORT##1:40:30||Team##average speed (mph)####RuSPORT##100.112
+Team##driver####Newman/Haas/Lanigan Racing##Sbastien Bourdais||Team##engine####Newman/Haas/Lanigan Racing##Cosworth||Team##chassis####Newman/Haas/Lanigan Racing##Panoz||Team##race distance laps####Newman/Haas/Lanigan Racing##96||Team##race time####Newman/Haas/Lanigan Racing##1:45:41||Team##average speed (mph)####Newman/Haas/Lanigan Racing##107.517
+Team##driver####Chip Ganassi Racing##Scott Dixon||Team##engine####Chip Ganassi Racing##Honda||Team##chassis####Chip Ganassi Racing##Dallara||Team##race distance laps####Chip Ganassi Racing##91*||Team##race time####Chip Ganassi Racing##1:51:06||Team##average speed (mph)####Chip Ganassi Racing##96.967
+Team##driver####Penske Racing##Will Power||Team##engine####Penske Racing##Honda||Team##chassis####Penske Racing##Dallara||Team##race distance laps####Penske Racing##95||Team##race time####Penske Racing##1:42:42||Team##average speed (mph)####Penske Racing##109.498
+Team##driver####Chip Ganassi Racing##Scott Dixon||Team##engine####Chip Ganassi Racing##Honda||Team##chassis####Chip Ganassi Racing##Dallara||Team##race distance laps####Chip Ganassi Racing##95||Team##race time####Chip Ganassi Racing##1:50:37||Team##average speed (mph)####Chip Ganassi Racing##101.666
+Team##driver####Penske Racing##Will Power||Team##engine####Penske Racing##Honda||Team##chassis####Penske Racing##Dallara||Team##race distance laps####Penske Racing##80||Team##race time####Penske Racing##1:57:23||Team##average speed (mph)####Penske Racing##90.949
+Team##driver####Penske Racing##Hlio Castroneves||Team##engine####Penske Racing##Chevrolet||Team##chassis####Penske Racing##Dallara||Team##race distance laps####Penske Racing##75||Team##race time####Penske Racing##1:38:51||Team##average speed (mph)####Penske Racing##101.246
+Team##titles####Maccabi Tel Aviv##5||Team##runners-up####Maccabi Tel Aviv##1||Team##winning years####Maccabi Tel Aviv##2007, 2010, 2011, 2012, 2013
+Team##titles####Hapoel Jerusalem##2||Team##runners-up####Hapoel Jerusalem##3||Team##winning years####Hapoel Jerusalem##2008, 2009
+Team##titles####Ironi Ashkelon##1||Team##runners-up####Ironi Ashkelon##0||Team##winning years####Ironi Ashkelon##2006
+TOPS design code##electrical system####08-0LX##110 V||TOPS design code##maximum speed####08-0LX##15mph (24km/h)||TOPS design code##weight####08-0LX##50.4 te (502kN)||TOPS design code##brakes####08-0LX##dual
+TOPS design code##electrical system####08-0NA##90 V||TOPS design code##maximum speed####08-0NA##15mph (24km/h)||TOPS design code##weight####08-0NA##49.8 te (496kN)||TOPS design code##brakes####08-0NA##air
+TOPS design code##electrical system####08-0PA##90 V||TOPS design code##maximum speed####08-0PA##15mph (24km/h)||TOPS design code##weight####08-0PA##51 te (508kN)||TOPS design code##brakes####08-0PA##air
+TOPS design code##electrical system####08-0QA##90 V||TOPS design code##maximum speed####08-0QA##15mph (24km/h)||TOPS design code##weight####08-0QA##51 te (508kN)||TOPS design code##brakes####08-0QA##air
+TOPS design code##electrical system####08-0RA##110 V||TOPS design code##maximum speed####08-0RA##15mph (24km/h)||TOPS design code##weight####08-0RA##51 te (508kN)||TOPS design code##brakes####08-0RA##air
+Airport name##community####Antil Plains Aerodrome##Antil Plains||Airport name##type####Antil Plains Aerodrome##Military Airport||Airport name##coordinates####Antil Plains Aerodrome##192636S 1464929E / 19.44333S 146.82472E
+Airport name##community####Eagle Farm Airport##Eagle Farm, Brisbane||Airport name##type####Eagle Farm Airport##Military/Public Airport||Airport name##coordinates####Eagle Farm Airport##272530S 1530503E / 27.42500S 153.08417E
+Airport name##community####Breddan Aerodrome##Charters Towers||Airport name##type####Breddan Aerodrome##Military Airport||Airport name##coordinates####Breddan Aerodrome##195634S 1461421E / 19.94278S 146.23917E
+Airport name##community####Petrie Airfield##Petrie, Brisbane||Airport name##type####Petrie Airfield##Military Airport||Airport name##coordinates####Petrie Airfield##2717S 15300E / 27.283S 153.000E
+Airport name##community####Tarampa Airfield##Tarampa||Airport name##type####Tarampa Airfield##Military Airport||Airport name##coordinates####Tarampa Airfield##272719S 1522856E / 27.45528S 152.48222E
+Airport name##community####Aitkenvale Aerodrome##Townsville||Airport name##type####Aitkenvale Aerodrome##Military Airport||Airport name##coordinates####Aitkenvale Aerodrome##191845S 1464423E / 19.31250S 146.73972E
+Airport name##community####Bohle River Aerodrome##Townsville||Airport name##type####Bohle River Aerodrome##Military Airport||Airport name##coordinates####Bohle River Aerodrome##191658S 1464157E / 19.28278S 146.69917E
+Airport name##community####Reid River Airfield##Townsville||Airport name##type####Reid River Airfield##Military Airport||Airport name##coordinates####Reid River Airfield##194545S 1465040E / 19.76250S 146.84444E
+Player##matches played####Herbie Hewett##10||Player##innings played####Herbie Hewett##15||Player##runs scored####Herbie Hewett##543||Player##average runs####Herbie Hewett##38.79||Player##100s scored####Herbie Hewett##1||Player##50s scored####Herbie Hewett##2
+Player##matches played####Lionel Palairet##10||Player##innings played####Lionel Palairet##14||Player##runs scored####Lionel Palairet##408||Player##average runs####Lionel Palairet##29.14||Player##100s scored####Lionel Palairet##1||Player##50s scored####Lionel Palairet##1
+Player##matches played####Bill Roe##8||Player##innings played####Bill Roe##12||Player##runs scored####Bill Roe##316||Player##average runs####Bill Roe##28.73||Player##100s scored####Bill Roe##0||Player##50s scored####Bill Roe##1
+Player##matches played####George Nichols##13||Player##innings played####George Nichols##18||Player##runs scored####George Nichols##497||Player##average runs####George Nichols##27.61||Player##100s scored####George Nichols##1||Player##50s scored####George Nichols##3
+Player##matches played####John Challen##9||Player##innings played####John Challen##14||Player##runs scored####John Challen##286||Player##average runs####John Challen##20.43||Player##100s scored####John Challen##0||Player##50s scored####John Challen##1
+Player##matches played####Ted Tyler##13||Player##innings played####Ted Tyler##18||Player##runs scored####Ted Tyler##297||Player##average runs####Ted Tyler##18.56||Player##100s scored####Ted Tyler##0||Player##50s scored####Ted Tyler##0
+Player##matches played####Crescens Robinson##9||Player##innings played####Crescens Robinson##13||Player##runs scored####Crescens Robinson##162||Player##average runs####Crescens Robinson##14.73||Player##100s scored####Crescens Robinson##0||Player##50s scored####Crescens Robinson##0
+Player##matches played####Albert Clapp##11||Player##innings played####Albert Clapp##15||Player##runs scored####Albert Clapp##159||Player##average runs####Albert Clapp##10.6||Player##100s scored####Albert Clapp##0||Player##50s scored####Albert Clapp##0
+Athlete##nationality####Natalya Ivanova##Russia||Athlete##rank####Natalya Ivanova##1
+Athlete##nationality####Elodie Oudraogo##Belgium||Athlete##rank####Elodie Oudraogo##2
+Athlete##nationality####Yelena Yakovleva##Russia||Athlete##rank####Yelena Yakovleva##3
+Athlete##nationality####Monika Bejnar##Poland||Athlete##rank####Monika Bejnar##4
+Athlete##nationality####Nataliya Pyhyda##Ukraine||Athlete##rank####Nataliya Pyhyda##5
+Athlete##nationality####LaVerne Jones-Ferrette##United States Virgin Islands||Athlete##rank####LaVerne Jones-Ferrette##6
+Athlete##nationality####Grayna Prokopek##Poland||Athlete##rank####Grayna Prokopek##9
+Athlete##nationality####Nikolett Listr##Hungary||Athlete##rank####Nikolett Listr##10
+Branding##callsign####Mom's Radio 97.9 Laoag##DWSN-FM||Branding##operting frequency####Mom's Radio 97.9 Laoag##97.9MHz||Branding##power rating####Mom's Radio 97.9 Laoag##5kW||Branding##location####Mom's Radio 97.9 Laoag##Laoag
+Branding##callsign####Mom's Radio 95.9 Naga##DZRB-FM||Branding##operting frequency####Mom's Radio 95.9 Naga##95.9MHz||Branding##power rating####Mom's Radio 95.9 Naga##10kW||Branding##location####Mom's Radio 95.9 Naga##Naga
+Branding##callsign####Mom's Radio 90.3 Bacolod##DYCP-FM||Branding##operting frequency####Mom's Radio 90.3 Bacolod##90.3MHz||Branding##power rating####Mom's Radio 90.3 Bacolod##5kW||Branding##location####Mom's Radio 90.3 Bacolod##Bacolod
+Branding##callsign####DYAP 88.3 Cebu##DYAP-FM||Branding##operting frequency####DYAP 88.3 Cebu##88.3MHz||Branding##power rating####DYAP 88.3 Cebu##5kW||Branding##location####DYAP 88.3 Cebu##Cebu
+Branding##callsign####Mom's Radio 101.5 Tacloban##DYJP-FM||Branding##operting frequency####Mom's Radio 101.5 Tacloban##101.5MHz||Branding##power rating####Mom's Radio 101.5 Tacloban##2.5kW||Branding##location####Mom's Radio 101.5 Tacloban##Tacloban
+Branding##callsign####Mom's Radio 101.9 Zamboanga##DXJP-FM||Branding##operting frequency####Mom's Radio 101.9 Zamboanga##101.9MHz||Branding##power rating####Mom's Radio 101.9 Zamboanga##5kW||Branding##location####Mom's Radio 101.9 Zamboanga##Zamboanga
+Branding##callsign####DXSS 97.9 Davao##DXSS||Branding##operting frequency####DXSS 97.9 Davao##97.9MHz||Branding##power rating####DXSS 97.9 Davao##10kW||Branding##location####DXSS 97.9 Davao##Davao
+Nation##gold medals won####France##11||Nation##silver medals won####France##5||Nation##bronze medals won####France##3||Nation##total medals won####France##19||Nation##rank####France##1
+Nation##gold medals won####Greece##6||Nation##silver medals won####Greece##7||Nation##bronze medals won####Greece##6||Nation##total medals won####Greece##19||Nation##rank####Greece##2
+Nation##gold medals won####Yugoslavia##3||Nation##silver medals won####Yugoslavia##2||Nation##bronze medals won####Yugoslavia##1||Nation##total medals won####Yugoslavia##6||Nation##rank####Yugoslavia##3
+Nation##gold medals won####Spain##1||Nation##silver medals won####Spain##5||Nation##bronze medals won####Spain##5||Nation##total medals won####Spain##11||Nation##rank####Spain##4
+Nation##gold medals won####Morocco##1||Nation##silver medals won####Morocco##1||Nation##bronze medals won####Morocco##0||Nation##total medals won####Morocco##2||Nation##rank####Morocco##5
+Nation##gold medals won####Turkey##1||Nation##silver medals won####Turkey##1||Nation##bronze medals won####Turkey##0||Nation##total medals won####Turkey##2||Nation##rank####Turkey##5
+Nation##gold medals won####Egypt##0||Nation##silver medals won####Egypt##1||Nation##bronze medals won####Egypt##7||Nation##total medals won####Egypt##8||Nation##rank####Egypt##7
+Nation##gold medals won####Tunisia##0||Nation##silver medals won####Tunisia##1||Nation##bronze medals won####Tunisia##0||Nation##total medals won####Tunisia##1||Nation##rank####Tunisia##8
+Player##position played####Clyde E. Bastian##Halfback Fullback||Player##hometown####Clyde E. Bastian##Williamsport, PA||Player##height####Clyde E. Bastian##5.8feet||Player##weight####Clyde E. Bastian##168lbs||Player##age####Clyde E. Bastian##22
+Player##position played####Walter Neimann##Center End||Player##hometown####Walter Neimann##Hermansville, MI||Player##height####Walter Neimann##5.9feet||Player##weight####Walter Neimann##165lbs||Player##age####Walter Neimann##21
+Player##position played####Fred Rehor##Guard||Player##hometown####Fred Rehor##Hastings, MI||Player##height####Fred Rehor##6feet||Player##weight####Fred Rehor##262lbs||Player##age####Fred Rehor##21
+Player##position played####Lawrence Roehm##Quarterback||Player##hometown####Lawrence Roehm##Detroit, MI||Player##height####Lawrence Roehm##6feet||Player##weight####Lawrence Roehm##168lbs||Player##age####Lawrence Roehm##22
+Player##position played####Cedric C. Smith##Fullback||Player##hometown####Cedric C. Smith##Bay City, MI||Player##height####Cedric C. Smith##5.9feet||Player##weight####Cedric C. Smith##190lbs||Player##age####Cedric C. Smith##20
+Player##position played####Karl S. Staatz##End||Player##hometown####Karl S. Staatz##Tacoma, WA||Player##height####Karl S. Staatz##5.7feet||Player##weight####Karl S. Staatz##168lbs||Player##age####Karl S. Staatz##22
+Name##nationality####Liliya Dusmetova##Uzbekistan||Name##rank####Liliya Dusmetova##4
+Name##nationality####Jang Ok-Ju##North Korea||Name##rank####Jang Ok-Ju##10
+Location##location####H. Lee Dennison Building##Hauppauge||Location##output produced####H. Lee Dennison Building##1.75||Location##number of modules####H. Lee Dennison Building##7,737||Location##number of arrays####H. Lee Dennison Building##24
+Location##location####North County Complex##Hauppauge||Location##output produced####North County Complex##0.5||Location##number of modules####North County Complex##3,431||Location##number of arrays####North County Complex##9
+Location##location####Cohalan Court Complex##Central Islip||Location##output produced####Cohalan Court Complex##3.5||Location##number of modules####Cohalan Court Complex##15,113||Location##number of arrays####Cohalan Court Complex##27
+Location##location####Riverhead County Center##Riverside||Location##output produced####Riverhead County Center##3||Location##number of modules####Riverhead County Center##11,536||Location##number of arrays####Riverhead County Center##31
+Location##location####Brentwood LIRR Parking Lot##Brentwood||Location##output produced####Brentwood LIRR Parking Lot##1||Location##number of modules####Brentwood LIRR Parking Lot##3,924||Location##number of arrays####Brentwood LIRR Parking Lot##11
+Location##location####Deer Park LIRR Parking Lot##Deer Park||Location##output produced####Deer Park LIRR Parking Lot##2.25||Location##number of modules####Deer Park LIRR Parking Lot##3,924||Location##number of arrays####Deer Park LIRR Parking Lot##39
+Location##location####Ronkonkoma LIRR Parking Lot (south)##Ronkonkoma||Location##output produced####Ronkonkoma LIRR Parking Lot (south)##5||Location##number of modules####Ronkonkoma LIRR Parking Lot (south)##20,110||Location##number of arrays####Ronkonkoma LIRR Parking Lot (south)##44
+Player##points####Juan Martn del Potro##5115||Player##points defending####Juan Martn del Potro##720||Player##points won####Juan Martn del Potro##0||Player##rank####Juan Martn del Potro##5
+Player##points####Nikolay Davydenko##5145||Player##points defending####Nikolay Davydenko##360||Player##points won####Nikolay Davydenko##0||Player##rank####Nikolay Davydenko##6
+Player##points####Radek tpnek##1705||Player##points defending####Radek tpnek##90||Player##points won####Radek tpnek##0||Player##rank####Radek tpnek##20
+Player##points####Tommy Haas##1660||Player##points defending####Tommy Haas##180||Player##points won####Tommy Haas##0||Player##rank####Tommy Haas##23
+Player##points####Gilles Simon##1395||Player##points defending####Gilles Simon##90||Player##points won####Gilles Simon##0||Player##rank####Gilles Simon##32
+Player##points####Ivo Karlovi##1295||Player##points defending####Ivo Karlovi##10||Player##points won####Ivo Karlovi##0||Player##rank####Ivo Karlovi##36
+Player##points####Kim Clijsters##3890||Player##points defending####Kim Clijsters##0||Player##points won####Kim Clijsters##0||Player##rank####Kim Clijsters##10
+Contestant##represent####Casetie Lily Dubois Caravantes##Alta Verapaz||Contestant##age####Casetie Lily Dubois Caravantes##23||Contestant##height####Casetie Lily Dubois Caravantes##1.74m (5ft 812in)||Contestant##hometown####Casetie Lily Dubois Caravantes##Copn
+Contestant##represent####Wendy Karina Albizures del Cid##Chimaltenango||Contestant##age####Wendy Karina Albizures del Cid##19||Contestant##height####Wendy Karina Albizures del Cid##1.83m (6ft 0in)||Contestant##hometown####Wendy Karina Albizures del Cid##Chimaltenango
+Contestant##represent####Rita Elizabeth Meda Cojuln##Ciudad Capital||Contestant##age####Rita Elizabeth Meda Cojuln##19||Contestant##height####Rita Elizabeth Meda Cojuln##1.77m (5ft 912in)||Contestant##hometown####Rita Elizabeth Meda Cojuln##Ciudad Guatemala
+Contestant##represent####Ana Maribel Arana Ruiz##Guatemala||Contestant##age####Ana Maribel Arana Ruiz##22||Contestant##height####Ana Maribel Arana Ruiz##1.79m (5ft 1012in)||Contestant##hometown####Ana Maribel Arana Ruiz##Villa Nueva
+Contestant##represent####Jessica Jazmn Donab Chvez##Izabal||Contestant##age####Jessica Jazmn Donab Chvez##18||Contestant##height####Jessica Jazmn Donab Chvez##1.75m (5ft 9in)||Contestant##hometown####Jessica Jazmn Donab Chvez##Puerto Barrios
+Contestant##represent####Luz Yohana Marroqun Morn##Jalapa||Contestant##age####Luz Yohana Marroqun Morn##20||Contestant##height####Luz Yohana Marroqun Morn##1.76m (5ft 912in)||Contestant##hometown####Luz Yohana Marroqun Morn##Jalapa
+Contestant##represent####Clara Jennifer Chiong Estrada##Quetzaltenango||Contestant##age####Clara Jennifer Chiong Estrada##24||Contestant##height####Clara Jennifer Chiong Estrada##1.81m (5ft 1112in)||Contestant##hometown####Clara Jennifer Chiong Estrada##Quetzaltenango
+Name##nationality####Sonia Fonseca##Puerto Rico||Name##rank####Sonia Fonseca##4
+Name##nationality####Fabola Molina##Brazil||Name##rank####Fabola Molina##5
+Name##nationality####Isabel Rojas##Colombia||Name##rank####Isabel Rojas##6
+Name##nationality####Carolyn Adel##Suriname||Name##rank####Carolyn Adel##7
+Name##nationality####Edith Arraspide##Argentina||Name##rank####Edith Arraspide##8
+Title##label####Hotel New Yorker##Modern Hot Records||Title##id number####Hotel New Yorker##MHR 014||Title##release date####Hotel New Yorker##Jun-10
+Nation##gold medals won####Brazil##9||Nation##silver medals won####Brazil##0||Nation##bronze medals won####Brazil##0||Nation##total medals won####Brazil##9||Nation##rank####Brazil##1
+Nation##gold medals won####Argentina##0||Nation##silver medals won####Argentina##7||Nation##bronze medals won####Argentina##1||Nation##total medals won####Argentina##8||Nation##rank####Argentina##2
+Nation##gold medals won####Uruguay##0||Nation##silver medals won####Uruguay##1||Nation##bronze medals won####Uruguay##4||Nation##total medals won####Uruguay##5||Nation##rank####Uruguay##3
+Nation##gold medals won####Dominican Republic##0||Nation##silver medals won####Dominican Republic##1||Nation##bronze medals won####Dominican Republic##0||Nation##total medals won####Dominican Republic##1||Nation##rank####Dominican Republic##4
+Nation##gold medals won####Chile##0||Nation##silver medals won####Chile##0||Nation##bronze medals won####Chile##1||Nation##total medals won####Chile##1||Nation##rank####Chile##5
+Nation##gold medals won####Greenland##0||Nation##silver medals won####Greenland##0||Nation##bronze medals won####Greenland##1||Nation##total medals won####Greenland##1||Nation##rank####Greenland##5
+Nation##gold medals won####Paraguay##0||Nation##silver medals won####Paraguay##0||Nation##bronze medals won####Paraguay##1||Nation##total medals won####Paraguay##1||Nation##rank####Paraguay##5
+Nation##gold medals won####Puerto Rico##0||Nation##silver medals won####Puerto Rico##0||Nation##bronze medals won####Puerto Rico##1||Nation##total medals won####Puerto Rico##1||Nation##rank####Puerto Rico##5
+Nation##gold medals won####Netherlands(NED)##4||Nation##silver medals won####Netherlands(NED)##3||Nation##bronze medals won####Netherlands(NED)##2||Nation##total medals won####Netherlands(NED)##9||Nation##rank####Netherlands(NED)##1
+Nation##gold medals won####United States(USA)##2||Nation##silver medals won####United States(USA)##1||Nation##bronze medals won####United States(USA)##1||Nation##total medals won####United States(USA)##4||Nation##rank####United States(USA)##2
+Nation##gold medals won####West Germany(FRG)##2||Nation##silver medals won####West Germany(FRG)##0||Nation##bronze medals won####West Germany(FRG)##0||Nation##total medals won####West Germany(FRG)##2||Nation##rank####West Germany(FRG)##3
+Nation##gold medals won####Norway(NOR)##0||Nation##silver medals won####Norway(NOR)##2||Nation##bronze medals won####Norway(NOR)##2||Nation##total medals won####Norway(NOR)##4||Nation##rank####Norway(NOR)##4
+Nation##gold medals won####Soviet Union(URS)##0||Nation##silver medals won####Soviet Union(URS)##1||Nation##bronze medals won####Soviet Union(URS)##2||Nation##total medals won####Soviet Union(URS)##3||Nation##rank####Soviet Union(URS)##5
+Nation##gold medals won####Sweden(SWE)##0||Nation##silver medals won####Sweden(SWE)##1||Nation##bronze medals won####Sweden(SWE)##1||Nation##total medals won####Sweden(SWE)##2||Nation##rank####Sweden(SWE)##6
+Department##total deputies####La Paz##29||Department##uninominal deputies####La Paz##14||Department##plurinominal deputies####La Paz##14||Department##special indigenous or campesino deputies####La Paz##1||Department##senators####La Paz##4
+Department##total deputies####Santa Cruz##28||Department##uninominal deputies####Santa Cruz##14||Department##plurinominal deputies####Santa Cruz##13||Department##special indigenous or campesino deputies####Santa Cruz##1||Department##senators####Santa Cruz##4
+Department##total deputies####Cochabamba##19||Department##uninominal deputies####Cochabamba##9||Department##plurinominal deputies####Cochabamba##9||Department##special indigenous or campesino deputies####Cochabamba##1||Department##senators####Cochabamba##4
+Department##total deputies####Potos##13||Department##uninominal deputies####Potos##7||Department##plurinominal deputies####Potos##6||Department##special indigenous or campesino deputies####Potos##0||Department##senators####Potos##4
+Department##total deputies####Chuquisaca##10||Department##uninominal deputies####Chuquisaca##5||Department##plurinominal deputies####Chuquisaca##5||Department##special indigenous or campesino deputies####Chuquisaca##0||Department##senators####Chuquisaca##4
+Department##total deputies####Oruro##9||Department##uninominal deputies####Oruro##4||Department##plurinominal deputies####Oruro##4||Department##special indigenous or campesino deputies####Oruro##1||Department##senators####Oruro##4
+Department##total deputies####Tarija##9||Department##uninominal deputies####Tarija##4||Department##plurinominal deputies####Tarija##4||Department##special indigenous or campesino deputies####Tarija##1||Department##senators####Tarija##4
+Department##total deputies####Beni##8||Department##uninominal deputies####Beni##4||Department##plurinominal deputies####Beni##3||Department##special indigenous or campesino deputies####Beni##1||Department##senators####Beni##4
+Department##total deputies####Pando##5||Department##uninominal deputies####Pando##2||Department##plurinominal deputies####Pando##2||Department##special indigenous or campesino deputies####Pando##1||Department##senators####Pando##4
+Constituency number##name####Constituency 43##Tikamgarh||Constituency number##district####Constituency 43##Tikamgarh||Constituency number##number of electorates####Constituency 43##1,53,339
+Constituency number##name####Constituency 44##Jatara||Constituency number##district####Constituency 44##Tikamgarh||Constituency number##number of electorates####Constituency 44##1,45,555
+Constituency number##name####Constituency 45##Prithvipur||Constituency number##district####Constituency 45##Tikamgarh||Constituency number##number of electorates####Constituency 45##1,39,110
+Constituency number##name####Constituency 46##Niwari||Constituency number##district####Constituency 46##Tikamgarh||Constituency number##number of electorates####Constituency 46##1,41,265
+Constituency number##name####Constituency 47##Khargapur||Constituency number##district####Constituency 47##Tikamgarh||Constituency number##number of electorates####Constituency 47##1,61,546
+Constituency number##name####Constituency 48##Maharajpur||Constituency number##district####Constituency 48##Chhatarpur||Constituency number##number of electorates####Constituency 48##1,62,460
+Constituency number##name####Constituency 51##Chhatarpur||Constituency number##district####Constituency 51##Chhatarpur||Constituency number##number of electorates####Constituency 51##1,52,605
+Constituency number##name####Constituency 52##Bijawar||Constituency number##district####Constituency 52##Chhatarpur||Constituency number##number of electorates####Constituency 52##1,51,159
+Player##country of origin*####Danilo Ildefonso##Philippines||Player##pba team####Danilo Ildefonso##Formula Shell Zoom Masters||Player##college####Danilo Ildefonso##National||Player##pick####Danilo Ildefonso##1
+Player##country of origin*####Noy Castillo##United States||Player##pba team####Noy Castillo##San Miguel Beermen||Player##college####Noy Castillo##The Citadel||Player##pick####Noy Castillo##2
+Player##country of origin*####Ali Peek##United States||Player##pba team####Ali Peek##Pop Cola 800s||Player##college####Ali Peek##Saint Mary||Player##pick####Ali Peek##3
+Player##country of origin*####Brixter Encarnacion##Philippines||Player##pba team####Brixter Encarnacion##Pop Cola 800s||Player##college####Brixter Encarnacion##San Sebastian||Player##pick####Brixter Encarnacion##4
+Player##country of origin*####William Antonio##United States||Player##pba team####William Antonio##San Miguel Beermen||Player##college####William Antonio##Chaminade University||Player##pick####William Antonio##5
+Player##country of origin*####Banjo Calpito##Philippines||Player##pba team####Banjo Calpito##Sta. Lucia Realtors||Player##college####Banjo Calpito##San Sebastian||Player##pick####Banjo Calpito##6
+Player##country of origin*####Henry Fernandez##Philippines||Player##pba team####Henry Fernandez##Purefoods Carne Norte Beefies||Player##college####Henry Fernandez##Visayas||Player##pick####Henry Fernandez##7
+Player##country of origin*####Steven Smith##United States||Player##pba team####Steven Smith##Gordon's Gin Boars||Player##college####Steven Smith##United States International University||Player##pick####Steven Smith##8
+Name of place##principal county####Denver##Denver County||Name of place##zip code lower####Denver##80201||Name of place##zip code upper####Denver##95
+Hull##type####Hull 6##929-117||Hull##original name####Hull 6##Beetle||Hull##original operator####Hull 6##JR Kyushu Jet Ferries||Hull##delivery date####Hull 6##Jul-90
+Hull##type####Hull 15##929-117||Hull##original name####Hull 15##Emerald Wing||Hull##original operator####Hull 15##Kaijo Access Co.||Hull##delivery date####Hull 15##Jun-94
+Nation##gold medals won####Russia##3||Nation##silver medals won####Russia##0||Nation##bronze medals won####Russia##2||Nation##total medals won####Russia##5||Nation##rank####Russia##1
+Nation##gold medals won####Italy##1||Nation##silver medals won####Italy##1||Nation##bronze medals won####Italy##0||Nation##total medals won####Italy##2||Nation##rank####Italy##2
+Nation##gold medals won####Finland##0||Nation##silver medals won####Finland##1||Nation##bronze medals won####Finland##0||Nation##total medals won####Finland##1||Nation##rank####Finland##3
+Nation##gold medals won####Germany##0||Nation##silver medals won####Germany##1||Nation##bronze medals won####Germany##0||Nation##total medals won####Germany##1||Nation##rank####Germany##3
+Nation##gold medals won####Switzerland##0||Nation##silver medals won####Switzerland##1||Nation##bronze medals won####Switzerland##0||Nation##total medals won####Switzerland##1||Nation##rank####Switzerland##3
+Nation##gold medals won####France##0||Nation##silver medals won####France##0||Nation##bronze medals won####France##1||Nation##total medals won####France##1||Nation##rank####France##6
+Nation##gold medals won####Georgia##0||Nation##silver medals won####Georgia##0||Nation##bronze medals won####Georgia##1||Nation##total medals won####Georgia##1||Nation##rank####Georgia##6
+Name##nationality####Francisco Snchez##Venezuela||Name##time taken####Francisco Snchez##54.99||Name##rank####Francisco Snchez##4
+Name##nationality####Edward Parenti##Canada||Name##time taken####Edward Parenti##55.23||Name##rank####Edward Parenti##5
+Name##nationality####Diego Cuenca##Colombia||Name##time taken####Diego Cuenca##55.67||Name##rank####Diego Cuenca##6
+Name##nationality####Jos Meolans##Argentina||Name##time taken####Jos Meolans##55.91||Name##rank####Jos Meolans##7
+Name##nationality####Ruben Calderon##El Salvador||Name##time taken####Ruben Calderon##56.04||Name##rank####Ruben Calderon##8
+Name##club played for####Benik Afobe##Arsenal||Name##position####Benik Afobe##FW
+Name##club played for####Jay Spearing##Liverpool||Name##position####Jay Spearing##MF
+Name##club played for####Stephen Warnock##Aston Villa||Name##position####Stephen Warnock##DF
+Name##club played for####Jacob Butterfield##Norwich City||Name##position####Jacob Butterfield##MF
+Name##club played for####Craig Dawson##West Brom||Name##position####Craig Dawson##DF
+Name##club played for####Jn Gregu##Bank Ostrava||Name##position####Jn Gregu##MF
+Name##club played for####Steve De Ridder##Southampton||Name##position####Steve De Ridder##MF
+Name##club played for####Robert Hall##West Ham||Name##position####Robert Hall##FW
+Name##club played for####Danny Butterfield##Southampton||Name##position####Danny Butterfield##DF
+Nation##gold medals won####Cuba##4||Nation##silver medals won####Cuba##3||Nation##bronze medals won####Cuba##2||Nation##total medals won####Cuba##9||Nation##rank####Cuba##1
+Nation##gold medals won####Canada##4||Nation##silver medals won####Canada##2||Nation##bronze medals won####Canada##1||Nation##total medals won####Canada##7||Nation##rank####Canada##2
+Nation##gold medals won####United States##2||Nation##silver medals won####United States##0||Nation##bronze medals won####United States##2||Nation##total medals won####United States##4||Nation##rank####United States##3
+Nation##gold medals won####Mexico##1||Nation##silver medals won####Mexico##1||Nation##bronze medals won####Mexico##0||Nation##total medals won####Mexico##2||Nation##rank####Mexico##4
+Nation##gold medals won####Ecuador##1||Nation##silver medals won####Ecuador##0||Nation##bronze medals won####Ecuador##0||Nation##total medals won####Ecuador##1||Nation##rank####Ecuador##5
+Nation##gold medals won####Argentina##0||Nation##silver medals won####Argentina##4||Nation##bronze medals won####Argentina##3||Nation##total medals won####Argentina##7||Nation##rank####Argentina##6
+Nation##gold medals won####Brazil##0||Nation##silver medals won####Brazil##2||Nation##bronze medals won####Brazil##2||Nation##total medals won####Brazil##4||Nation##rank####Brazil##7
+Nation##gold medals won####Chile##0||Nation##silver medals won####Chile##0||Nation##bronze medals won####Chile##1||Nation##total medals won####Chile##1||Nation##rank####Chile##8
+Nation##gold medals won####Venezuela##0||Nation##silver medals won####Venezuela##0||Nation##bronze medals won####Venezuela##1||Nation##total medals won####Venezuela##1||Nation##rank####Venezuela##8
+Team##played####FH##18||Team##won####FH##14||Team##draw####FH##2||Team##lost####FH##2||Team##goals for####FH##47||Team##goals against####FH##20||Team##points####FH##44||Team##position####FH##1
+Team##played####Fylkir##18||Team##won####Fylkir##9||Team##draw####Fylkir##6||Team##lost####Fylkir##3||Team##goals for####Fylkir##39||Team##goals against####Fylkir##30||Team##points####Fylkir##33||Team##position####Fylkir##2
+Team##played####KS##18||Team##won####KS##5||Team##draw####KS##4||Team##lost####KS##9||Team##goals for####KS##38||Team##goals against####KS##46||Team##points####KS##19||Team##position####KS##9
+Team##played####rttur R.##18||Team##won####rttur R.##2||Team##draw####rttur R.##6||Team##lost####rttur R.##10||Team##goals for####rttur R.##27||Team##goals against####rttur R.##42||Team##points####rttur R.##12||Team##position####rttur R.##10
+Diver##preliminary points####Maria Marconi##264.25||Diver##preliminary rank####Maria Marconi##6||Diver##final points####Maria Marconi##290.15||Diver##rank####Maria Marconi##4
+Diver##preliminary points####Nadezhda Bazhina##262.75||Diver##preliminary rank####Nadezhda Bazhina##7||Diver##final points####Nadezhda Bazhina##286.2||Diver##rank####Nadezhda Bazhina##5
+Diver##preliminary points####Abby Johnston##282.4||Diver##preliminary rank####Abby Johnston##4||Diver##final points####Abby Johnston##282.85||Diver##rank####Abby Johnston##6
+Diver##preliminary points####Sharleen Stratton##282.45||Diver##preliminary rank####Sharleen Stratton##3||Diver##final points####Sharleen Stratton##281.65||Diver##rank####Sharleen Stratton##7
+Diver##preliminary points####Anna Lindberg##276.05||Diver##preliminary rank####Anna Lindberg##5||Diver##final points####Anna Lindberg##279.55||Diver##rank####Anna Lindberg##8
+Diver##preliminary points####Kelci Bryant##257||Diver##preliminary rank####Kelci Bryant##11||Diver##final points####Kelci Bryant##274.25||Diver##rank####Kelci Bryant##9
+Diver##preliminary points####Olena Fedorova##258.3||Diver##preliminary rank####Olena Fedorova##9||Diver##final points####Olena Fedorova##274.15||Diver##rank####Olena Fedorova##10
+Diver##preliminary points####Brittany Broben##257.1||Diver##preliminary rank####Brittany Broben##10||Diver##final points####Brittany Broben##267.2||Diver##rank####Brittany Broben##11
+Diver##preliminary points####Anastasia Pozdniakova##260||Diver##preliminary rank####Anastasia Pozdniakova##8||Diver##final points####Anastasia Pozdniakova##251.7||Diver##rank####Anastasia Pozdniakova##12
+Nation##gold medals won####China##10||Nation##silver medals won####China##5||Nation##bronze medals won####China##1||Nation##total medals won####China##16||Nation##rank####China##1
+Nation##gold medals won####North Korea##3||Nation##silver medals won####North Korea##3||Nation##bronze medals won####North Korea##4||Nation##total medals won####North Korea##10||Nation##rank####North Korea##2
+Nation##gold medals won####Japan##1||Nation##silver medals won####Japan##3||Nation##bronze medals won####Japan##3||Nation##total medals won####Japan##7||Nation##rank####Japan##3
+Nation##gold medals won####Chinese Taipei##1||Nation##silver medals won####Chinese Taipei##1||Nation##bronze medals won####Chinese Taipei##1||Nation##total medals won####Chinese Taipei##3||Nation##rank####Chinese Taipei##4
+Nation##gold medals won####Hong Kong##0||Nation##silver medals won####Hong Kong##1||Nation##bronze medals won####Hong Kong##0||Nation##total medals won####Hong Kong##1||Nation##rank####Hong Kong##5
+Nation##gold medals won####South Korea##0||Nation##silver medals won####South Korea##0||Nation##bronze medals won####South Korea##3||Nation##total medals won####South Korea##3||Nation##rank####South Korea##6
+Nation##gold medals won####India##0||Nation##silver medals won####India##0||Nation##bronze medals won####India##1||Nation##total medals won####India##1||Nation##rank####India##7
+Nation##gold medals won####Kazakhstan##0||Nation##silver medals won####Kazakhstan##0||Nation##bronze medals won####Kazakhstan##1||Nation##total medals won####Kazakhstan##1||Nation##rank####Kazakhstan##7
+Nation##gold medals won####Syria##0||Nation##silver medals won####Syria##0||Nation##bronze medals won####Syria##1||Nation##total medals won####Syria##1||Nation##rank####Syria##7
+Administrative area##area####Saint Helena##122 sq. km||Administrative area##population####Saint Helena##5,809||Administrative area##administrative centre####Saint Helena##Jamestown
+Administrative area##area####Ascension Island##91 sq. km||Administrative area##population####Ascension Island##1,532||Administrative area##administrative centre####Ascension Island##Georgetown
+Administrative area##area####Tristan da Cunha##184 sq. km||Administrative area##population####Tristan da Cunha##388||Administrative area##administrative centre####Tristan da Cunha##Edinburgh of the Seven Seas
+Administrative area##area####Tristan da Cunha##98 sq. km||Administrative area##population####Tristan da Cunha##382||Administrative area##administrative centre####Tristan da Cunha##Edinburgh of the Seven Seas
+Administrative area##area####Gough Island##68 sq. km||Administrative area##population####Gough Island##6||Administrative area##administrative centre####Gough Island##Transvaal Bay
+Team##matches played####Bhopal Badshahs##2||Team##matches won####Bhopal Badshahs##0||Team##matches drawn####Bhopal Badshahs##1||Team##matches lost####Bhopal Badshahs##1||Team##win percentage####Bhopal Badshahs##0.00%
+Team##matches played####Chennai Cheetahs##2||Team##matches won####Chennai Cheetahs##1||Team##matches drawn####Chennai Cheetahs##0||Team##matches lost####Chennai Cheetahs##1||Team##win percentage####Chennai Cheetahs##50.00%
+Team##matches played####Delhi Wizards##2||Team##matches won####Delhi Wizards##2||Team##matches drawn####Delhi Wizards##0||Team##matches lost####Delhi Wizards##0||Team##win percentage####Delhi Wizards##100.00%
+Team##matches played####Karnataka Lions##2||Team##matches won####Karnataka Lions##1||Team##matches drawn####Karnataka Lions##0||Team##matches lost####Karnataka Lions##1||Team##win percentage####Karnataka Lions##50.00%
+Team##matches played####Mumbai Marines##2||Team##matches won####Mumbai Marines##2||Team##matches drawn####Mumbai Marines##0||Team##matches lost####Mumbai Marines##0||Team##win percentage####Mumbai Marines##100.00%
+Team##matches played####Pune Strykers##3||Team##matches won####Pune Strykers##2||Team##matches drawn####Pune Strykers##0||Team##matches lost####Pune Strykers##1||Team##win percentage####Pune Strykers##66.67%
+Team##matches played####Sher-e-Punjab##2||Team##matches won####Sher-e-Punjab##1||Team##matches drawn####Sher-e-Punjab##0||Team##matches lost####Sher-e-Punjab##1||Team##win percentage####Sher-e-Punjab##50.00%
+Player##games played####Ralf Woods##16||Player##field goals####Ralf Woods##54||Player##free throws####Ralf Woods##70||Player##points####Ralf Woods##178
+Player##games played####Clyde Alwood##15||Player##field goals####Clyde Alwood##57||Player##free throws####Clyde Alwood##0||Player##points####Clyde Alwood##114
+Player##games played####Ernest McKay##15||Player##field goals####Ernest McKay##39||Player##free throws####Ernest McKay##3||Player##points####Ernest McKay##81
+Player##games played####Ray Woods##16||Player##field goals####Ray Woods##19||Player##free throws####Ray Woods##0||Player##points####Ray Woods##38
+Player##games played####John Felmley##6||Player##field goals####John Felmley##7||Player##free throws####John Felmley##4||Player##points####John Felmley##18
+Player##games played####George Halas##11||Player##field goals####George Halas##5||Player##free throws####George Halas##0||Player##points####George Halas##10
+Player##games played####R.C. Haas##3||Player##field goals####R.C. Haas##1||Player##free throws####R.C. Haas##0||Player##points####R.C. Haas##2
+Player##games played####Gordon Otto##4||Player##field goals####Gordon Otto##1||Player##free throws####Gordon Otto##0||Player##points####Gordon Otto##2
+Episode##air date####Episode 1##17-Apr-10||Episode##number of viewers####Episode 1##4.52m
+Episode##air date####Episode 2##24-Apr-10||Episode##number of viewers####Episode 2##4.41m
+Episode##air date####Episode 3##01-May-10||Episode##number of viewers####Episode 3##4.31m
+Episode##air date####Episode 4##08-May-10||Episode##number of viewers####Episode 4##4.44m
+Episode##air date####Episode 5##15-May-10||Episode##number of viewers####Episode 5##4.46m
+Episode##air date####Episode 6##22-May-10||Episode##number of viewers####Episode 6##Under 2.61m
+Episode##air date####Episode 7##29-May-10||Episode##number of viewers####Episode 7##4.68m
+Episode##air date####Episode 8##05-Jun-10||Episode##number of viewers####Episode 8##3.44m
+Nation##gold medals won####France##14||Nation##silver medals won####France##7||Nation##bronze medals won####France##7||Nation##total medals won####France##28||Nation##rank####France##1
+Nation##gold medals won####Italy##12||Nation##silver medals won####Italy##8||Nation##bronze medals won####Italy##10||Nation##total medals won####Italy##30||Nation##rank####Italy##2
+Nation##gold medals won####Slovenia##5||Nation##silver medals won####Slovenia##4||Nation##bronze medals won####Slovenia##3||Nation##total medals won####Slovenia##12||Nation##rank####Slovenia##3
+Nation##gold medals won####Spain##4||Nation##silver medals won####Spain##14||Nation##bronze medals won####Spain##6||Nation##total medals won####Spain##24||Nation##rank####Spain##4
+Nation##gold medals won####Greece##3||Nation##silver medals won####Greece##4||Nation##bronze medals won####Greece##9||Nation##total medals won####Greece##16||Nation##rank####Greece##5
+Nation##gold medals won####Tunisia##3||Nation##silver medals won####Tunisia##0||Nation##bronze medals won####Tunisia##0||Nation##total medals won####Tunisia##3||Nation##rank####Tunisia##6
+Nation##gold medals won####Algeria##2||Nation##silver medals won####Algeria##0||Nation##bronze medals won####Algeria##2||Nation##total medals won####Algeria##4||Nation##rank####Algeria##7
+Nation##gold medals won####Croatia##0||Nation##silver medals won####Croatia##3||Nation##bronze medals won####Croatia##3||Nation##total medals won####Croatia##6||Nation##rank####Croatia##8
+Nation##gold medals won####Egypt##0||Nation##silver medals won####Egypt##1||Nation##bronze medals won####Egypt##2||Nation##total medals won####Egypt##3||Nation##rank####Egypt##9
+Season##air date####Season 1##March 2, 2008||Season##time slot####Season 1##Sunday 9:00 P.M.||Season##rating####Season 1##9.4||Season##share####Season 1##14||Season##viewers####Season 1##15.55m||Season##weekly rank####Season 1##4
+Season##air date####Season 2##March 9, 2008||Season##time slot####Season 2##Sunday 9:00 P.M.||Season##rating####Season 2##7.4||Season##share####Season 2##11||Season##viewers####Season 2##11.83m||Season##weekly rank####Season 2##10
+Season##air date####Season 3##March 16, 2008||Season##time slot####Season 3##Sunday 9:00 P.M.||Season##rating####Season 3##6||Season##share####Season 3##9||Season##viewers####Season 3##9.71m||Season##weekly rank####Season 3##18
+Season##air date####Season 4##March 23, 2008||Season##time slot####Season 4##Sunday 9:00 P.M.||Season##rating####Season 4##6.1||Season##share####Season 4##10||Season##viewers####Season 4##9.92m||Season##weekly rank####Season 4##19
+Season##air date####Season 5##March 30, 2008||Season##time slot####Season 5##Sunday 9:00 P.M.||Season##rating####Season 5##7.1||Season##share####Season 5##11||Season##viewers####Season 5##11.35m||Season##weekly rank####Season 5##13
+Season##air date####Season 6##April 6, 2008||Season##time slot####Season 6##Sunday 9:00 P.M.||Season##rating####Season 6##5.9||Season##share####Season 6##9||Season##viewers####Season 6##9.42m||Season##weekly rank####Season 6##27
+Season##air date####Season 7##April 13, 2008||Season##time slot####Season 7##Sunday 8:00 P.M.||Season##rating####Season 7##5.6||Season##share####Season 7##9||Season##viewers####Season 7##8.88m||Season##weekly rank####Season 7##19
+Season##air date####Season 8##April 20, 2008||Season##time slot####Season 8##Sunday 8:00 P.M.||Season##rating####Season 8##6.4||Season##share####Season 8##10||Season##viewers####Season 8##10.03m||Season##weekly rank####Season 8##TBA
+Player##nationality####Rick Hampton##Canada||Player##college####Rick Hampton##St. Catharines Black Hawks (OHA)||Player##number of picks####Rick Hampton##3
+Player##nationality####Ron Chipperfield##Canada||Player##college####Ron Chipperfield##Brandon Wheat Kings (WCHL)||Player##number of picks####Ron Chipperfield##17
+Player##nationality####Bruce Affleck##Canada||Player##college####Bruce Affleck##University of Denver Pioneers (WCHA)||Player##number of picks####Bruce Affleck##21
+Player##nationality####Charlie Simmer##Canada||Player##college####Charlie Simmer##Sault Ste. Marie Greyhounds (OHA)||Player##number of picks####Charlie Simmer##39
+Player##nationality####Tom Price##Canada||Player##college####Tom Price##Ottawa 67's (OHA)||Player##number of picks####Tom Price##57
+Player##nationality####Jim Warden##United States||Player##college####Jim Warden##Michigan Tech Huskies (WCHA)||Player##number of picks####Jim Warden##75
+Player##nationality####Tom Sundberg##United States||Player##college####Tom Sundberg##St. Paul Vulcans (MidJHL)||Player##number of picks####Tom Sundberg##93
+Player##nationality####Tom Anderson##United States||Player##college####Tom Anderson##St. Paul Vulcans (MidJHL)||Player##number of picks####Tom Anderson##111
+Player##nationality####Jim McCabe##Canada||Player##college####Jim McCabe##Welland Sabres (SOJHL)||Player##number of picks####Jim McCabe##128
+Competition##happening year####Commonwealth Games##1994||Competition##venue####Commonwealth Games##Victoria, Canada
+Competition##happening year####World Championships##1995||Competition##venue####World Championships##Gothenburg, Sweden
+Competition##happening year####World Championships##1997||Competition##venue####World Championships##Athens, Greece
+Competition##happening year####Commonwealth Games##1998||Competition##venue####Commonwealth Games##Kuala Lumpur, Malaysia
+Competition##happening year####African Championships##1998||Competition##venue####African Championships##Dakar, Senegal
+Competition##happening year####All-Africa Games##1999||Competition##venue####All-Africa Games##Johannesburg, South Africa
+Name##nationality####Yelizaveta Bryzhina##Ukraine||Name##time####Yelizaveta Bryzhina##23.1||Name##rank####Yelizaveta Bryzhina##1
+Name##nationality####Myriam Soumar##France||Name##time####Myriam Soumar##23.22||Name##rank####Myriam Soumar##2
+Name##nationality####Ksenija Balta##Estonia||Name##time####Ksenija Balta##23.75||Name##rank####Ksenija Balta##3
+Name##nationality####Niamh Whelan##Ireland||Name##time####Niamh Whelan##23.78||Name##rank####Niamh Whelan##4
+Name##nationality####Shelley Cramer##U.S. Virgin Islands||Name##rank####Shelley Cramer##4
+Chip##flash size####AT90S1200##1k||Chip##eeprom size####AT90S1200##64||Chip##sram size####AT90S1200##0||Chip##operating frequency####AT90S1200##12 Mhz||Chip##package id####AT90S1200##PDIP-20
+Chip##flash size####AT90S2313##2k||Chip##eeprom size####AT90S2313##128||Chip##sram size####AT90S2313##128||Chip##operating frequency####AT90S2313##10 Mhz||Chip##package id####AT90S2313##PDIP-20
+Chip##flash size####AT90S/LS2323##2k||Chip##eeprom size####AT90S/LS2323##128||Chip##sram size####AT90S/LS2323##128||Chip##operating frequency####AT90S/LS2323##10 Mhz||Chip##package id####AT90S/LS2323##PDIP-8
+Chip##flash size####AT90S/LS2343##2k||Chip##eeprom size####AT90S/LS2343##128||Chip##sram size####AT90S/LS2343##128||Chip##operating frequency####AT90S/LS2343##10 Mhz||Chip##package id####AT90S/LS2343##PDIP-8
+Chip##flash size####AT90S4414##4k||Chip##eeprom size####AT90S4414##256||Chip##sram size####AT90S4414##256||Chip##operating frequency####AT90S4414##8 Mhz||Chip##package id####AT90S4414##PDIP-40
+Chip##flash size####AT90S/LS4434##4k||Chip##eeprom size####AT90S/LS4434##256||Chip##sram size####AT90S/LS4434##256||Chip##operating frequency####AT90S/LS4434##8 Mhz||Chip##package id####AT90S/LS4434##PDIP-40
+Chip##flash size####AT90S8515##8k||Chip##eeprom size####AT90S8515##512||Chip##sram size####AT90S8515##512||Chip##operating frequency####AT90S8515##8 Mhz||Chip##package id####AT90S8515##PDIP-40
+Chip##flash size####AT90S/LS8535##8k||Chip##eeprom size####AT90S/LS8535##512||Chip##sram size####AT90S/LS8535##512||Chip##operating frequency####AT90S/LS8535##8 Mhz||Chip##package id####AT90S/LS8535##PDIP-40
+Name##nationality####Nate Boyle##United States||Name##time####Nate Boyle##01:52.8||Name##rank####Nate Boyle##5
+Name##nationality####Yannick Lupien##Canada||Name##time####Yannick Lupien##01:52.9||Name##rank####Yannick Lupien##6
+Name##nationality####Joshua Ilika##Mexico||Name##time####Joshua Ilika##01:53.7||Name##rank####Joshua Ilika##7
+Name##nationality####Javier Daz##Mexico||Name##time####Javier Daz##01:54.0||Name##rank####Javier Daz##8
+Institution##location####Clemson University##Clemson, South Carolina||Institution##enrollment####Clemson University##20,576||Institution##nickname####Clemson University##Tigers||Institution##rugby played since####Clemson University##1967||Institution##head coach####Clemson University##Justin Hickey
+Institution##location####Maryland##College Park, Maryland||Institution##enrollment####Maryland##37,641||Institution##nickname####Maryland##Terrapins||Institution##rugby played since####Maryland##1968||Institution##head coach####Maryland##Jeff Soeken
+Institution##location####Navy##Annapolis, Maryland||Institution##enrollment####Navy##4,576||Institution##nickname####Navy##Midshipmen||Institution##rugby played since####Navy##1963||Institution##head coach####Navy##Mike Flanagan
+Institution##location####North Carolina##Chapel Hill, North Carolina||Institution##enrollment####North Carolina##29,340||Institution##nickname####North Carolina##Tar Heels||Institution##rugby played since####North Carolina##1966||Institution##head coach####North Carolina##Pete Earsman
+Institution##location####North Carolina State##Raleigh, North Carolina||Institution##enrollment####North Carolina State##34,767||Institution##nickname####North Carolina State##Wolfpack||Institution##rugby played since####North Carolina State##1965||Institution##head coach####North Carolina State##Jim Latham
+Institution##location####University of Virginia##Charlottesville, Virginia||Institution##enrollment####University of Virginia##20,895||Institution##nickname####University of Virginia##Cavaliers||Institution##rugby played since####University of Virginia##1961||Institution##head coach####University of Virginia##Jon Roberts
+Institution##location####Virginia Tech##Blacksburg, Virginia||Institution##enrollment####Virginia Tech##30,379||Institution##nickname####Virginia Tech##Hokies||Institution##rugby played since####Virginia Tech##1891 / 1968||Institution##head coach####Virginia Tech##Andy Richards
+Institution##location####Wake Forest##Winston-Salem, North Carolina||Institution##enrollment####Wake Forest##7,079||Institution##nickname####Wake Forest##Demon Deacons||Institution##rugby played since####Wake Forest##1973||Institution##head coach####Wake Forest##Patrick Kane
+Competition##happening year####World Championships##1991||Competition##venue####World Championships##Tokyo, Japan
+Event##host####2005 Details##Ninh Bnh||Event##champion####2005 Details##Tianjin Bridgestone||Event##second place####2005 Details##Chung Shan
+Event##host####2006 Details##Manila||Event##champion####2006 Details##Tianjin Bridgestone||Event##second place####2006 Details##Chung Shan
+Event##host####2008 Details##Vnh Phc||Event##champion####2008 Details##Tianjin Bridgestone||Event##second place####2008 Details##Sang Som
+Event##host####2009 Details##Nakhon Pathom||Event##champion####2009 Details##Federbrau||Event##second place####2009 Details##Tianjin Bridgestone
+Event##host####2010 Details##Gresik||Event##champion####2010 Details##Federbrau||Event##second place####2010 Details##Zhetysu Almaty
+Event##host####2011 Details##Vnh Phc||Event##champion####2011 Details##Chang||Event##second place####2011 Details##Tianjin Bridgestone
+Event##host####2012 Details##Nakhon Ratchasima||Event##champion####2012 Details##Tianjin Bridgestone||Event##second place####2012 Details##Toray Arrows
+Name##nationality####Andy Hughes##Notts County||Name##position####Andy Hughes##MF
+Name##nationality####Adrian Whitbread##Portsmouth||Name##position####Adrian Whitbread##DF
+Name##nationality####Alex Smith##Port Vale||Name##position####Alex Smith##DF
+Name##nationality####Antony Malessa##Oxford United||Name##position####Antony Malessa##GK
+Name##nationality####John Salako##Charlton Athletic||Name##position####John Salako##MF
+Name##nationality####Frank Talia##Sheffield United||Name##position####Frank Talia##GK
+Name##nationality####Kevin Watson##Charlton Athletic||Name##position####Kevin Watson##MF
+Competition##year####World Junior Championships##2000||Competition##venue####World Junior Championships##Santiago, Chile
+Competition##year####All-Africa Games##2003||Competition##venue####All-Africa Games##Abuja, Nigeria
+Competition##year####All-Africa Games##2003||Competition##venue####All-Africa Games##Abuja, Nigeria
+Competition##year####African Championships##2004||Competition##venue####African Championships##Brazzaville, Republic of the Congo
+Competition##year####Olympic Games##2004||Competition##venue####Olympic Games##Athens, Greece
+Competition##year####Commonwealth Games##2006||Competition##venue####Commonwealth Games##Melbourne, Australia
+Competition##year####Commonwealth Games##2006||Competition##venue####Commonwealth Games##Melbourne, Australia
+Competition##year####All-Africa Games##2007||Competition##venue####All-Africa Games##Algiers, Algeria
+Competition##year####African Championships##2008||Competition##venue####African Championships##Addis Ababa, Ethiopia
+Location##building type####Bischofsheim##Station building||Location##built in year####Bischofsheim##1958
+Location##building type####Rsselsheim##Linesmen house||Location##built in year####Rsselsheim##1863
+Location##building type####Raunheim##Station building||Location##built in year####Raunheim##1863
+Location##building type####Raunheim##Linesmen house||Location##built in year####Raunheim##1863
+Location##building type####Kelsterbach##Linesmen house||Location##built in year####Kelsterbach##1863
+Location##building type####Kelsterbach##Station building||Location##built in year####Kelsterbach##1863
+Location##building type####Stadion##Station building||Location##built in year####Stadion##1879
+Location##building type####Niederrad##Station building||Location##built in year####Niederrad##1882
+Competition##year####World Indoor Championships##1995||Competition##venue####World Indoor Championships##Barcelona, Spain
+Competition##year####Olympic Games##1996||Competition##venue####Olympic Games##Atlanta, Georgia, USA
+Competition##year####World Championships##1997||Competition##venue####World Championships##Athens, Greece
+Competition##year####European Indoor Championships##1998||Competition##venue####European Indoor Championships##Valencia, Spain
+Competition##year####European Championships##1998||Competition##venue####European Championships##Budapest, Hungary
+Competition##year####Olympic Games##2000||Competition##venue####Olympic Games##Sydney, Australia
+Event##happening year####Estadio Universitario Alberto Chivo Cordova##2008||Event##venue####Estadio Universitario Alberto Chivo Cordova##Toluca||Event##number of athletes####Estadio Universitario Alberto Chivo Cordova##44
+Event##happening year####Ansin Sports Complex##2010||Event##venue####Ansin Sports Complex##Miramar||Event##number of athletes####Ansin Sports Complex##44
+Event##happening year####Centro Paralmpico Nacional##2012||Event##venue####Centro Paralmpico Nacional##Irapuato||Event##number of athletes####Centro Paralmpico Nacional##44
+Name##nationality####Dyana Calub##Australia||Name##time taken####Dyana Calub##01:01.8||Name##rank####Dyana Calub##1
+Name##nationality####Natalie Coughlin##United States||Name##time taken####Natalie Coughlin##01:02.0||Name##rank####Natalie Coughlin##2
+Name##nationality####Noriko Inada##Japan||Name##time taken####Noriko Inada##01:02.0||Name##rank####Noriko Inada##3
+Name##nationality####Haley Cope##United States||Name##time taken####Haley Cope##01:02.1||Name##rank####Haley Cope##4
+Name##nationality####Diana MacManus##United States||Name##time taken####Diana MacManus##01:02.1||Name##rank####Diana MacManus##5
+Name##nationality####Courtney Shealy##United States||Name##time taken####Courtney Shealy##01:02.3||Name##rank####Courtney Shealy##6
+Name##nationality####Aya Terakawa##Japan||Name##time taken####Aya Terakawa##01:02.4||Name##rank####Aya Terakawa##7
+Name##nationality####Giaan Rooney##Australia||Name##time taken####Giaan Rooney##01:02.5||Name##rank####Giaan Rooney##8
+Name##nationality####Petra Chocov##Czech Republic||Name##rank####Petra Chocov##1||Name##time taken####Petra Chocov##2:30
+Name##nationality####Sycerika McMahon##Ireland||Name##rank####Sycerika McMahon##2||Name##time taken####Sycerika McMahon##2:45
+Name##nationality####Concepcion Badillo Diaz##Spain||Name##rank####Concepcion Badillo Diaz##3||Name##time taken####Concepcion Badillo Diaz##2:33
+Name##nationality####Katharina Stiberg##Norway||Name##rank####Katharina Stiberg##4||Name##time taken####Katharina Stiberg##2:11
+Name##nationality####Hrafnhildur Lthersdttir##Iceland||Name##rank####Hrafnhildur Lthersdttir##5||Name##time taken####Hrafnhildur Lthersdttir##2:21
+Name##nationality####Vilija Sereikaite##Lithuania||Name##time taken####Vilija Sereikaite##03:33.8||Name##speed####Vilija Sereikaite##50.522||Name##rank####Vilija Sereikaite##1
+Name##nationality####Ellen van Dijk##Netherlands||Name##time taken####Ellen van Dijk##03:36.0||Name##speed####Ellen van Dijk##50.011||Name##rank####Ellen van Dijk##2
+Name##nationality####Joanna Rowsell##United Kingdom||Name##time taken####Joanna Rowsell##03:37.6||Name##speed####Joanna Rowsell##49.623||Name##rank####Joanna Rowsell##3
+Name##nationality####Svitlana Halyuk##Ukraine||Name##time taken####Svitlana Halyuk##03:42.5||Name##speed####Svitlana Halyuk##48.539||Name##rank####Svitlana Halyuk##4
+Official Name##abbreviation####Toijalan Pallo-49##TP-49||Official Name##settlement####Toijalan Pallo-49##Toijala, Akaa||Official Name##district####Toijalan Pallo-49##Tampere||Official Name##division####Toijalan Pallo-49##Nelonen
+Team##location####Auckland City FC##Auckland||Team##stadium####Auckland City FC##Kiwitea Street||Team##manager####Auckland City FC##Ramon Tribulietx||Team##captain####Auckland City FC##Ivan Vicelich||Team##kit manufacturer####Auckland City FC##Nike||Team##shirt sponsor####Auckland City FC##Trillian Trust Inc.
+Team##location####Canterbury United##Christchurch||Team##stadium####Canterbury United##ASB Football Park||Team##manager####Canterbury United##Keith Braithwaite||Team##captain####Canterbury United##Dan Terris||Team##kit manufacturer####Canterbury United##Samurai||Team##shirt sponsor####Canterbury United##Robbie's Bar and Bistro
+Team##location####Hawke's Bay United##Napier||Team##stadium####Hawke's Bay United##Bluewater Stadium||Team##manager####Hawke's Bay United##Chris Greatholder||Team##captain####Hawke's Bay United##Bill Robertson||Team##kit manufacturer####Hawke's Bay United##Samurai||Team##shirt sponsor####Hawke's Bay United##Kinetic Electrical
+Team##location####Otago United##Dunedin||Team##stadium####Otago United##Forsyth Barr Stadium||Team##manager####Otago United##Richard Murray||Team##captain####Otago United##Tristan Prattley||Team##kit manufacturer####Otago United##Canterbury||Team##shirt sponsor####Otago United##Gran's Remedy
+Team##location####Team Wellington##Wellington||Team##stadium####Team Wellington##David Farrington Park||Team##manager####Team Wellington##Matt Calcott||Team##captain####Team Wellington##Karl Whalen||Team##kit manufacturer####Team Wellington##adidas||Team##shirt sponsor####Team Wellington##Exodus Health & Fitness Club
+Team##location####Waikato FC##Hamilton||Team##stadium####Waikato FC##Porritt Stadium||Team##manager####Waikato FC##Mark Cossey||Team##captain####Waikato FC##Adam Thomas||Team##kit manufacturer####Waikato FC##Nike||Team##shirt sponsor####Waikato FC##The Soccer Shop
+Team##location####Waitakere United##Waitakere City||Team##stadium####Waitakere United##Fred Taylor Park||Team##manager####Waitakere United##Paul Marshall||Team##captain####Waitakere United##Jake Butler||Team##kit manufacturer####Waitakere United##Lotto Sport Italia||Team##shirt sponsor####Waitakere United##Cuesports Foundation
+Team##location####YoungHeart Manawatu##Palmerston North||Team##stadium####YoungHeart Manawatu##Memorial Park||Team##manager####YoungHeart Manawatu##Stu Jacobs||Team##captain####YoungHeart Manawatu##Nathan Cooksley||Team##kit manufacturer####YoungHeart Manawatu##Nike||Team##shirt sponsor####YoungHeart Manawatu##New Zealand Pharmaceuticals
+Athlete##nationality####Laura Gerber##Switzerland||Athlete##time taken####Laura Gerber##02:01.4||Athlete##rank####Laura Gerber##4
+Athlete##nationality####Christiane dos Santos##Brazil||Athlete##time taken####Christiane dos Santos##02:01.5||Athlete##rank####Christiane dos Santos##5
+Athlete##nationality####Tamara Volkova##Ukraine||Athlete##time taken####Tamara Volkova##02:01.9||Athlete##rank####Tamara Volkova##6
+Athlete##nationality####Tatyana Yegorova##Russia||Athlete##time taken####Tatyana Yegorova##02:02.6||Athlete##rank####Tatyana Yegorova##7
+Athlete##nationality####Sandra Teixeira##Portugal||Athlete##time taken####Sandra Teixeira##02:03.0||Athlete##rank####Sandra Teixeira##8
+Nation##gold medals won####Malaysia##3||Nation##silver medals won####Malaysia##0||Nation##bronze medals won####Malaysia##1||Nation##total medals won####Malaysia##4||Nation##rank####Malaysia##1
+Nation##gold medals won####Indonesia##1||Nation##silver medals won####Indonesia##3||Nation##bronze medals won####Indonesia##2||Nation##total medals won####Indonesia##6||Nation##rank####Indonesia##2
+Nation##gold medals won####Korea##1||Nation##silver medals won####Korea##1||Nation##bronze medals won####Korea##2||Nation##total medals won####Korea##4||Nation##rank####Korea##3
+Nation##gold medals won####Thailand##1||Nation##silver medals won####Thailand##0||Nation##bronze medals won####Thailand##0||Nation##total medals won####Thailand##1||Nation##rank####Thailand##4
+Nation##gold medals won####Chinese Taipei##0||Nation##silver medals won####Chinese Taipei##1||Nation##bronze medals won####Chinese Taipei##2||Nation##total medals won####Chinese Taipei##3||Nation##rank####Chinese Taipei##5
+Nation##gold medals won####Denmark##0||Nation##silver medals won####Denmark##1||Nation##bronze medals won####Denmark##0||Nation##total medals won####Denmark##1||Nation##rank####Denmark##6
+Nation##gold medals won####Japan##0||Nation##silver medals won####Japan##0||Nation##bronze medals won####Japan##2||Nation##total medals won####Japan##2||Nation##rank####Japan##7
+Nation##gold medals won####India##0||Nation##silver medals won####India##0||Nation##bronze medals won####India##1||Nation##total medals won####India##1||Nation##rank####India##8
+Nation##gold medals won####Spain##0||Nation##silver medals won####Spain##0||Nation##bronze medals won####Spain##1||Nation##total medals won####Spain##1||Nation##rank####Spain##9
+Name##state of residence####Karl Rove##Texas||Name##took office####Karl Rove##January 21, 2001||Name##left office####Karl Rove##August 31, 2007||Name##president served under####Karl Rove##George W. Bush
+Name##state of residence####Barry Steven Jackson##Ohio||Name##took office####Barry Steven Jackson##September 1, 2007||Name##left office####Barry Steven Jackson##January 19, 2009||Name##president served under####Barry Steven Jackson##George W. Bush
+Name##state of residence####Pete Rouse##South Dakota||Name##took office####Pete Rouse##January 20, 2009||Name##left office####Pete Rouse##October 1, 2010||Name##president served under####Pete Rouse##Barack Obama
+Name##state of residence####David Axelrod##Illinois||Name##took office####David Axelrod##January 20, 2009||Name##left office####David Axelrod##January 10, 2011||Name##president served under####David Axelrod##Barack Obama
+Name##state of residence####David Plouffe##Delaware||Name##took office####David Plouffe##January 10, 2011||Name##left office####David Plouffe##January 25, 2013||Name##president served under####David Plouffe##Barack Obama
+Name##state of residence####Valerie Jarrett##Illinois||Name##took office####Valerie Jarrett##January 20, 2009||Name##left office####Valerie Jarrett##present||Name##president served under####Valerie Jarrett##Barack Obama
+Name##state of residence####Daniel Pfeiffer##Delaware||Name##took office####Daniel Pfeiffer##January 25, 2013||Name##left office####Daniel Pfeiffer##present||Name##president served under####Daniel Pfeiffer##Barack Obama
+Team Name##belonging school####(Lady) Cardinals##Benton High School||Team Name##town####(Lady) Cardinals##St. Joseph||Team Name##number of enrollment####(Lady) Cardinals##846
+Team Name##belonging school####(Lady) Golden Eagles##Bishop LeBlond High School||Team Name##town####(Lady) Golden Eagles##St. Joseph||Team Name##number of enrollment####(Lady) Golden Eagles##314
+Team Name##belonging school####(Lady) Dragons##Cameron High School||Team Name##town####(Lady) Dragons##Cameron||Team Name##number of enrollment####(Lady) Dragons##503
+Team Name##belonging school####(Lady) Hornets##Chillicothe High School (Missouri)||Team Name##town####(Lady) Hornets##Chillicothe||Team Name##number of enrollment####(Lady) Hornets##638
+Team Name##belonging school####Fighting Irish##Lafayette High School||Team Name##town####Fighting Irish##St. Joseph||Team Name##number of enrollment####Fighting Irish##801
+Team Name##belonging school####(Lady) Spoofhounds##Maryville High School||Team Name##town####(Lady) Spoofhounds##Maryville||Team Name##number of enrollment####(Lady) Spoofhounds##473
+Team Name##belonging school####(Lady) Savages##Savannah High School||Team Name##town####(Lady) Savages##Savannah||Team Name##number of enrollment####(Lady) Savages##743
+Team Name##belonging school####(Lady) Warriors##Smithville High School||Team Name##town####(Lady) Warriors##Smithville||Team Name##number of enrollment####(Lady) Warriors##727
+Player##college####Desmond Trufant##Washington||Player##playing position####Desmond Trufant##CB
+Player##college####Robert Alford##Southeastern Louisiana||Player##playing position####Robert Alford##CB
+Player##college####Malliciah Goodman##Clemson||Player##playing position####Malliciah Goodman##DE
+Player##college####Levine Toilolo##Stanford||Player##playing position####Levine Toilolo##TE
+Player##college####Stansly Maponga##TCU||Player##playing position####Stansly Maponga##DE
+Player##college####Kemal Ishmael##Central Florida||Player##playing position####Kemal Ishmael##S
+Player##college####Zeke Motta##Notre Dame||Player##playing position####Zeke Motta##S
+Player##college####Sean Renfree##Duke||Player##playing position####Sean Renfree##QB
+Name##nationality####Eskender Mustafaiev##Ukraine||Name##rank####Eskender Mustafaiev##1
+Name##nationality####David Smetanine##France||Name##rank####David Smetanine##2
+Name##nationality####Kyunghyun Kim##South Korea||Name##rank####Kyunghyun Kim##3
+Name##nationality####Christoffer Lindhe##Sweden||Name##rank####Christoffer Lindhe##4
+Menteri Besar##took office####Jaafar Mohamed##January 1886||Menteri Besar##left office####Jaafar Mohamed##July 1890
+Menteri Besar##took office####Mohamed Mahbob##Jun-20||Menteri Besar##left office####Mohamed Mahbob##Oct-22
+Menteri Besar##took office####Abdullah Jaafar##Sep-23||Menteri Besar##left office####Abdullah Jaafar##Dec-28
+Menteri Besar##took office####Mustapha Jaafar##September 16, 1928||Menteri Besar##left office####Mustapha Jaafar##November 23, 1931
+Menteri Besar##took office####Abdul Hamid Yusof##November 23, 1931||Menteri Besar##left office####Abdul Hamid Yusof##December 28, 1934
+Menteri Besar##took office####Ungku Abdul Aziz Abdul Majid##Apr-35||Menteri Besar##left office####Ungku Abdul Aziz Abdul Majid##June 1, 1947
+Menteri Besar##took office####Onn Jaafar##June 1, 1947||Menteri Besar##left office####Onn Jaafar##May 18, 1950
+Menteri Besar##took office####Syed Abdul Kadir Mohamed##February 18, 1952||Menteri Besar##left office####Syed Abdul Kadir Mohamed##June 5, 1955
+Menteri Besar##took office####Wan Idris Ibrahim##October 1, 1955||Menteri Besar##left office####Wan Idris Ibrahim##August 31, 1957
+Name##profession####Joseph L. Parker Jr.##Businessman||Name##hometown####Joseph L. Parker Jr.##Tulsa||Name##position####Joseph L. Parker Jr.##Chair||Name##term expires####Joseph L. Parker Jr.##2014
+Name##profession####Julie Carson##Attorney||Name##hometown####Julie Carson##Claremore||Name##position####Julie Carson##Vice Chair||Name##term expires####Julie Carson##2015
+Name##profession####Marlin Ike Glass##Businessman||Name##hometown####Marlin Ike Glass##Newkirk||Name##position####Marlin Ike Glass##Secretary||Name##term expires####Marlin Ike Glass##2016
+Name##profession####James D. Jimmy Harrel##Banker||Name##hometown####James D. Jimmy Harrel##Leedy||Name##position####James D. Jimmy Harrel##Assistant Secretary||Name##term expires####James D. Jimmy Harrel##2017
+Nation##gold####China##13||Nation##silver####China##9||Nation##bronze####China##13||Nation##total####China##35||Nation##rank####China##1
+Nation##gold####Japan##7||Nation##silver####Japan##10||Nation##bronze####Japan##7||Nation##total####Japan##24||Nation##rank####Japan##2
+Nation##gold####Uzbekistan##1||Nation##silver####Uzbekistan##2||Nation##bronze####Uzbekistan##3||Nation##total####Uzbekistan##6||Nation##rank####Uzbekistan##3
+Nation##gold####Kazakhstan##2||Nation##silver####Kazakhstan##2||Nation##bronze####Kazakhstan##0||Nation##total####Kazakhstan##4||Nation##rank####Kazakhstan##4
+Nation##gold####North Korea##1||Nation##silver####North Korea##0||Nation##bronze####North Korea##1||Nation##total####North Korea##2||Nation##rank####North Korea##5
+Nation##gold####South Korea##0||Nation##silver####South Korea##0||Nation##bronze####South Korea##2||Nation##total####South Korea##2||Nation##rank####South Korea##6
+Nation##gold medals won####Russia(RUS)##3||Nation##silver medals won####Russia(RUS)##1||Nation##bronze medals won####Russia(RUS)##1||Nation##total medals won####Russia(RUS)##5||Nation##rank####Russia(RUS)##1
+Nation##gold medals won####Canada(CAN)##2||Nation##silver medals won####Canada(CAN)##0||Nation##bronze medals won####Canada(CAN)##0||Nation##total medals won####Canada(CAN)##2||Nation##rank####Canada(CAN)##2
+Nation##gold medals won####Germany(GER)##1||Nation##silver medals won####Germany(GER)##3||Nation##bronze medals won####Germany(GER)##2||Nation##total medals won####Germany(GER)##6||Nation##rank####Germany(GER)##3
+Nation##gold medals won####France(FRA)##0||Nation##silver medals won####France(FRA)##1||Nation##bronze medals won####France(FRA)##2||Nation##total medals won####France(FRA)##3||Nation##rank####France(FRA)##4
+Nation##gold medals won####Belarus(BLR)##0||Nation##silver medals won####Belarus(BLR)##1||Nation##bronze medals won####Belarus(BLR)##0||Nation##total medals won####Belarus(BLR)##1||Nation##rank####Belarus(BLR)##5
+Nation##gold medals won####Ukraine(UKR)##0||Nation##silver medals won####Ukraine(UKR)##0||Nation##bronze medals won####Ukraine(UKR)##1||Nation##total medals won####Ukraine(UKR)##1||Nation##rank####Ukraine(UKR)##6
+Competition##year####World Junior Championships##1996||Competition##venue####World Junior Championships##Sydney, Australia
+Competition##year####Asian Junior Championships##1996||Competition##venue####Asian Junior Championships##New Delhi, India
+Competition##year####World Championships##1999||Competition##venue####World Championships##Seville, Spain
+Competition##year####East Asian Games##2001||Competition##venue####East Asian Games##Osaka, Japan
+Competition##year####Asian Championships##2002||Competition##venue####Asian Championships##Colombo, Sri Lanka
+Competition##year####Asian Games##2002||Competition##venue####Asian Games##Busan, South Korea
+Competition##year####Universiade##2003||Competition##venue####Universiade##Daegu, South Korea
+Name##nationality####Lacena Golding-Clarke##Jamaica||Name##rank####Lacena Golding-Clarke##1
+Name##nationality####Vonette Dixon##Jamaica||Name##rank####Vonette Dixon##2
+Name##nationality####Diane Allahgreen##England||Name##rank####Diane Allahgreen##3
+Name##nationality####Brigitte Foster##Jamaica||Name##rank####Brigitte Foster##4
+Name##nationality####Angela Atede##Nigeria||Name##rank####Angela Atede##5
+Name##nationality####Angela Whyte##Canada||Name##rank####Angela Whyte##6
+Name##nationality####Julie Pratt##England||Name##rank####Julie Pratt##7
+Name##nationality####Jacquie Munro##Australia||Name##rank####Jacquie Munro##8
+Athlete##nationality####Ruslan Dmytrenko##Ukraine||Athlete##rank####Ruslan Dmytrenko##7
+Athlete##nationality####Alex Schwazer##Italy||Athlete##rank####Alex Schwazer##9
+Athlete##nationality####James Rendn##Colombia||Athlete##rank####James Rendn##19
+Athlete##nationality####David Kimutai##Kenya||Athlete##rank####David Kimutai##32
+Athlete##nationality####Emerson Hernandez##El Salvador||Athlete##rank####Emerson Hernandez##37
+Athlete##nationality####Ronald Quispe##Bolivia||Athlete##rank####Ronald Quispe##38
+Event##circuit####Clipsal 500##Adelaide Street Circuit||Event##location####Clipsal 500##Adelaide, South Australia||Event##happening date####Clipsal 500##19-22 Mar||Event##winner####Clipsal 500##David Russell
+Event##circuit####Winton##Winton Motor Raceway||Event##location####Winton##Benalla, Victoria||Event##happening date####Winton##1-3 May||Event##winner####Winton##Jonathon Webb
+Event##circuit####Dunlop Townsville 400##Townsville Street Circuit||Event##location####Dunlop Townsville 400##Townsville, Queensland||Event##happening date####Dunlop Townsville 400##10-12 Jul||Event##winner####Dunlop Townsville 400##James Moffat
+Event##circuit####Norton 360 Sandown Challenge##Sandown Raceway||Event##location####Norton 360 Sandown Challenge##Melbourne, Victoria||Event##happening date####Norton 360 Sandown Challenge##31 Jul-Aug 2||Event##winner####Norton 360 Sandown Challenge##David Russell
+Event##circuit####Queensland House & Land 300##Queensland Raceway||Event##location####Queensland House & Land 300##Ipswich, Queensland||Event##happening date####Queensland House & Land 300##21-23 Aug||Event##winner####Queensland House & Land 300##Jonathon Webb
+Event##circuit####Supercheap Auto Bathurst 1000##Mount Panorama Circuit||Event##location####Supercheap Auto Bathurst 1000##Bathurst, New South Wales||Event##happening date####Supercheap Auto Bathurst 1000##8-11 Oct||Event##winner####Supercheap Auto Bathurst 1000##Jonathon Webb
+Event##circuit####Sydney Telstra 500##Homebush Street Circuit||Event##location####Sydney Telstra 500##Sydney, New South Wales||Event##happening date####Sydney Telstra 500##4-6 Dec||Event##winner####Sydney Telstra 500##Jonathon Webb
+Order ID##order year####N31##1893||Order ID##ordered quantity####N31##1||Order ID##ger numbers####N31##999
+Order ID##order year####H33##1893||Order ID##ordered quantity####H33##10||Order ID##ger numbers####H33##979988
+Order ID##order year####L33##1894||Order ID##ordered quantity####L33##10||Order ID##ger numbers####L33##989998
+Order ID##order year####E34##1894||Order ID##ordered quantity####E34##10||Order ID##ger numbers####E34##969978
+Order ID##order year####N37##1896||Order ID##ordered quantity####N37##10||Order ID##ger numbers####N37##959968
+Order ID##order year####H40##1897||Order ID##ordered quantity####H40##10||Order ID##ger numbers####H40##949958
+Order ID##order year####O41##1897||Order ID##ordered quantity####O41##10||Order ID##ger numbers####O41##602608, 946948
+Order ID##order year####G42##1898||Order ID##ordered quantity####G42##10||Order ID##ger numbers####G42##542551
+Order ID##order year####K43##1898||Order ID##ordered quantity####K43##10||Order ID##ger numbers####K43##562571
+Name##country played for####Melania Corradini##Italy||Name##run distance####Melania Corradini##54.72||Name##rank####Melania Corradini##5
+Name##country played for####Solne Jambaqu##France||Name##run distance####Solne Jambaqu##53.95||Name##rank####Solne Jambaqu##4
+Name##country played for####Mariya Papulova##Russia||Name##run distance####Mariya Papulova##55.35||Name##rank####Mariya Papulova##6
+Name##country played for####Katja Saarinen##Finland||Name##run distance####Katja Saarinen##56.45||Name##rank####Katja Saarinen##7
+Name##country played for####Anna Jochemsen##Netherlands||Name##run distance####Anna Jochemsen##01:00.1||Name##rank####Anna Jochemsen##8
+Name##country played for####Elena Kudyakova##Russia||Name##run distance####Elena Kudyakova##01:00.7||Name##rank####Elena Kudyakova##9
+Full Name##nickname####Chukwuebuka Nkemjika##Ebuka||Full Name##gender####Chukwuebuka Nkemjika##Female||Full Name##weight at birth####Chukwuebuka Nkemjika##690g (22 oz.)||Full Name##name meaning####Chukwuebuka Nkemjika##God is Big
+Full Name##nickname####Chidinma Anulika##Chidi||Full Name##gender####Chidinma Anulika##Female||Full Name##weight at birth####Chidinma Anulika##760g (24.4 oz.)||Full Name##name meaning####Chidinma Anulika##God is good
+Full Name##nickname####Chinecherem Nwabugwu##Echerem||Full Name##gender####Chinecherem Nwabugwu##Female||Full Name##weight at birth####Chinecherem Nwabugwu##800g (25.7 oz.)||Full Name##name meaning####Chinecherem Nwabugwu##God Thinks for Me
+Full Name##nickname####Chimaijem Otto##Chima||Full Name##gender####Chimaijem Otto##Female||Full Name##weight at birth####Chimaijem Otto##730g (23.5 oz.)||Full Name##name meaning####Chimaijem Otto##God Knows My Journey
+Full Name##nickname####Chijindu Chidera##Odera||Full Name##gender####Chijindu Chidera##Female||Full Name##weight at birth####Chijindu Chidera##320g (10.3 oz.)||Full Name##name meaning####Chijindu Chidera##God Holds My Life
+Full Name##nickname####Chukwubuikem Maduabuchi##Ikem||Full Name##gender####Chukwubuikem Maduabuchi##Male||Full Name##weight at birth####Chukwubuikem Maduabuchi##500g (16.0 oz.)||Full Name##name meaning####Chukwubuikem Maduabuchi##God is My Strength
+Full Name##nickname####Chijioke Chinedum##Jioke||Full Name##gender####Chijioke Chinedum##Male||Full Name##weight at birth####Chijioke Chinedum##810g (26.0 oz.)||Full Name##name meaning####Chijioke Chinedum##God holds my share
+Full Name##nickname####Chinagorom Chidiebere##Gorom||Full Name##gender####Chinagorom Chidiebere##Female||Full Name##weight at birth####Chinagorom Chidiebere##520g (16.7 oz.)||Full Name##name meaning####Chinagorom Chidiebere##God is My Advocate
+Nation##gold medals won####Venezuela##7||Nation##silver medals won####Venezuela##4||Nation##bronze medals won####Venezuela##3||Nation##total medals won####Venezuela##14||Nation##rank####Venezuela##1
+Nation##gold medals won####Bolivia##2||Nation##silver medals won####Bolivia##2||Nation##bronze medals won####Bolivia##2||Nation##total medals won####Bolivia##6||Nation##rank####Bolivia##2
+Nation##gold medals won####Chile##2||Nation##silver medals won####Chile##2||Nation##bronze medals won####Chile##2||Nation##total medals won####Chile##6||Nation##rank####Chile##2
+Nation##gold medals won####Peru##1||Nation##silver medals won####Peru##3||Nation##bronze medals won####Peru##3||Nation##total medals won####Peru##7||Nation##rank####Peru##4
+Nation##gold medals won####Ecuador##1||Nation##silver medals won####Ecuador##1||Nation##bronze medals won####Ecuador##1||Nation##total medals won####Ecuador##3||Nation##rank####Ecuador##5
+Nation##gold medals won####Colombia##0||Nation##silver medals won####Colombia##1||Nation##bronze medals won####Colombia##2||Nation##total medals won####Colombia##3||Nation##rank####Colombia##6
+Team##county####Greystones##Wicklow||Team##wins####Greystones##1||Team##year won####Greystones##2011
+Team##county####Ballymore Eustace##Kildare||Team##wins####Ballymore Eustace##1||Team##year won####Ballymore Eustace##2010
+Team##county####Maynooth##Kildare||Team##wins####Maynooth##1||Team##year won####Maynooth##2009
+Team##county####Ballyroan Abbey##Laois||Team##wins####Ballyroan Abbey##1||Team##year won####Ballyroan Abbey##2008
+Team##county####Fingal Ravens##Dublin||Team##wins####Fingal Ravens##1||Team##year won####Fingal Ravens##2007
+Team##county####Confey##Kildare||Team##wins####Confey##1||Team##year won####Confey##2006
+Team##county####Crettyard##Laois||Team##wins####Crettyard##1||Team##year won####Crettyard##2005
+Team##county####Wolfe Tones##Meath||Team##wins####Wolfe Tones##1||Team##year won####Wolfe Tones##2004
+Team##county####Dundalk Gaels##Louth||Team##wins####Dundalk Gaels##1||Team##year won####Dundalk Gaels##2003
+Nation##gold####Venezuela##9||Nation##silver####Venezuela##8||Nation##bronze####Venezuela##6||Nation##total####Venezuela##23||Nation##rank####Venezuela##1
+Nation##gold####Guatemala##6||Nation##silver####Guatemala##6||Nation##bronze####Guatemala##6||Nation##total####Guatemala##18||Nation##rank####Guatemala##2
+Nation##gold####Peru##5||Nation##silver####Peru##8||Nation##bronze####Peru##9||Nation##total####Peru##22||Nation##rank####Peru##3
+Nation##gold####Chile##4||Nation##silver####Chile##4||Nation##bronze####Chile##1||Nation##total####Chile##9||Nation##rank####Chile##4
+Nation##gold####El Salvador##4||Nation##silver####El Salvador##0||Nation##bronze####El Salvador##2||Nation##total####El Salvador##6||Nation##rank####El Salvador##5
+Nation##gold####Ecuador##2||Nation##silver####Ecuador##5||Nation##bronze####Ecuador##1||Nation##total####Ecuador##8||Nation##rank####Ecuador##6
+Nation##gold####Bolivia##2||Nation##silver####Bolivia##1||Nation##bronze####Bolivia##2||Nation##total####Bolivia##5||Nation##rank####Bolivia##7
+Nation##gold####Dominican Republic##1||Nation##silver####Dominican Republic##0||Nation##bronze####Dominican Republic##2||Nation##total####Dominican Republic##3||Nation##rank####Dominican Republic##8
+Nation##gold####Colombia##0||Nation##silver####Colombia##1||Nation##bronze####Colombia##3||Nation##total####Colombia##4||Nation##rank####Colombia##9
+Train##type####MLU001##Maglev||Train##operating location####MLU001##Miyazaki Maglev Test Track||Train##starting date####MLU001##Jan-86||Train##speed [km####MLU001##352.4 (219.0)
+Train##type####MLU001##Maglev||Train##operating location####MLU001##Miyazaki Maglev Test Track||Train##starting date####MLU001##Jan-87||Train##speed [km####MLU001##405.3 (251.8)
+Train##type####MLU002N##Maglev||Train##operating location####MLU002N##Miyazaki Maglev Test Track||Train##starting date####MLU002N##Feb-94||Train##speed [km####MLU002N##431 (267.8)
+Train##type####MLX01##Maglev||Train##operating location####MLX01##Yamanashi Maglev Test Line||Train##starting date####MLX01##24-Dec-97||Train##speed [km####MLX01##550 (341.8)
+Train##type####MLX01##Maglev||Train##operating location####MLX01##Yamanashi Maglev Test Line||Train##starting date####MLX01##18-Mar-99||Train##speed [km####MLX01##548 (340.5)
+Train Name##train number####1_Passenger##56654||Train Name##origin####1_Passenger##Mangalore Central||Train Name##destination####1_Passenger##Kozhikode
+Train Name##train number####1_Fast Passenger##56324||Train Name##origin####1_Fast Passenger##Mangalore Central||Train Name##destination####1_Fast Passenger##Coimbatore city Junction
+Train Name##train number####2_Passenger##56656||Train Name##origin####2_Passenger##Mangalore Central||Train Name##destination####2_Passenger##Kannur
+Train Name##train number####3_Passenger##56643/56645||Train Name##origin####3_Passenger##Mangalore Central||Train Name##destination####3_Passenger##Kabakaputtur
+Train Name##train number####4_Passenger##56640||Train Name##origin####4_Passenger##Mangalore Central||Train Name##destination####4_Passenger##Verna
+Train Name##train number####5_Passenger##56647||Train Name##origin####5_Passenger##Mangalore Central||Train Name##destination####5_Passenger##Subrahmanya Road
+Train Name##train number####6_Passenger##56661||Train Name##origin####6_Passenger##Mangalore Central||Train Name##destination####6_Passenger##Cheruvathur
+Train Name##train number####DEMU##70106||Train Name##origin####DEMU##Mangalore Central||Train Name##destination####DEMU##Bhatkal
+Name##nationality####Markus Rogan##Austria||Name##time####Markus Rogan##01:55.5||Name##rank####Markus Rogan##4
+Name##nationality####Hayden Stoeckel##Australia||Name##time####Hayden Stoeckel##01:56.4||Name##rank####Hayden Stoeckel##6
+Name##nationality####Bouabdellah Tahri##France||Name##time####Bouabdellah Tahri##08:20.3||Name##rank####Bouabdellah Tahri##4
+Name##nationality####Tim Broe##United States||Name##time####Tim Broe##08:20.8||Name##rank####Tim Broe##5
+Name##nationality####Luis Miguel Martn##Spain||Name##time####Luis Miguel Martn##08:24.0||Name##rank####Luis Miguel Martn##6
+Name##nationality####Raymond Yator##Kenya||Name##time####Raymond Yator##08:27.2||Name##rank####Raymond Yator##7
+Name##nationality####Thomas Chorny##United States||Name##time####Thomas Chorny##09:24.3||Name##rank####Thomas Chorny##8
+Name##alma mater####Jiang Qing##Shandong Provincial Experimental Theatre||Name##birth date####Jiang Qing##19-Mar-14||Name##marriage date####Jiang Qing##20-Nov-38
+Name##alma mater####Wang Guangmei##Fu Jen Catholic University||Name##birth date####Wang Guangmei##26-Sep-21||Name##marriage date####Wang Guangmei##21-Aug-48
+Name##alma mater####Wang Yeping##Shanghai Foreign Language Institute||Name##birth date####Wang Yeping##Feb-28||Name##marriage date####Wang Yeping##Dec-49
+Name##alma mater####Liu Yongqing##Tsinghua University||Name##birth date####Liu Yongqing##1940||Name##marriage date####Liu Yongqing##Feb-70
+Name##alma mater####Peng Liyuan##China Conservatory of Music||Name##birth date####Peng Liyuan##20-Nov-62||Name##marriage date####Peng Liyuan##01-Sep-87
+Competition##year####Beijing Marathon##2001||Competition##venue####Beijing Marathon##Beijing, PR China
+Competition##year####Beijing Marathon##2002||Competition##venue####Beijing Marathon##Beijing, PR China
+Competition##year####Olympic Games##2004||Competition##venue####Olympic Games##Athens, Greece
+Competition##year####Xiamen International Marathon##2007||Competition##venue####Xiamen International Marathon##Xiamen, PR China
+Competition##year####World Championships##2007||Competition##venue####World Championships##Osaka, Japan
+Competition##year####Olympic Games##2008||Competition##venue####Olympic Games##Beijing, PR China
+Swimmer##nationality####Claudia Poll##Costa Rica||Swimmer##rank####Claudia Poll##1
+Swimmer##nationality####Vanessa Garca##Puerto Rico||Swimmer##rank####Vanessa Garca##2
+Swimmer##nationality####Arlene Semeco##Venezuela||Swimmer##rank####Arlene Semeco##3
+Swimmer##nationality####Heysi Villarreal##Cuba||Swimmer##rank####Heysi Villarreal##4
+Swimmer##nationality####Marana lvarado##Mexico||Swimmer##rank####Marana lvarado##5
+Swimmer##nationality####Carolina Moreno##Mexico||Swimmer##rank####Carolina Moreno##6
+Swimmer##nationality####Isabella Tafur##Colombia||Swimmer##rank####Isabella Tafur##7
+Swimmer##nationality####Ximena Maria Vilr##Venezuela||Swimmer##rank####Ximena Maria Vilr##8
+Name##nationality####Michael Buchleitner##Austria||Name##time####Michael Buchleitner##07:54.4||Name##rank####Michael Buchleitner##5
+Name##nationality####Mindaugas Puktas##Lithuania||Name##time####Mindaugas Puktas##08:03.2||Name##rank####Mindaugas Puktas##8
+Name##nationality####Hyvin Jepkemoi##Kenya||Name##time####Hyvin Jepkemoi##15:42.6||Name##rank####Hyvin Jepkemoi##4
+Name##nationality####Esther Ndiema##Kenya||Name##time####Esther Ndiema##15:43.5||Name##rank####Esther Ndiema##5
+Name##nationality####Goytetom Gebresilasse##Ethiopia||Name##time####Goytetom Gebresilasse##15:49.9||Name##rank####Goytetom Gebresilasse##6
+Name##nationality####Angeline Myiramsabimana##Rwanda||Name##time####Angeline Myiramsabimana##16:24.0||Name##rank####Angeline Myiramsabimana##7
+Name##nationality####Mekdes Weldu##Eritrea||Name##time####Mekdes Weldu##16:42.7||Name##rank####Mekdes Weldu##8
+Name##nationality####Thandiwe Nyathy##Zimbabwe||Name##time####Thandiwe Nyathy##17:13.0||Name##rank####Thandiwe Nyathy##9
+Name##nationality####Janelle Atkinson##Jamaica||Name##time####Janelle Atkinson##04:16.9||Name##rank####Janelle Atkinson##1
+Name##nationality####Kaitlin Sandeno##United States||Name##time####Kaitlin Sandeno##04:19.0||Name##rank####Kaitlin Sandeno##3
+Name##nationality####Julia Stowers##United States||Name##time####Julia Stowers##04:19.8||Name##rank####Julia Stowers##4
+Team##number of wins####Detroit Tigers##104||Team##number of losses####Detroit Tigers##58||Team##win percentage####Detroit Tigers##0.642
+Team##number of wins####Toronto Blue Jays##89||Team##number of losses####Toronto Blue Jays##73||Team##win percentage####Toronto Blue Jays##0.549
+Team##number of wins####New York Yankees##87||Team##number of losses####New York Yankees##75||Team##win percentage####New York Yankees##0.537
+Team##number of wins####Boston Red Sox##86||Team##number of losses####Boston Red Sox##76||Team##win percentage####Boston Red Sox##0.531
+Team##number of wins####Baltimore Orioles##85||Team##number of losses####Baltimore Orioles##77||Team##win percentage####Baltimore Orioles##0.525
+Team##number of wins####Cleveland Indians##75||Team##number of losses####Cleveland Indians##87||Team##win percentage####Cleveland Indians##0.463
+Team##number of wins####Milwaukee Brewers##67||Team##number of losses####Milwaukee Brewers##94||Team##win percentage####Milwaukee Brewers##0.416
+Name##nationality####Wacharee Ritthiwat##Thailand||Name##time####Wacharee Ritthiwat##13.54||Name##rank####Wacharee Ritthiwat##4
+Name##nationality####Wang Kuo-Huei##Chinese Taipei||Name##time####Wang Kuo-Huei##13.25||Name##rank####Wang Kuo-Huei##6
+Athlete##time taken####Pinki Pramanik(IND)##53.06||Athlete##rank####Pinki Pramanik(IND)##4
+Athlete##time taken####Tang Xiaoyin(CHN)##53.66||Athlete##rank####Tang Xiaoyin(CHN)##5
+Athlete##time taken####Marina Maslyonko(KAZ)##53.99||Athlete##rank####Marina Maslyonko(KAZ)##6
+Athlete##time taken####Mayu Kida(JPN)##54.27||Athlete##rank####Mayu Kida(JPN)##7
+Athlete##time taken####Chandrika Subashini(SRI)##56.57||Athlete##rank####Chandrika Subashini(SRI)##8
+Candidate##votes####John McCain##701,761||Candidate##vote percentage####John McCain##36%||Candidate##counties won in####John McCain##45||Candidate##delegates####John McCain##57
+Candidate##votes####Mitt Romney##604,932||Candidate##vote percentage####Mitt Romney##31.03%||Candidate##counties won in####Mitt Romney##18||Candidate##delegates####Mitt Romney##0
+Candidate##votes####Rudy Giuliani##286,089||Candidate##vote percentage####Rudy Giuliani##14.68%||Candidate##counties won in####Rudy Giuliani##0||Candidate##delegates####Rudy Giuliani##0
+Candidate##votes####Mike Huckabee##262,681||Candidate##vote percentage####Mike Huckabee##13.47%||Candidate##counties won in####Mike Huckabee##4||Candidate##delegates####Mike Huckabee##0
+Candidate##votes####Ron Paul##62,887||Candidate##vote percentage####Ron Paul##3.23%||Candidate##counties won in####Ron Paul##0||Candidate##delegates####Ron Paul##0
+Candidate##votes####Fred Thompson*##22,668||Candidate##vote percentage####Fred Thompson*##1.16%||Candidate##counties won in####Fred Thompson*##0||Candidate##delegates####Fred Thompson*##0
+Candidate##votes####Alan Keyes##4,060||Candidate##vote percentage####Alan Keyes##0.21%||Candidate##counties won in####Alan Keyes##0||Candidate##delegates####Alan Keyes##0
+Candidate##votes####Duncan Hunter*##2,847||Candidate##vote percentage####Duncan Hunter*##0.15%||Candidate##counties won in####Duncan Hunter*##0||Candidate##delegates####Duncan Hunter*##0
+Candidate##votes####Tom Tancredo*##1,573||Candidate##vote percentage####Tom Tancredo*##0.08%||Candidate##counties won in####Tom Tancredo*##0||Candidate##delegates####Tom Tancredo*##0
