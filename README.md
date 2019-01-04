@@ -15,7 +15,7 @@
 * Change api link. code/lookupner/dbpedia_ner.py
 
 
-_For experimentation purpose models are directly loaded in the memory. But there is an option to create an rpc server to create an API (this is slower, but to try our different inputs it is useful). *Not needed to run experiment.py.* _
+_For experimentation purpose models are directly loaded in the memory. But there is an option to create an rpc server to create an API (this is slower, but to try our different inputs it is useful)._ *Not needed to run experiment.py*
 ## Generation server
 * To run: python S2SServer.py configurations/s2s.config.json
 
