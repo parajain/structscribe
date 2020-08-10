@@ -5,7 +5,7 @@
 
 ## Dataset
 
-* Link to download dataset: https://ibm.box.com/s/tmutm503e8z8ud09moq3xj6wkdb52dti
+* Link to download dataset: https://drive.google.com/file/d/1hOyqwA1MGEdKQeTqzW2e3az60e6fvOrt/view?usp=sharing
 * Above link contains: Dataset 1, 2 and 3 as describes in the paper
 
 ## Setup DBpedia Lookup
