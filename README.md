@@ -5,7 +5,7 @@
 
 ## Dataset
 
-* Link to download dataset: https://drive.google.com/file/d/1hOyqwA1MGEdKQeTqzW2e3az60e6fvOrt/view?usp=sharing
+* Link to download dataset: https://uoe-my.sharepoint.com/:u:/g/personal/s1959796_ed_ac_uk/Eedkftj_5J1ImdrvfV2WOUYBu5r8a9kbmsqiaiNZYk8b_g?e=3LvWKc
 * Above link contains: Dataset 1, 2 and 3 as describes in the paper
 
 ## Setup DBpedia Lookup
