@@ -5,7 +5,7 @@
 
 ## Dataset
 
-* Link to download dataset: https://www.dropbox.com/s/gisqm38pl9m31gm/Dataset.zip?dl=0
+* Link to download dataset: [link](https://zenodo.org/record/8079837)
 * Above link contains: Dataset 1, 2 and 3 as describes in the paper
 
 ## Setup DBpedia Lookup
